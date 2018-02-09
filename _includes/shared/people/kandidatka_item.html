@@ -1,0 +1,18 @@
+<div class="large-6 small-12 small-collapse columns end o-section-mediumdown-divided-small">
+  <div class="o-media o-media--top">
+    <div class="o-media__image o-media__image--lgspace thumbnail">
+      <img src="{{ item.photo  }}" alt="{{item.name}} - fotka" class="people">
+    </div>
+    <div class="o-media__body">
+      <h4 class="o-media__headline">
+        {{item.name}}
+      </h4>
+      <p>
+        {{ item.work }}</br>
+        {{ item.town }}</br>
+        {{ item.member }} ({{ item.age }} let)</br>
+        {% if item.profilelink %}<a href="{{ item.profilelink }}">Profil</a>{% endif %}
+      </p>
+    </div>
+  </div>
+</div>

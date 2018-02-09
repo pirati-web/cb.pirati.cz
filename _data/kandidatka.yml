@@ -1,0 +1,178 @@
+-
+  name: Lukáš Kolářík
+  age: 33
+  work: Živnostník, freelancer
+  town: Katovice
+  member: Piráti
+  profilelink: https://www.pirati.cz/lide/lukas_kolarik
+  photo: /assets/img/people/lukas_kolarik.jpg
+-
+  name: Ing. Oldřich Máca
+  age: 53
+  work: daňový poradce, farmář
+  town: Jindřichův Hradec
+  member: Piráti
+  profilelink: https://wiki.pirati.cz/lide/oldrich_maca
+  photo: /assets/img/people/oldrich_maca.jpg
+-
+  name: Bc. Jana Rohová
+  age: 30
+  work: koordinátorka dobrovolníků
+  town: Strakonice
+  member: Piráti
+  profilelink: https://www.pirati.cz/lide/jana_rohova
+  photo: /assets/img/people/jana_rohova.jpg
+-
+  name: Mgr. Václav Klecanda
+  age: 33
+  work: IT specialista, programátor
+  town: Tábor
+  member: Piráti
+  profilelink: https://www.pirati.cz/lide/vaclav_klecanda
+  photo: /assets/img/people/vaclav_klecanda.jpg
+-
+  name: Zbyněk Konvička
+  age: 42
+  work: redaktor, publicista
+  town: Písek
+  member: Piráti
+  profilelink: https://www.pirati.cz/lide/zbynek_konvicka
+  photo: /assets/img/people/zbynek_konvicka.jpg
+-
+  name: Ing. Martin Kákona
+  age: 50
+  work: vědecký pracovník ve výzkumu kosmického záření, komunální zastupitel
+  town: Soběslav
+  member: Piráti
+  profilelink: http://pirati.sobeslav.cz/profil-martin-kakona-1/
+  photo: /assets/img/people/martin_kakona.jpg
+-
+  name: Ing. Michal Horák
+  age: 52
+  work: IT specialista na operační systémy a správu databází
+  town: Písek
+  member: Piráti
+  profilelink: https://www.pirati.cz/lide/michal_horak
+  photo: /assets/img/people/michal_horak.jpg
+-
+  name: Simon Kostadinov
+  age: 22
+  work: realizační přípravář jaderne elektrárny Temelín
+  town: Týn nad Vltavou
+  member: Piráti
+  bio: neco
+  profilelink: https://www.pirati.cz/lide/simon_kostadinov
+  photo: /assets/img/people/simon.jpg
+-
+  name: Mgr. Martin Mareda
+  age: 41
+  work: adiktolog, hudebník
+  town: Tábor
+  member: Piráti
+  profilelink: https://wiki.pirati.cz/lide/martin_mareda
+  photo: https://wiki.pirati.cz/_media/lide/martin_mareda.jpg?w=150&h=250
+-
+  name: Markéta Kastnerová
+  age: 36
+  work: lékařka a VŠ pedagožka
+  town: České Budějovice
+  member: Nezávislá
+  profilelink:
+  photo: /assets/img/people/marketa_kastnerova.jpg
+-
+  name: Josef Soumar
+  age: 31
+  work: finančník
+  town: Písek
+  member: Piráti
+  profilelink: https://wiki.pirati.cz/lide/josef_soumar
+  photo: https://wiki.pirati.cz/_media/lide/josef_soumar.jpg?w=150&h=250
+-
+  name: Jindra Matlachová
+  age: 49
+  work: textařka, barmanka
+  town: Tábor
+  member: Piráti
+  profilelink: https://www.pirati.cz/lide/jindra_matlachova
+  photo: https://www.pirati.cz/_media/lide/jindra_matlachova.jpg?w=150&h=250
+-
+  name: Mgr. Václav Urban
+  age: 53
+  work: autor webu neuhaus.cz
+  town: Jindřichův Hradec
+  member: Piráti
+  profilelink: https://www.pirati.cz/lide/vaclav_urban
+  photo: https://wiki.pirati.cz/_media/lide/vaclav_urban.jpg?w=150&h=250
+-
+  name: Mgr. Dan Leština
+  age: 27
+  work: přírodovědec - zoolog, doktorand
+  town: České Budějovice
+  member: Piráti
+  profilelink: https://www.pirati.cz/lide/dan_lestina
+  photo: https://wiki.pirati.cz/_media/lide/dan_lestina.jpg?w=150&h=250
+-
+  name: Zuzana Drázdová
+  age: 20
+  work: studentka informatiky na MFF UK
+  town: Pištín
+  member: Piráti
+  profilelink: https://www.pirati.cz/lide/zuzana_drazdova
+  photo: /assets/img/people/zuzana_drazdova.jpg
+-
+  name: Martin Kučera
+  age: 43
+  work: OSVČ - Elektromechanik
+  town: Tábor
+  member: Piráti
+  profilelink: https://wiki.pirati.cz/lide/marthas_kucera
+  photo: /assets/img/people/martin_kucera.jpg
+-
+  name: Mgr. et Mgr. Barbora Staňková
+  age: 25
+  work: studentka
+  town: Prachatice
+  member: Nezávislý
+  profilelink: https://www.pirati.cz/lide/barbora_stankova
+  photo: /assets/img/people/barbora_stankova.jpg
+-
+  name: Ing. Ondřej Lešetický Ph.D.
+  age: 44
+  work: vysokoškolský pedagog, vědecký pracovník
+  town: Sezimovo Ústí
+  member: Piráti
+  profilelink: https://www.pirati.cz/lide/ondrej_leseticky
+  photo: https://wiki.pirati.cz/_media/lide/ondrej_leseticky.jpg?w=150&h=250
+-
+  name: Bc. Jan Novák
+  age: 26
+  work: politolog, vedoucí personálního odboru
+  town: Týn nad Vltavou
+  member: Piráti
+  profilelink: https://www.pirati.cz/lide/jan_novak
+  photo: /assets/img/people/jan_novak.jpg
+-
+  name: Ing. Jiří Princ
+  age: 55
+  work: obchodník se zemědělskou technikou
+  town: Otín
+  member: Piráti
+  profilelink: https://www.pirati.cz/lide/jiri_princ
+  photo: https://wiki.pirati.cz/lib/exe/fetch.php?hash=b1862e&media=http%3A%2F%2Fotevrenyhradec.cz%2Fwp-content%2Fuploads%2F2014%2F08%2FJiri_Princ.png
+-
+  name: Ivo Vlasatý
+  age: 26
+  work: otec v domácnosti, sezónní prodavač - pokladní
+  town: České Budějovice
+  member: Piráti
+  profilelink: https://www.pirati.cz/lide/ivo_vlasaty
+  photo: /assets/img/people/ivo_vlasaty.jpg
+-
+  name: Luděk Blaha
+  age: 60
+  work: Učitel
+  town: Písek
+  member: Piráti
+  bio: neco
+  profilelink: https://www.pirati.cz/lide/ludek_blaha
+  photo: https://www.pirati.cz/_media/lide/ludek_blaha.jpg?w=150&h=250

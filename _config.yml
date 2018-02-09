@@ -1,0 +1,42 @@
+
+# Site settings
+title: Piráti Jihočeský kraj
+email: lukas.kolarik@pirati.cz
+description: > # this means to ignore newlines until "baseurl:"
+    Piráti Jihočeský kraj
+baseurl: "" # "/jihocesky.pirati.cz" # the subpath of your site, e.g. /blog  http://stackoverflow.com/questions/16316311/github-pages-and-relative-paths/19173888#19173888
+url: "https://jihocesky.pirati.cz" # the base hostname & protocol for your site
+keywords: piráti
+
+githublink: https://github.com/pirati-web/jihocesky.pirati.cz/edit/gh-pages/
+
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+
+#collections:
+#  people:
+#    output: true
+#    permalink: /lide/:path/
+
+paginate_path: "/blog/:num/"
+paginate: 5
+articlepath: blog
+
+exclude:
+  - readme.md
+  - Gemfile
+  - Gemfile.lock
+  - package.json
+  - bower.json
+  - gulpfile.js
+  - node_modules
+  - bower_components
+  - vendor
+
+# Build settings
+markdown: kramdown
+cdn: true
+
+ytuname: piratijih@gmail.com

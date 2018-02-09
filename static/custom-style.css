@@ -1,0 +1,68 @@
+
+img.people {
+  width: 166px;
+  height: 250px;
+  object-fit: cover;
+  font-family: 'object-fit: cover;' /* polyfill for IE */
+}
+
+.top-bar-title {
+  font-size: 150%;
+}
+
+footer {
+  margin-top: 3em;
+}
+
+article {
+  margin-bottom: 2em;
+}
+
+article img {
+  margin-bottom: 0.8em;
+}
+
+
+/*.c-welcome-header {
+  background: url('/assets/img/cilovka.jpg') no-repeat;
+  background-size: cover;
+  height: 350px;
+}*/
+
+.pagination {
+  list-style-type: none;
+}
+
+.c-welcome-header {
+	height: 280px;
+}
+
+.c-welcome-header .c-welcome-header__quote {
+	padding-left: 1rem;
+}
+
+.c-welcome-header .c-welcome-header__quote::before {
+	content: none;
+}
+
+.c-welcome-header .c-welcome-header-wrapper.c-welcome-header-wrapper--wbg::before {
+  background: url("/assets/img/people-big.png") no-repeat;
+  width: 485px;
+  height: 225px;
+  background-size: 100%;
+}
+
+@media screen and (max-width: 39.9375em) {
+  .c-welcome-header .c-welcome-header-wrapper.c-welcome-header-wrapper--wbg::before {
+    width: 280px;
+    height: 130px;
+  }
+
+  .c-welcome-header {
+    height: 330px;
+  }
+
+  .c-welcome-header .c-welcome-header__quote {
+    padding-top: 0;
+  }
+}

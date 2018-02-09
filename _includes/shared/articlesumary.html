@@ -1,0 +1,12 @@
+
+<article>
+  <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+  <h6>
+    {% if post.author %}<autor class="radius label"><i class="fi-torso"></i> {{ post.author }}</autor> | {% endif %}
+    <i class="fi-calendar"></i> <time datetime="{{post.date|date:"%F"}}">{{post.date|date:"%d.%m.%Y"}}</time> |
+    <span class="category"><i class="fi-pricetag-multiple"></i> {{ post.tags | category_links }}</span>
+  </h6>
+  {% if post.image %}<img src="{{ post.image }}" alt="splash image" class="splash" />{% endif %}
+  {{ post.excerpt | markdownify }}
+  <a href="{{ post.url }}" class="right">Celý článek →</a>
+</article>
