@@ -10,7 +10,7 @@ keywords: piráti
 
 githublink: https://github.com/pirati-web/jihocesky.pirati.cz/edit/gh-pages/
 
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
