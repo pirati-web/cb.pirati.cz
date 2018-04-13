@@ -19,6 +19,12 @@ h1, h2, h3, h4, h5, .card-header {
   border-left: 3px solid #383076;
 }
 
+.pagesplash {
+  height: 300px;
+  background-size: contain;
+  margin-bottom: 2em;
+}
+
 .splashdiv {
   height: 10em;
   overflow: hidden;
