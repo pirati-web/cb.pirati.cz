@@ -1,29 +1,58 @@
 ---
 layout: default
-rbar: people, video
+section: blog
+description: Stránka táborské pirátské buňky s nejnovějšími články a základním rozcestníkem.
+keywords: organizace,transparence,politika
 ---
 
-{% include title_hero.html %}
-
-<div class="row">
-  <div class="medium-12 large-8 columns">
-    <section class="o-section o-section--spaceBot">
-      <div class="o-section-inner o-section-inner--leftBlock">
-        <header class="o-section-header">
-          <h1 class="o-section__heading">Aktuální témata</h1>
-        </header>
-        {% for article in site.posts limit: 4 %}
-          {% include shared/article-list/title_article.html param='article' %}
-        {% endfor %}
-        <div class="c-BlogPosting-excerpt-nextBox">
-          <a href="{{'/blog/' | relative_url}}" rel="next" class="button expanded large">Další články</a>
-        </div>
+<div class="callout">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-7 offset-lg-1">
+        <h1>JSME PIRÁTI ČESKOBUDĚJOVICKO</h1>
+        <!-- <h2>A POMÁHÁME NAŠEMU MĚSTU</h2> -->
       </div>
-    </section>
+    </div>
+    <div class="row">
+      <div class="col-sm-12 col-lg-7 offset-lg-1">
+        <p id="calloutpopis">
+          Naším cílem je obec, kde může každý člověk prožít svůj život svobodně a naplno.
+          Klíčem k prosperitě naší společnosti je otevřenost,
+          kvalitní vzdělání a veřejné služby,
+          použití nových technologií a zapojení občanů do rozhodování.
+        </p>
+      </div>
+    </div>
   </div>
-  {% if page.rbar %}
-  <div class="medium-12 large-4 columns">
-    {% include rbar.html param='rbar' %}
+</div>
+
+<div class="container">
+
+  <div class="row">
+    <div class="col-sm-12 col-lg-6">
+      <section id="posts">
+      {% for post in site.posts limit:2 %}
+        <div class="column">
+        {% include shared/articlesumary.html %}
+        </div>
+      {% endfor %}
+        <h4><a href="/clanky/">Ostatní články ...</a></h4>
+      </section>
+
+      <section id="akce" class="mt-3">
+        <h2>nejbližší akce</h2>
+
+        {% for item in site.data.akce limit:3 %}
+        {% include shared/eventsummary.html item=item %}
+        {% endfor %}
+
+      </section>
+
+    </div>
+
+    <div class="col-sm-12 col-lg-6">
+      {% include rightbar.html %}
+    </div>
   </div>
-  {% endif %}
+
 </div>

@@ -1,0 +1,31 @@
+<section id="cepice">
+  <div class="card">
+    <div class="card-header">
+      <h2>Če-Pi-Ce</h2>
+    </div>
+    <div class="card-body">
+      <p>
+        Českobudějovické Pirátské Centrum je ....
+      </p>
+      <h3>kalendář akcí</h3>
+      {% for item in site.data.akce_cepice %}
+        {% include shared/eventsummary.html item=item %}
+      {% endfor %}
+    </div>
+    <div class="card-footer">
+      <a href="/cepice/">více o čepici ...</a>
+    </div>
+  </div>
+</section>
+
+<section id="facebook">
+  <div class="card mt-3">
+    <div class="card-header">
+      sleduj nás na facebooku
+    </div>
+    <div class="card-body">
+      Naše faceboková stránka je:
+      <a href="{{ site.facebookurl }}" target="_blank">Piráti Českobudějovicko</a>
+    </div>
+  </div>
+</section>

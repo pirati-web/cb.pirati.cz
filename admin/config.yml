@@ -4,8 +4,7 @@ backend:
   branch: gh-pages              # Branch to update
   base_url: https://piraweboauth.herokuapp.com
 
-media_folder: "assets/img/posts"
-lang: "cs"
+media_folder: "static/media"
 
 collections: # A list of collections the CMS should be able to edit
   - name: "posts" # Used in routes, ie.: /admin/collections/:slug/edit
@@ -14,8 +13,9 @@ collections: # A list of collections the CMS should be able to edit
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
-      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
-      - {label: "Category", name: "category", widget: "hidden", default: "blog"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
+      - {label: "Publikováno", name: "published", widget: "boolean", default: true}
+      - {label: "Category", name: "category", widget: "hidden", default: "CLANKY"}
       - {label: "Titulek", name: "title", widget: "string", tagname: "h1", required: true}
       - {label: "Publikovano", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mma", required: true}
       - {label: "Autor", name: "author", widget: "string", required: true}

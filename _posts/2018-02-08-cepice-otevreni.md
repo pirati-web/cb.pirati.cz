@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 category: blog
 date: 2018-02-08
 tags: cepice
