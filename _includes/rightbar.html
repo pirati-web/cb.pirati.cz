@@ -25,19 +25,22 @@
     </div>
     <div class="card-body">
       Naše faceboková stránka je:
-      <a href="{{ site.facebookurl }}" target="_blank">Piráti Českobudějovicko</a>
+      <a href="{{ site.data.links.sidebar.facebook.url }}" target="_blank">
+        {{ site.data.links.sidebar.facebook.title }}
+      </a>
     </div>
   </div>
 </section>
 
 <section id="youtube">
   <div class="card mt-3">
-    <div class="card-header">
-      sleduj nás na youtube
-    </div>
+    <iframe height="315" src="{{ site.data.links.sidebar.youtube.video }}"
+      style="border: 0;" allowfullscreen="">
+    </iframe>
     <div class="card-body">
-      Naše faceboková stránka je:
-      <a href="{{ site.facebookurl }}" target="_blank">Piráti Českobudějovicko</a>
+      <a href="{{ site.data.links.sidebar.youtube.channel }}" target="_blank">
+        další videa na našem kanálu
+      </a>
     </div>
   </div>
 </section>

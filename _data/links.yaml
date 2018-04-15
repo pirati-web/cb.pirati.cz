@@ -15,6 +15,7 @@ sidebar:
     video: https://www.youtube.com/embed/GWQZ9PbQgko
   facebook:
     url: https://www.facebook.com/pirati.jck/
+    title: Piráti Českobudějovicko
   lide:
     link: '/kontakt/'
     items:
@@ -26,6 +27,8 @@ sidebar:
         link: https://www.pirati.cz/lide/jana_rohova
         name: Bc. Jana Rohová
         desc: kontaktní osoba, koordinátorka
+
+joinactionurl: https://joinform.herokuapp.com/cb
 
 calendar:
   bar: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=rm0h4oqjk2j2o0615sc4d1slfk%40group.calendar.google.com&amp;color=%23B1365F&amp;src=lpvmfpogihrca3lqs9p2udae0k%40group.calendar.google.com&amp;color=%238D6F47&amp;ctz=Europe%2FPrague
