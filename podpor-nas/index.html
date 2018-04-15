@@ -23,10 +23,11 @@ keywords: články, tábor, politika, pohled
     <section id="materials">
       <h2>propagační materiály ke stažení</h2>
 
-      <div markdown="1">
-        - [mat1](/link)
-        - [mat1](/link)
-      </div>
+      <ul>
+        {% for item in site.data.materialy %}
+          <li><a href="{{item.link}}">{{item.name}}</a></li>
+        {% endfor %}
+      </ul>
     </section>
 
   </div>
