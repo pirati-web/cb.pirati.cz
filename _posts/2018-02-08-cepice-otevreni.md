@@ -8,4 +8,4 @@ image: http://viasatexplore.cz/upload/programs/galleries/gallery_2476/big/793fa0
 author: Romana Klimešová
 ---
 
-Blksdjfsflkjsfd
+Ahoj!
