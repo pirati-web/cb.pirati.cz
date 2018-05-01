@@ -1,6 +1,8 @@
 [submodule "_includes/shared"]
 	path = _includes/shared
 	url = https://github.com/pirati-web/partials
+	branch = bstrap4
 [submodule "_layouts"]
 	path = _layouts
 	url = https://github.com/pirati-web/layouts
+	branch = bstrap4
