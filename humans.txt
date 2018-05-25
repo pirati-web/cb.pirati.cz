@@ -1,4 +1,4 @@
-/* TEAM  */
+/* TEAM */
   Developer: Daigo Fujiwara
   Site: daigo.org
   Twitter: @daigofuji
