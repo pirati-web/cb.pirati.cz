@@ -27,4 +27,4 @@ sdělil v úvodu jihočeský poslanec Lukáš Kolářík, který tak přítomné
 
 ![Vlajka vlála a vlát bude.](/static/media/1-g.jpg)
 
-Podle jeho slov by podobné pirátské přístavy měly vznikat v dalších městech republiky s ambicí, že ať přijedete do jakéhokoliv místa a budete se chtít setkat s lidmi podobně naladěnými, které zajímají témata od kultury přes ekologii, věci veřejné až po lidská práva, tak tuto možnost mít budete právě v pirátských centrech. „Ty budou i v komunálních volbách skvělými místy pro setkávání a debaty nad lokálními tématy,“ dodal Ivan Bartoš.
+Podle jeho slov by podobné pirátské přístavy měly vznikat v dalších městech republiky s ambicí, že ať přijedete do jakéhokoliv místa a budete se chtít setkat s lidmi podobně naladěnými, které zajímají témata od kultury přes ekologii, věci veřejné až po lidská práva, tak tuto možnost mít budete právě v pirátských centrech. „Ty budou i v komunálních volbách skvělými místy pro setkávání a debaty nad lokálními tématy,“ dodal Ivan Bartoš..
