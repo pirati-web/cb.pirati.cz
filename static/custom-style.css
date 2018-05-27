@@ -239,3 +239,33 @@ html body .category {
 	max-width: 100%;
 	border-bottom: 3px solid #2785ce;
 }
+
+
+
+
+
+
+
+
+
+
+
+body .c-welcome-header {
+
+    color: white;
+
+    padding: 3em 0;
+
+    background: url("https://raw.githubusercontent.com/pirati-web/cb.pirati.cz/gh-pages/static/header_bg.jpg");
+
+    min-height: 45vh !important;
+
+    /* display: inline-block; */
+
+    /* width: 100%; */
+
+    background-attachment: fixed;
+
+ background-size: 100%
+
+}
