@@ -223,3 +223,19 @@ article h3 a {
   text-transform: uppercase;
   font-size: 25px;
 }
+
+
+/*aarticle*/
+
+.category {
+	max-width: 100%;
+	display: inline-block;
+	word-wrap: break-word;
+}
+
+.splashdiv {
+	height: auto;
+	overflow: hidden;
+	max-width: 100%;
+	border-bottom: 3px solid #2785ce;
+}
