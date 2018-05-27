@@ -7,11 +7,7 @@ rbar: video, fb
   <div class="small-12 large-8 columns">
     <section class="o-section o-section--noSpaceBottom o-section--bigger">
       <div class="o-section-inner o-section-inner--leftBlock">
-        {% for post in site.posts limit:2 %}
-          <div class="o-section-mediumdown-divided-small o-section--divided">
-            {% include shared/articlesumary.html %}
-          </div>
-        {% endfor %}
+        {% include shared/articlesumary.html %}
       </div>
     </section>
   </div>
