@@ -239,25 +239,3 @@ html body .category {
 	max-width: 100%;
 	border-bottom: 3px solid #2785ce;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-a {
-	color: red;
-	text-decoration: none;
-	line-height: inherit;
-	cursor: pointer;
-}
