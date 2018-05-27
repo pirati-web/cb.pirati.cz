@@ -11,5 +11,6 @@ plugins:
   - jekyll-feed
 paginate: 7
 paginate_path: "/clanky/:num/"
+articlepath: blog
 keywords: českobudějovicko,piráti
 url: https://cb.pirati.cz
