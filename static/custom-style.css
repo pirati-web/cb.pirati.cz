@@ -271,3 +271,27 @@ body .c-welcome-header {
  background-size: 100%
 
 }
+
+.c-welcome-header__quote h3 {
+
+    font-family: "montserrat";
+	
+    color: #2a2a2a;
+
+    font-size: 23px;
+
+    font-weight: bold;
+
+}
+
+.c-welcome-header h2 {
+
+    font-family: "montserrat";
+
+    color: #27231f;
+	
+    font-weight: bold;
+
+    font-size: 50px;
+
+}
