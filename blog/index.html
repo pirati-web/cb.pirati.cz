@@ -9,7 +9,7 @@ rbar: video, fb
       <div class="o-section-inner o-section-inner--leftBlock">
         {% for article in paginator.posts %}
         <div class="o-section-mediumdown-divided-small o-section--divided">
-          
+          {% include shared/article-list/title_article.html param='article' %}
         </div>
         {% endfor %}
       </div>
