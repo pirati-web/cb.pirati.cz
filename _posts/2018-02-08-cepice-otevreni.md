@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 published: true
 category: blog
 title: Ivan Bartoš pokřtil pirátské centrum Čepice rumem Republika

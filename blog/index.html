@@ -7,7 +7,11 @@ rbar: video, fb
   <div class="small-12 large-8 columns">
     <section class="o-section o-section--noSpaceBottom o-section--bigger">
       <div class="o-section-inner o-section-inner--leftBlock">
-        
+        {% for article in paginator.posts %}
+        <div class="o-section-mediumdown-divided-small o-section--divided">
+          {{article}}
+        </div>
+        {% endfor %}
       </div>
     </section>
   </div>
@@ -17,4 +21,3 @@ rbar: video, fb
   </div>
 
 </div>
-
