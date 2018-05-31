@@ -2,10 +2,10 @@
 layout: blog
 published: true
 category: blog
-title: Ivan Bartoš pokřtil pirátské centrum Čepice rumem Republika2
-date: '2018-04-16 01:00am'
-author: Zbyněk Konvička
-image: /static/media/1-hlavni-foto.jpg
+title: Město do rukou občanů
+date: '2018-05-30 01:38pm'
+author: Jaroslav Hansal
+image: /static/media/wallet-2292428_640.jpg
 description: >-
   Jihočeští piráti zahájili provoz pirátského centra za účasti předsedy strany
   Ivana Bartoše a polsance Lukáše Koláříka. Křtilo se rumem Republika. 
