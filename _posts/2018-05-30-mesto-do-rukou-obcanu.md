@@ -2,7 +2,7 @@
 layout: blog
 published: true
 category: blog
-title: Ivan Bartoš pokřtil pirátské centrum Čepice rumem Republika
+title: Ivan Bartoš pokřtil pirátské centrum Čepice rumem Republika2
 date: '2018-04-16 01:00am'
 author: Zbyněk Konvička
 image: /static/media/1-hlavni-foto.jpg
