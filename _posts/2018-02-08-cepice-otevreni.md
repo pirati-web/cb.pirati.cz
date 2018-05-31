@@ -9,9 +9,7 @@ image: /static/media/1-hlavni-foto.jpg
 description: >-
   Jihočeští piráti zahájili provoz pirátského centra za účasti předsedy strany
   Ivana Bartoše a polsance Lukáše Koláříka. Křtilo se rumem Republika. 
-tags: >-
-  cepice, pirati, kolarik, bartos, rum, centrum, otviracka, krest, pipa, vlajka,
-  novinari, ceske-budejovice
+tags: ' '
 ---
 Do flotily pirátských center se 7. dubna přidala i ČePiCe. Po Plzni, Jihlavě a Olomouci se otevřela další krajská základna Pirátů v Hradební ulici 13 v Českých Budějovicích. Rumem Republika ji v podobě pirátského klobouku s dredy symbolicky pokřtili předseda Pirátské strany Ivan Bartoš a jihočeský poslanec Lukáš Kolářík. Do útulných prostor středověkého domu s členitým dvorkem a jedinečným výhledem na Černou věž si cestu našlo cca 150 návštěvníků.
 
