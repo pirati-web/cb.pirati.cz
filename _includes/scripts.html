@@ -10,8 +10,18 @@
 // })();
 </script>
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.1/js/foundation.min.js"></script>
+
+<!-- object-fit-images pollyfill https://github.com/bfred-it/object-fit-images/ -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/object-fit-images/3.2.3/ofi.min.js"></script>
 <script>
-    
+  $(document).ready(function(){
+    objectFitImages();
+  });
+</script>
+
+<script>
 /* Global variables from jekyll */
 var api_people = "{{'api/people.json' | relative_url}}";
 var api_search = "{{'api/search.json' | relative_url}}";
@@ -24,3 +34,6 @@ var page_contact ="{{page.contact | first}}";
 var page_tags = [];
 
 </script>
+
+<script src="https://www.pirati.cz/assets/js/common-libs.min.js"></script>
+<script src="https://www.pirati.cz/assets/js/custom.min.js"></script> 
