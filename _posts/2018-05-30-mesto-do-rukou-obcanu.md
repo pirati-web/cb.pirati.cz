@@ -13,4 +13,4 @@ tags: >-
   cepice, pirati, kolarik, bartos, rum, centrum, otviracka, krest, pipa, vlajka,
   novinari, ceske-budejovice
 ---
-**Participativní rozpočet**
+**Participativní rozpočet** 
