@@ -1,7 +1,7 @@
 ---
 layout: blog
 published: true
-category: CLANKY
+category: blog
 title: Město do rukou občanů
 date: '2018-05-30 01:38pm'
 author: Jaroslav Hansal
