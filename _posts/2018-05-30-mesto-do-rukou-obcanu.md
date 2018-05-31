@@ -40,5 +40,5 @@ Přestože se o Budějovicích někdy mluví jako o velké vesnici, kde se zná 
 
 Piráti jsou politická strana rostoucí odspodu. Nemáme tajné sponzory nebo postranní zájmy. Naším cílem je dělat politiku otevřeně, s lidmi a pro lidi. Veřejnost má za svoje peníze právo vidět politikům až do kuchyně. Nastal čas otevřít okna i v Českých Budějovicích.
 
-**Pusťte nás na ně i v Budějovicích!!!
+**Pusťte nás na ně i v Budějovicích!!
 **
