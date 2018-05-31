@@ -12,7 +12,7 @@ tags: 'participativní rozpočet, České Budějovice, Internetové fórum'
 _Chceme více otevřít České Budějovice svým občanům. Proč by mělo o zásadních stamiliónových investicích rozhodovat pouze několik zastupitelů? Bez pořádného průzkumu, zda obyvatelé něco takového vůbec chtějí a požadují? Příkladem může být stavba nové Sportovní haly a především neuvěřitelně zbytečný plán na zbourání stávající haly, která je v polovině své životnosti. Mrhání penězi daňových poplatníků musí přestat!
 _
 
-**Nezpochybňujeme **principy zastupitelské demokracie. Ale chceme se zasadit o takové nástroje přímé demokracie, které zapojí více budějovičáků do veřejného života a zvýší kontrolu činnosti radnice. 
+Nezpochybňujeme principy zastupitelské demokracie. Ale chceme se zasadit o takové nástroje přímé demokracie, které zapojí více budějovičáků do veřejného života a zvýší kontrolu činnosti radnice. 
 
 **Participativní rozpočet
 **
