@@ -2,43 +2,29 @@
 layout: blog
 published: true
 category: blog
-title: Město do rukou občanů
-date: '2018-05-30 01:38pm'
-author: Jaroslav Hansal
-image: /static/media/wallet-2292428_640.jpg
-description: 'Piráti prosadí a umožní, aby o části rozpočtu města rozhodovali sami občané.'
-tags: 'participativní-rozpočet, České-Budějovice, Internetové-fórum'
+title: Ivan Bartoš pokřtil pirátské centrum Čepice rumem Republika
+date: '2018-04-16 01:00am'
+author: Zbyněk Konvička
+image: /static/media/1-hlavni-foto.jpg
+description: >-
+  Jihočeští piráti zahájili provoz pirátského centra za účasti předsedy strany
+  Ivana Bartoše a polsance Lukáše Koláříka. Křtilo se rumem Republika. 
+tags: >-
+  cepice, pirati, kolarik, bartos, rum, centrum, otviracka, krest, pipa, vlajka,
+  novinari, ceske budejovice
 ---
-_Chceme více otevřít České Budějovice svým občanům. Proč by mělo o zásadních stamiliónových investicích rozhodovat pouze několik zastupitelů? Bez pořádného průzkumu, zda obyvatelé něco takového vůbec chtějí a požadují? Příkladem může být stavba nové Sportovní haly a především neuvěřitelně zbytečný plán na zbourání stávající haly, která je v polovině své životnosti. Mrhání penězi daňových poplatníků musí přestat!
-_
+Do flotily pirátských center se 7. dubna přidala i ČePiCe. Po Plzni, Jihlavě a Olomouci se otevřela další krajská základna Pirátů v Hradební ulici 13 v Českých Budějovicích. Rumem Republika ji v podobě pirátského klobouku s dredy symbolicky pokřtili předseda Pirátské strany Ivan Bartoš a jihočeský poslanec Lukáš Kolářík. Do útulných prostor středověkého domu s členitým dvorkem a jedinečným výhledem na Černou věž si cestu našlo cca 150 návštěvníků.
 
-Nezpochybňujeme principy zastupitelské demokracie. Ale chceme se zasadit o takové nástroje přímé demokracie, které zapojí více budějovičáků do veřejného života a zvýší kontrolu činnosti radnice. 
+![Pan předseda zahrál a zapěl.](/static/media/4.jpg)
 
-**Participativní rozpočet
-**
+> „Otevřeli jsme právě naše pirátské centrum ČePiCe, to je náš hardware, a nyní potřebujeme do něho software, a třeba ten váš, aby to tady žilo a něco se tu dělo“,
 
-Piráti prosadí a umožní, aby o části rozpočtu města rozhodovali sami občané. Tento tzv. participativní rozpočet již umožňuje celá řada českých měst - Brno, Ostrava, Praha a s úspěchem ho zavádí další a další obce. Občané Budějovic by tak sami mohli navrhovat projekty a investice, o které mají zájem. A zároveň by i pomocí internetového hlasování vybírali z takto navržených projektů ty, které jsou pro ně nejdůležitější. Tento prvek přímé demokracie navíc zvyšuje aktivitu občanů, buduje sousedské vztahy a buduje větší sounáležitost občanů s jejich městem. 
+sdělil v úvodu jihočeský poslanec Lukáš Kolářík, který tak přítomné vyzval k tomu, aby si program centra vytvářeli do jisté míry také sami, tedy i lidé mimo Pirátskou stranu. Podle něj by ČePiCe měla fungovat jako multifunkční prostor pro různé organizace a aktivity, nikoliv jako uzavřené kanceláře bez života. Fungovat by v ČePiCi měla i kavárna a uvažuje se i o coworkingovém prostoru, sdílené kanceláři pro lidi tzv. na volné noze, kteří si nechtějí platit drahé kanceláře a zároveň nechtějí nebo nemohou pracovat z domova.
 
-**Internetové fórum občanů
-**
+![Návštěvníci se bavili.](/static/media/11.jpg)
 
-Chceme vytvořit internetové fórum pro každého občana Českých Budějovice. Pomocí tohoto fóra bude možné hlasovat a diskutovat o projektech radnice, bude poradním hlasem pro připravované investice. Umožní online z pohodlí domova, komunikovat s úředníky radnice, zpřístupní a urychlí vyřizování služeb města (žádost a vydání živnostenského oprávnění, ...). Ale bude také možné hodnotit práci jednotlivých úředníků a jejich nápomoc a ochotu při řešení běžných problémů a žádostí občanů.
+> „Měl jsem to štěstí být u otevírání několika pirátských center, a vždy to je prostředí, které má určitý spirit. Buď je to nízkoprahovka nebo má historický interiér. Když jsme před skoro devíti lety jako Piráti vznikali, neříkali jsme jako Andrej Babiš: „Já nějsu politik!“, ale říkali jsme, že sic nejsme úplně politici, poněvadž jsme to nikdy nedělali, ale jsme kulturně-společenské hnutí. Lidi, kteří jsou aktivní, mohou vstoupit do strany a dělat politiku. A ti, co nechtějí vstoupit k Pirátům, tak s námi roky mohou spolupracovat i jinak. Pirátská strana funguje jako platforma, jako prostředí, kde i na specifických tématech počínaje kožešinovýma farmama a konče sofistikovanými výpočty všehomíra se lidé mohou potkat a mají šanci se o tématech bavit s odborníky. A pirátská centra jsme koncipovali různě, jako kavárnu nebo promítací sál, ale vždy tam narazíte na lidi, se kterými si můžete promluvit“, sdělil v úvodu pirátský předseda Ivan Bartoš.
 
-**Městské části
-**
+![Vlajka vlála a vlát bude.](/static/media/1-g.jpg)
 
-Přestože se o Budějovicích někdy mluví jako o velké vesnici, kde se zná každý s každým, je zcela jasné, že například obyvatel sídliště Máj nemusí zcela rozumět problémům rezidentů v centru a naopak. Navrhujeme proto zřízení městských částí s volenými zástupci, kteří by nejlépe znali a řešili lokální problémy a požadavky. Ovšem bez dalšího navýšení úřednického aparátu. 
-
-**Naše konkrétní návrhy:
-**
-
-* Část městského rozpočtu svěřit přímo do rukou obyvatel Budějovic. Pomocí participativního rozpočtu.
-* Internetové fórum občanů pro získání názorů a stanovisek budějovičáků. Na všechna důležitá témata.
-* Umožnit hodnocení práce městských úředníků po internetu.
-* Možnost komunikovat s vlastním vyhrazeným úředníkem přímo přes internet.
-* Rozdělení města na městské části s vlastními zastupiteli. 
-
-Piráti jsou politická strana rostoucí odspodu. Nemáme tajné sponzory nebo postranní zájmy. Naším cílem je dělat politiku otevřeně, s lidmi a pro lidi. Veřejnost má za svoje peníze právo vidět politikům až do kuchyně. Nastal čas otevřít okna i v Českých Budějovicích.
-
-**Pusťte nás na ně i v Budějovicích!!
-**
+Podle jeho slov by podobné pirátské přístavy měly vznikat v dalších městech republiky s ambicí, že ať přijedete do jakéhokoliv místa a budete se chtít setkat s lidmi podobně naladěnými, které zajímají témata od kultury přes ekologii, věci veřejné až po lidská práva, tak tuto možnost mít budete právě v pirátských centrech. „Ty budou i v komunálních volbách skvělými místy pro setkávání a debaty nad lokálními tématy,“ dodal Ivan Bartoš.
