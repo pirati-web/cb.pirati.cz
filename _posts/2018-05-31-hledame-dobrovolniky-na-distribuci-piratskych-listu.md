@@ -9,11 +9,8 @@ image: /static/media/pl.png
 description: Hledáme dobrovolníky na distribuci Pirátských listů v Jihočeském kraji.
 tags: ' '
 ---
-**Máš chuť podpořit Piráty? Máš pár volných hodin?**
-
+**Máš chuť podpořit Piráty? Máš pár volných hodin?**\
 Hledáme dobrovolníky na distribuci Pirátských listů v Jihočeském kraji. A na další aktivity, kterými můžeš podpořit Pirátskou stranu.
-
-
 
 Pokud se chceš aktivně zapojit, volej:
 
@@ -22,7 +19,5 @@ Pokud se chceš aktivně zapojit, volej:
 nebo napiš na e-mail: 
 
 <mailto:katka.hulkova@pirati.cz>
-
-
 
 Děkujeme za pomoc a těšíme se na Tebe!
