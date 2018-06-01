@@ -32,5 +32,7 @@ Piráti jsou politická strana rostoucí odspodu.  **Nemáme tajné sponzory neb
 * Zbavíme představenstva městských společností politických **trafikantů**.
 * **Zpřístupníme jednání rady**, výborů a komisí, umožní-li to zákon. 
 
+
+
  **Pusťte nás na ně i v Budějovicích! 
 **
