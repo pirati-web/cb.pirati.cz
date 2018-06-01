@@ -12,7 +12,7 @@ keywords: organizace,transparence,politika
   <div class="row">
     <div class="medium-12 large-8 columns">
       <section id="posts">
-      {% for post in site.posts limit:2 %}
+      {% for post in site.posts limit:7 %}
         <div class="column">
         {% include shared/articlesumary.html %}
         </div>
@@ -20,14 +20,7 @@ keywords: organizace,transparence,politika
         <h4><a href="/clanky/">Ostatní články </a></h4> 
       </section>
 
-      <section id="akce" class="mt-3">
-        <h2>nejbližší akce</h2>
-
-        {% for item in site.data.akce limit:3 %}
-        {% include shared/eventsummary.html item=item %}
-        {% endfor %}
-
-      </section>
+      
 
     </div>
 
