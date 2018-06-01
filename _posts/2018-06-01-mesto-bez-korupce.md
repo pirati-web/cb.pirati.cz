@@ -22,7 +22,7 @@ _Na první pohled se to zdát nemusí, ale **i České Budějovice přetékají 
 * Myslíte, že je správné, aby město platilo 22 % z celkové ceny zakázky za vícepráce a vedoucí příslušného odboru zůstal na svém místě?
 * Myslíte, že je správné bourat funkční sportovní halu a místo ní stavět za 400 milionů jinou bez soutěže? Jen si zkuste představit, co by se dalo za takové peníze vybudovat.
 
-Piráti jsou politická strana rostoucí odspodu. **Nemáme tajné sponzory nebo postranní zájmy. **Naším cílem je dělat politiku otevřeně, s lidmi a pro lidi. Veřejnost má za svoje peníze právo vidět politikům až do kuchyně. V Praze se nám podařilo odhalit pochybné pronajímání městských bytů, bojujeme za zpřístupnění smluv ČEZu, vyšetřování korupčních kauz apod. Nastal čas otevřít okna i v Českých Budějovicích.
+Piráti jsou politická strana rostoucí odspodu.  **Nemáme tajné sponzory nebo postranní zájmy.  **Naším cílem je dělat politiku otevřeně, s lidmi a pro lidi. Veřejnost má za svoje peníze právo vidět politikům až do kuchyně. V Praze se nám podařilo odhalit pochybné pronajímání městských bytů, bojujeme za zpřístupnění smluv ČEZu, vyšetřování korupčních kauz apod. Nastal čas otevřít okna i v Českých Budějovicích.
 
 **Naše konkrétní návrhy:**
 
