@@ -9,12 +9,12 @@ image: /static/media/pl.png
 description: Hledáme dobrovolníky na distribuci Pirátských listů v Jihočeském kraji.
 tags: ' '
 ---
-![](/static/media/pl.png)
+![null](/static/media/pl.png)
 
 **Máš chuť podpořit Piráty? Máš pár volných hodin?**\
 Hledáme dobrovolníky na distribuci Pirátských listů v Jihočeském kraji. A na další aktivity, kterými můžeš podpořit Pirátskou stranu.
 
-Pokud se chceš aktivně zapojit, volej:
+**Pokud se chceš aktivně zapojit, volej:**
 
 [+420 778 702 243](tel:+420778702243)
 
