@@ -1,9 +1,9 @@
-title: Piráti Českobudějovicko!
+title:
 default_locale: "cs"
 permalink: pretty
 markdown: kramdown
 facebookurl: https://www.facebook.com/piratitabor
-logo: /static/logo_cb2.svg
+logo: /static/logo_cb3.svg
 
 plugins:
   - jekyll-paginate
