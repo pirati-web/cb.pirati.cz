@@ -3,7 +3,7 @@ default_locale: "cs"
 permalink: pretty
 markdown: kramdown
 facebookurl: https://www.facebook.com/piratitabor
-logo: /static/logo.png
+logo: /static/logo_pirati_cb.svg
 
 plugins:
   - jekyll-paginate
