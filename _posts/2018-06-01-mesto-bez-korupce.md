@@ -11,8 +11,6 @@ description: >-
   klientelismem. 
 tags: ' '
 ---
-![korupce](/static/media/handcuffs-2070580_640.jpg)
-
 _Na první pohled se to zdát nemusí, ale **i České Budějovice přetékají korupcí a klientelismem**. Historicky byly rozparcelovány mezi několik zájmových skupin. Jedna z nejvýznamnějších je tvořená lidmi kolem Ateliéru 8000. Další jsou spojené se zavedenými politickými stranami – osa ODS Budějovice-Hluboká, ČSSD a její letiště, ANO, KDU-ČSL. Tito lidé se přisáli na veřejné peníze města. Ovlivňují veřejné zakázky, uzavírání pro město nevýhodné a nevypověditelné smlouvy, účelově mění územní plán. Velké investice nedělají pro občany, ale pro sebe._
 
 * Myslíte, že je správné, aby město pronajímalo pozemky pod bytovým komplexem U lučního jezu developerovi na 50 let za 1 korunu a s předkupním právem?  
@@ -31,8 +29,6 @@ Piráti jsou politická strana rostoucí odspodu.  **Nemáme tajné sponzory neb
 * Uspořádáme otevřená výběrová řízení na **klíčové městské úředníky**.
 * Zbavíme představenstva městských společností politických **trafikantů**.
 * **Zpřístupníme jednání rady**, výborů a komisí, umožní-li to zákon. 
-
-
 
  **Pusťte nás na ně i v Budějovicích! 
 **
