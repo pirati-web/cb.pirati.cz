@@ -7,6 +7,7 @@ description: 'Kompletní informace o kampani do komunálních voleb 2018 v Česk
 keywords: volby, komunální
 ---
 
+{% include top_menu.html %}
 
 Chceme, aby Tábor byl městem, kde je radost žít.
 A nejen dnes, ale také v budoucnosti.
