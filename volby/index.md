@@ -1,6 +1,7 @@
 ---
 title: Komunální volby 2018
-layout: page
+layout: default
+section: blog
 published: true
 style: portrets
 description: 'Kompletní informace o kampani do komunálních voleb 2018 v Českých Budějovicích'
