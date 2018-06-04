@@ -1,19 +1,32 @@
 ---
-title: Českobudějovické Pirátské Centrum
 layout: default
 section: blog
-description: Články o českobudějovické politice s nádechem pirátkých myšlenek
-keywords: články, české budějovice, politika, pohled
-splash: /static/banner.jpg
+description: Stránka českobudějovické pirátské buňky s nejnovějšími články a základním rozcestníkem.
+keywords: organizace,transparence,politika
 ---
 
-<b>Če</b>skobudějovické <b>Pi</b>rátské <b>Ce</b>ntrum naleznete v centru Českých Budějovic, <a href="https://goo.gl/tspizs" target="_blank">Hradební 334/13</a>.
+{% include title_hero.html %}
 
-<section id="akce" class="mt-3">
-  <h2>nejbližší akce v čepici</h2>
+<div class="container homepage is">
 
-  {% for item in site.data.akce_cepice %}
-  {% include shared/eventsummary.html item=item %}
-  {% endfor %}
+  <div class="row">
+    <div class="medium-12 large-8 columns">
+      <section id="posts">
+      {% for post in site.posts limit:7 %}
+        <div class="column">
+        {% include shared/articlesumary.html %}
+        </div>
+      {% endfor %}
+        <h4><a href="/clanky/">Ostatní články</a></h4>
+      </section>
 
-</section>
+
+
+    </div>
+
+    <div class="medium-12 large-4 columns">
+      {% include rightbar.html %}
+    </div>
+  </div>
+
+</div> 
