@@ -4,6 +4,7 @@ section: blog
 description: Stránka českobudějovické pirátské buňky s nejnovějšími články a základním rozcestníkem.
 keywords: organizace,transparence,politika
 ---
+<<<<<<< HEAD
 
 {% include title_hero.html %}
 
@@ -26,6 +27,15 @@ keywords: organizace,transparence,politika
 
     <div class="medium-12 large-4 columns">
       {% include rightbar.html %}
+=======
+{% include title_hero.html %}
+<section>
+  <h1>test</h1>
+  <div class="row small-up-1 medium-up-2">
+  {% for post in paginator.posts %}
+    <div class="column">
+    {% include shared/articlesumary.html %}
+>>>>>>> 7935bee2b7f17867de901b13d34b180d1434ef13
     </div>
   </div>
 
