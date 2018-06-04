@@ -10,23 +10,30 @@ keywords: organizace, transparence, politika
 <div class="container homepage is">
 
   <div class="row">
-    <div class="medium-12 large-8 columns">
+    <div class="col-sm-12 col-lg-6">
       <section id="posts">
-      {% for post in site.posts limit:7 %}
+      {% for post in site.posts limit:2 %}
         <div class="column">
         {% include shared/articlesumary.html %}
         </div>
       {% endfor %}
-        <h4><a href="/clanky/">Ostatní články</a></h4>
+        <h4><a href="/clanky/">Ostatní články ...</a></h4>
       </section>
 
+      <section id="akce" class="mt-3">
+        <h2>nejbližší akce</h2>
 
+        {% for item in site.data.akce limit:3 %}
+        {% include shared/eventsummary.html item=item %}
+        {% endfor %}
+
+      </section>
 
     </div>
 
-    <div class="medium-12 large-4 columns">
-      {% include rightbar.html %}___
+    <div class="col-sm-12 col-lg-6">
+      {% include rightbar.html %}
     </div>
   </div>
 
-</div> 
+</div>
