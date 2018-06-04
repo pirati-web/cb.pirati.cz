@@ -1,8 +1,8 @@
 ---
 layout: default
 section: blog
-description: Stránka českobudějovické pirátské buňky s nejnovějšími články a základním rozcestníkem.
-keywords: organizace,transparence,politika
+description: Stránka českobudějovické pirátské buňky s nejnovějšími články a základním rozcestníkem. 
+keywords: organizace, transparence, politika
 ---
 
 {% include title_hero.html %}
