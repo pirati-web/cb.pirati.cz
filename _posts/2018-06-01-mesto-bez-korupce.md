@@ -9,7 +9,7 @@ image: /static/media/handcuffs-2070580_640.jpg
 description: >-
   Na první pohled se to zdát nemusí, ale i České Budějovice přetékají korupcí a
   klientelismem. 
-tags: ' '
+tags: Budějovice korupce ANO KDU-ČSL
 ---
 _Na první pohled se to zdát nemusí, ale **i České Budějovice přetékají korupcí a klientelismem**. Historicky byly rozparcelovány mezi několik zájmových skupin. Jedna z nejvýznamnějších je tvořená lidmi kolem Ateliéru 8000. Další jsou spojené se zavedenými politickými stranami – osa ODS Budějovice-Hluboká, ČSSD a její letiště, ANO, KDU-ČSL. Tito lidé se přisáli na veřejné peníze města. Ovlivňují veřejné zakázky, uzavírání pro město nevýhodné a nevypověditelné smlouvy, účelově mění územní plán. Velké investice nedělají pro občany, ale pro sebe._
 
