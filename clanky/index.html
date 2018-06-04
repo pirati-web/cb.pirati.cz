@@ -8,31 +8,35 @@ keywords: články, tábor, politika, pohled
 
 {% include top_menu.html %}
 
-<section>
-  <div class="row small-up-1 medium-up-2">
-  {% for post in paginator.posts %}
-    <div class="column">
-    {% include shared/articlesumary.html %}
+<div class="row">
+
+    <section>
+      <div class="row small-up-1 medium-up-2">
+      {% for post in paginator.posts %}
+        <div class="column">
+        {% include shared/articlesumary.html %}
+        </div>
+      {% endfor %}
+      </div>
+    </section>
+
+    <hr>
+
+    <!-- Pagination links -->
+    <div class="pagination">
+      {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path }}" class="left button round">
+          <i class="fi-arrow-left"></i> Předchozí stránka
+        </a>
+      {% endif %}
+      {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path }}" class="right button round">
+          Další stránka <i class="fi-arrow-right"></i>
+        </a>
+      {% endif %}
+      <div class="float-right">
+        <span>Stránka: {{ paginator.page }} z {{ paginator.total_pages }}</span>
+      </div>
     </div>
-  {% endfor %}
-  </div>
-</section>
 
-<hr>
-
-<!-- Pagination links -->
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="left button round">
-      <i class="fi-arrow-left"></i> Předchozí stránka
-    </a>
-  {% endif %}
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="right button round">
-      Další stránka <i class="fi-arrow-right"></i>
-    </a>
-  {% endif %}
-  <div class="float-right">
-    <span>Stránka: {{ paginator.page }} z {{ paginator.total_pages }}</span>
-  </div>
 </div>
