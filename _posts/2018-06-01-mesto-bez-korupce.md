@@ -9,7 +9,7 @@ image: /static/media/handcuffs-2070580_640.jpg
 description: >-
   Na první pohled se to zdát nemusí, ale i České Budějovice přetékají korupcí a
   klientelismem. 
-tags: Budějovice korupce ANO KDU-ČSL
+tags: ' '
 ---
 _Na první pohled se to zdát nemusí, ale **i České Budějovice přetékají korupcí a klientelismem**. Historicky byly rozparcelovány mezi několik zájmových skupin. Jedna z nejvýznamnějších je tvořená lidmi kolem Ateliéru 8000. Další jsou spojené se zavedenými politickými stranami – osa ODS Budějovice-Hluboká, ČSSD a její letiště, ANO, KDU-ČSL. Tito lidé se přisáli na veřejné peníze města. Ovlivňují veřejné zakázky, uzavírání pro město nevýhodné a nevypověditelné smlouvy, účelově mění územní plán. Velké investice nedělají pro občany, ale pro sebe._
 
@@ -20,7 +20,7 @@ _Na první pohled se to zdát nemusí, ale **i České Budějovice přetékají 
 * Myslíte, že je správné, aby město platilo 22 % z celkové ceny zakázky za vícepráce a vedoucí příslušného odboru zůstal na svém místě?
 * Myslíte, že je správné bourat funkční sportovní halu a místo ní stavět za 400 milionů jinou bez soutěže? Jen si zkuste představit, co by se dalo za takové peníze vybudovat.
 
-Piráti jsou politická strana rostoucí odspodu.  **Nemáme tajné sponzory nebo postranní zájmy.  **Naším cílem je dělat politiku otevřeně, s lidmi a pro lidi. Veřejnost má za svoje peníze právo vidět politikům až do kuchyně. V Praze se nám podařilo odhalit pochybné pronajímání městských bytů, bojujeme za zpřístupnění smluv ČEZu, vyšetřování korupčních kauz apod. Nastal čas otevřít okna i v Českých Budějovicích.
+Piráti jsou politická strana rostoucí odspodu.  **Nemáme tajné sponzory nebo postranní zájmy.** Naším cílem je dělat politiku otevřeně, s lidmi a pro lidi. Veřejnost má za svoje peníze právo vidět politikům až do kuchyně. V Praze se nám podařilo odhalit pochybné pronajímání městských bytů, bojujeme za zpřístupnění smluv ČEZu, vyšetřování korupčních kauz apod. Nastal čas otevřít okna i v Českých Budějovicích.
 
 **Naše konkrétní návrhy:**
 
@@ -30,5 +30,4 @@ Piráti jsou politická strana rostoucí odspodu.  **Nemáme tajné sponzory neb
 * Zbavíme představenstva městských společností politických **trafikantů**.
 * **Zpřístupníme jednání rady**, výborů a komisí, umožní-li to zákon. 
 
- **Pusťte nás na ně i v Budějovicích! 
-**
+ **Pusťte nás na ně i v Budějovicích!**
