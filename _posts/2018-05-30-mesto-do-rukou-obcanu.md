@@ -9,7 +9,7 @@ image: /static/media/wallet-2292428_640.jpg
 description: 'Piráti prosadí a umožní, aby o části rozpočtu města rozhodovali sami občané.'
 tags: ' '
 ---
-_Chceme více otevřít České Budějovice svým občanům. Proč by mělo o zásadních stamiliónových investicích rozhodovat pouze několik zastupitelů? Bez pořádného průzkumu, zda obyvatelé něco takového vůbec chtějí a požadují? Příkladem může být stavba nové Sportovní haly a především neuvěřitelně zbytečný plán na zbourání stávající haly, která je v polovině své životnosti. _
+_Chceme více otevřít České Budějovice svým občanům. Proč by mělo o zásadních stamiliónových investicích rozhodovat pouze několik zastupitelů? Bez pořádného průzkumu, zda obyvatelé něco takového vůbec chtějí a požadují? Příkladem může být stavba nové Sportovní haly a především neuvěřitelně zbytečný plán na zbourání stávající haly, která je v polovině své životnosti._
 
 _Mrhání penězi daňových poplatníků musí přestat!_
 
