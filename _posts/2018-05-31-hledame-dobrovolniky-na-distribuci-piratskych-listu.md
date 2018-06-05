@@ -7,7 +7,7 @@ date: '2018-05-31 07:19pm'
 author: Jaroslav Hansal
 image: /static/media/pl.png
 description: Hledáme dobrovolníky na distribuci Pirátských listů v Jihočeském kraji.
-tags: ' hledame dobrovolinik pirát podpora'
+tags: ' '
 ---
 **Máš chuť podpořit Piráty? Máš pár volných hodin?**\
 Hledáme dobrovolníky na distribuci Pirátských listů v Jihočeském kraji. A na další aktivity, kterými můžeš podpořit Pirátskou stranu.
