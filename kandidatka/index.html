@@ -1,0 +1,25 @@
+---
+title: Českobudějovické Pirátské Centrum
+layout: default
+section: blog
+description: Stránka českobudějovické pirátské buňky s nejnovějšími články a základním rozcestníkem.
+keywords: články, české-budějovice, politika, pohled
+splash: /static/banner.jpg
+---
+
+{% include title_hero.html %}
+
+<div class="row">
+
+    <h1>ČEPICE - českobudějovické pirátské centrum</h1>
+<br><br>
+    <section id="akce" class="mt-3">
+      <h2>Nejbližší akce v čepici</h2>
+
+      {% for item in site.data.akce_cepice %}
+      {% include shared/eventsummary.html item=item %}
+      {% endfor %}
+
+    </section>
+    
+</div>
