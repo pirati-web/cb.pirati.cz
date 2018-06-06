@@ -38,3 +38,16 @@ var page_tags = {% if page.tags %}{{page.tags | split: ' '}}{% else %}[]{%endif%
 
 <script src="https://www.pirati.cz/assets/js/common-libs.min.js"></script>
 <script src="https://www.pirati.cz/assets/js/custom.min.js"></script>
+
+<script>
+(function() {
+    var addClass;
+    if(window.location.pathname === "/") {
+        addClass = "home";
+    } else {
+        addClass = "not-home";
+    }
+    
+    document.body.classList.add(addClass);
+})();
+</script>
