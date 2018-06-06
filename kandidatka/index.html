@@ -1,48 +1,21 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+  <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><![endif]-->
+  <title>Piráti Českobudějovicko</title>
+  <meta name="author" content="">
 
-<meta charset="utf-8">
-<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><![endif]-->
-<title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
-<meta name="author" content="{{ site.author }}">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="robots" content="index,follow" />
+  <meta name="googlebot" content="index,follow,snippet,archive" />
+   <!--<link rel='alternate' type='application/rss+xml' title='' href='https://cb.pirati.cz/blog.rss' />-->
+  <meta name="google-site-verification" content="zow-5WY0dE0Mas3Msng23YBsy6CId1pjS3PZbcOmPmI" />
 
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<meta name="robots" content="index,follow" />
-<meta name="googlebot" content="index,follow,snippet,archive" />
-<link rel='alternate' type='application/rss+xml' title='{{ site.name }}' href='{{ site.url }}/blog.rss' />
-<meta name="google-site-verification" content="zow-5WY0dE0Mas3Msng23YBsy6CId1pjS3PZbcOmPmI" />
+  <meta property="og:title" content="Piráti České Budějovice" />
+  <meta property="og:site_name" content="Piráti České Budějovice" />
+  <meta property="og:url" content="https://cb.pirati.cz/" />
 
-<meta property="og:title" content="{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}" />
-<meta property="og:site_name" content="{{ site.title }}" />
-<meta property="og:url" content="{{ site.url }}{{ page.url }}" />
-{% if page.image %}
-<meta property="og:image" content="{{ site.url }}{{ page.image }}" />
-{% endif %}
-{% if page.category == "blog" %}
-<meta property="og:type" content="article" />
-<meta property="og:description" content="{{ page.excerpt | strip_html | truncatewords: 34 }}" />
-<meta property="og:locale" content="cs_CZ" />
-<meta name="description" content="{{ page.excerpt | strip_html }}" />
-<meta name="keywords" content="{{ page.tags | category_links }},{{ site.keywords }}" />
-{% else %}
-<meta property="og:type" content="website" />
-<meta property="og:description" content="{{ page.description | strip_html }}" />
-<meta name="description" content="{{ page.description | strip_html }}" />
-<meta name="keywords" content="{{ page.keywords }}, {{ site.keywords }}" />
-{% endif %}
-
-<link rel="canonical" href="{{ site.url }}{{ page.url }}" />
-<link rel="shortcut icon" href="/static/favicon.ico">
-
-<script defer src="https://use.fontawesome.com/releases/v5.0.8/js/solid.js"
-  integrity="sha384-+Ga2s7YBbhOD6nie0DzrZpJes+b2K1xkpKxTFFcx59QmVPaSA8c7pycsNaFwUK6l"
-  crossorigin="anonymous"></script>
-<script defer src="https://use.fontawesome.com/releases/v5.0.8/js/brands.js"
-  integrity="sha384-sCI3dTBIJuqT6AwL++zH7qL8ZdKaHpxU43dDt9SyOzimtQ9eyRhkG3B7KMl6AO19"
-  crossorigin="anonymous"></script>
-<script defer src="https://use.fontawesome.com/releases/v5.0.8/js/fontawesome.js"
-  integrity="sha384-7ox8Q2yzO/uWircfojVuCQOZl+ZZBg2D2J5nkpLqzH1HY0C1dHlTKIbpRz/LG23c"
-  crossorigin="anonymous"></script>
-
-<link rel="stylesheet"
+  <link rel="stylesheet"
   href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
   integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
   crossorigin="anonymous">
@@ -61,10 +34,22 @@
   crossorigin="anonymous">
 </script>
 
-<!--[if IE]><script src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script><![endif]-->
-<!-- <script src="/static/script.js"></script> -->
+  <meta property="og:type" content="website" />
+  <meta property="og:description" content="Stránka českobudějovické pirátské buňky s nejnovějšími články a základním rozcestníkem." />
+  <meta name="description" content="Stránka českobudějovické pirátské buňky s nejnovějšími články a základním rozcestníkem." />
+  <meta name="keywords" content="organizace,transparence,politika,české budějovice,piráti" />
 
+
+  <link rel="canonical" href="https://cb.pirati.cz/" />
+  <link rel="shortcut icon" href="/static/favicon.ico">
+  <!-- <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'> -->
+  <!-- <link href="https://fonts.googleapis.com/css?family=Mina" rel="stylesheet"> -->
+  <link href="https://fonts.googleapis.com/css?family=Roboto|Roboto+Condensed" rel="stylesheet">
+  <link rel="stylesheet" href="/static/custom-style.css">
   <link rel="stylesheet" href="https://static.bohemiasoft.com/jave/pirati_cb.css">
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+
 
 {% include top_menu.html %}
-{% include title/title_header.html %}
+
