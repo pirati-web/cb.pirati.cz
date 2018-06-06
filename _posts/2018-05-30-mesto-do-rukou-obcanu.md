@@ -2,39 +2,39 @@
 layout: blog
 published: true
 category: blog
-title: Město do rukou občanů
+title: Město pro život
 date: '2018-05-30 01:38pm'
-author: Jaroslav Hansal
-image: /static/media/wallet-2292428_640.jpg
-description: 'Piráti prosadí a umožní, aby o části rozpočtu města rozhodovali sami občané.'
+author: Ivo Vlasatý
+image: /static/media/czech-budejovice-178811_640.jpg
+description: >
+  Chceme, aby Budějovice byly ještě lepším místem k životu. Příkladem jiným
+  městům. Napravíme zanedbávání okrajových částí a nedostatečnou spolupráci s
+  okolními obcemi. Ochráníme přírodu ve městě. Posuneme Budějovice dopředu.
 tags: ' '
 ---
-_Chceme více otevřít České Budějovice svým občanům. Proč by mělo o zásadních stamiliónových investicích rozhodovat pouze několik zastupitelů? Bez pořádného průzkumu, zda obyvatelé něco takového vůbec chtějí a požadují? Příkladem může být stavba nové Sportovní haly a především neuvěřitelně zbytečný plán na zbourání stávající haly, která je v polovině své životnosti._
+Město je živý organismus. Každé větší rozhodnutí zasáhne několik generací. I ta malá ovlivňují každodenní chod města a musí na sebe logicky navazovat. Je důležité rozhodovat promyšleně a s dlouhodobou vizí. Chceme, aby Budějovice byly ještě lepším místem k životu. Příkladem jiným městům. Napravíme zanedbávání okrajových částí a nedostatečnou spolupráci s okolními obcemi. Ochráníme přírodu ve městě. Posuneme Budějovice dopředu.
 
-_Mrhání penězi daňových poplatníků musí přestat!_
+## Více samosprávy, lepší plánování
 
-Nezpochybňujeme principy zastupitelské demokracie. Ale chceme se zasadit o takové nástroje přímé demokracie, které zapojí více budějovičáků do veřejného života a zvýší kontrolu činnosti radnice. 
+* **Samosprávné městské části namísto centralizovaného řízení**. Zřídíme místní zastupitelstva “bez tajemníka”, která budou rozhodovat o lokálních problémech. Nebudou mít vlastní úřad, administrativu bude nadále řešit magistrát. Malým čtvrtím umožníme vznik tzv. osadního výboru.
+* **Velké Budějovice – rozšíření Budějovic o okolní obce**. Jsme krajské město s nejmenší rozlohou v republice. To omezuje udržitelný rozvoj města i celé aglomerace. Připojené obce si budou moci ponechat místní zastupitelstvo a větší část ze zvýšených příjmů dle rozpočtového určení daní.
+* **Městský architekt na plný úvazek. Otevřená příprava územního plánu**. Koncepční plánování. Nestačí vytvářet drahé dokumenty – připravené plány se musí dodržovat.
 
-**Participativní rozpočet**
+## Zelené a čisté město
 
-Piráti prosadí a umožní, aby o části rozpočtu města rozhodovali sami občané. Tento tzv. participativní rozpočet již umožňuje celá řada českých měst - Brno, Ostrava, Praha a s úspěchem ho zavádí další a další obce. Občané Budějovic by tak sami mohli navrhovat projekty a investice, o které mají zájem. A zároveň by i pomocí internetového hlasování vybírali z takto navržených projektů ty, které jsou pro ně nejdůležitější. Tento prvek přímé demokracie navíc zvyšuje aktivitu občanů, buduje sousedské vztahy a buduje větší sounáležitost občanů s jejich městem. 
+* **Ochrana a rozvoj rekreačních území, z nichž nejcennější je Stromovka**. Zabráníme její fragmentaci. Obnovíme funkci Bagru jako koupaliště. Zlepšíme vybavenost (znovuotevření občerstvení, lavičky, naučná stezka o historii města) a propojení s okolními sportovišti.
+* **Dalším pokladem jsou vodní toky a jejich okolí**, považujeme za stěžejní **zatraktivnění a zpřístupnění i dalších břehů** Malše, Vltavy i např. Dobrovodské a Mlýnské stoky. Dohlédneme na revitalizaci Háječku a opravu zanedbaného altánku. Budeme dbát o Sokolský ostrov a další parky. **Nedovolíme zničení území u Malého jezu**.
+* **Výrazné zlepšení čistoty ulic a veřejných prostranství** ve městě. Na hojně navštěvovaných místech koše na tříděný odpad. Systematická podpora třídění odpadu.
+* **Kvalitní odborná péče o zeleň**, levná opatření pro přírodu ve městě (např. ohleduplné sečení, “motýlí louky”).
+* **A navíc**: Lepší zázemí pro obyvatele i návštěvníky města (WC, umývárny, půjčovny kol, informační tabule). Modernější osvětlení – úspornější a šetrnější k přírodě a spánku.
 
-**Internetové fórum občanů**
+## Město, které nenudí a žije
 
-Chceme vytvořit internetové fórum pro každého občana Českých Budějovice. Pomocí tohoto fóra bude možné hlasovat a diskutovat o projektech radnice, bude poradním hlasem pro připravované investice. Umožní online z pohodlí domova, komunikovat s úředníky radnice, zpřístupní a urychlí vyřizování služeb města (žádost a vydání živnostenského oprávnění, ...). Ale bude také možné hodnotit práci jednotlivých úředníků a jejich nápomoc a ochotu při řešení běžných problémů a žádostí občanů.
-
-**Městské části**
-
-Přestože se o Budějovicích někdy mluví jako o velké vesnici, kde se zná každý s každým, je zcela jasné, že například obyvatel sídliště Máj nemusí zcela rozumět problémům rezidentů v centru a naopak. Navrhujeme proto zřízení městských částí s volenými zástupci, kteří by nejlépe znali a řešili lokální problémy a požadavky. Ovšem bez dalšího navýšení úřednického aparátu. 
-
-**Naše konkrétní návrhy:**
-
-* Část městského rozpočtu svěřit přímo do rukou obyvatel Budějovic. Pomocí participativního rozpočtu.
-* Internetové fórum občanů pro získání názorů a stanovisek budějovičáků. Na všechna důležitá témata.
-* Umožnit hodnocení práce městských úředníků po internetu.
-* Možnost komunikovat s vlastním vyhrazeným úředníkem přímo přes internet.
-* Rozdělení města na městské části s vlastními zastupiteli. 
-
-Piráti jsou politická strana rostoucí odspodu. Nemáme tajné sponzory nebo postranní zájmy. Naším cílem je dělat politiku otevřeně, s lidmi a pro lidi. Veřejnost má za svoje peníze právo vidět politikům až do kuchyně. Nastal čas otevřít okna i v Českých Budějovicích.
-
-**Pusťte nás na ně i v Budějovicích!**
+* **Otevřené architektonické soutěže** se musí stát standardem při každé velké investici do veřejného prostoru a vybavenosti.
+* **Ozelenění náměstí Přemysla Otakara II.** – nejprve na zkoušku v květináčích. Osvědčí-li se, pak natrvalo. Rozvoj Senovážného a Mariánského náměstí s ohledem na dosluhující zákryt Mlýnské stoky, respektive možnou stavbu nové budovy Jihočeského divadla.
+* **Oživení přirozených místních center**. Například náprava neutěšeného stavu **náměstí v Suchém Vrbném** (a bývalého kina). Budeme usilovat i o oživení oblasti v ose E. Rošického – od parku 4 Dvory po revitalizované Výstaviště. **Kulturní život patří na oba břehy Vltavy!**
+* **Rekonstrukce Slavie v režii města**. Připravíme rekonstrukci KD Vltava tak, aby vyhovovala současným potřebám a nárokům (např. akustickým) – do té doby žádné velké investice!
+* **Podporujeme přípravu nové budovy Jihočeského divadla** – priorita pro příští desetiletí. Pro pozemky “**Rejnoka**” najdeme využití, které nebude bránit možné stavbě v budoucnu.
+* **Odmítáme bourání sportovní haly**. Po řádné soutěži můžeme podpořit výstavbu druhé haly.
+* **Transparentní záměr podpory sportů** na amatérské nebo profesionální úrovni. Sladěný s dalšími městy dle jejich úspěchů (např. písecká házená, ledenický baseball, ...).
+* **Evidence veřejných sportovišť**, jejich efektivní využívání a veřejná přístupnost.
