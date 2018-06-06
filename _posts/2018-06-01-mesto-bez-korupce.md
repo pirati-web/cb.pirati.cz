@@ -5,7 +5,7 @@ category: blog
 title: Společně otevřeme město
 date: '2018-06-01 08:40pm'
 author: Lukáš Mareš
-image: /static/media/handcuffs-2070580_640.jpg
+image: /static/media/czech-budejovice-112165_640.jpg
 description: >-
   Veřejný zájem musí převládnout nad korupčními praktikami a klientelismem. Na
   ztracenou důvěru v politiku nabízíme lék: Průhledné hospodaření, rozhodování s
