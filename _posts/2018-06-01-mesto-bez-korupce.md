@@ -12,17 +12,17 @@ description: >-
   účastí občanů a jasné závazky. Rozumíme novým technologiím. A dokážeme je
   využít k usnadnění života, ke komunikaci s úřady z domova a k věrohodnější
   demokratické správě města.
-tags: Participativní-rozpočet Korupce Smart-city Transparenci
+tags: ' '
 ---
 Veřejný zájem musí převládnout nad korupčními praktikami a klientelismem. Na ztracenou důvěru v politiku nabízíme lék: Průhledné hospodaření, rozhodování s účastí občanů a jasné závazky. Rozumíme novým technologiím. A dokážeme je využít k usnadnění života, ke komunikaci s úřady z domova a k věrohodnější demokratické správě města.
 
-**I Ty rozhoduješ!**
+**I Ty rozhoduješ!** 
 
 * **Prosadíme participativní rozpočet**, díky kterému občané rozhodují o využití určené části rozpočtu města přímo. Mohou tak menšími projekty aktivně přispět ke zlepšení míst, která politici přehlíželi.
 * **Místní referenda** z iniciativy města i občanů k zásadním rozhodnutím o investicích nebo budoucnosti města. Budou vyhlašována souběžně s volbami, město bude o referendu aktivně a vyváženě informovat.
 * **Fórum občanů** jako poradní hlas. Chceme posílit kontakt mezi správou města a občany. K tomu budou sloužit **osobní setkání a internetová platforma**.
 
-**Budějovice bez korupce**
+**Budějovice bez korupce** 
 
 * **Konec trafik a feudálních praktik**. Transparentní nominace do orgánů městských firem.
 * **Úřad bez korupce, férové podmínky namísto klientelismu**. Důsledný postup proti nepoctivým úředníkům, v oprávněných případech vyhazov. Nezalekneme se ani tajemníka.
