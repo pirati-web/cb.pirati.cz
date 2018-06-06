@@ -2,32 +2,44 @@
 layout: blog
 published: true
 category: blog
-title: Město bez korupce
+title: Společně otevřeme město
 date: '2018-06-01 08:40pm'
 author: Lukáš Mareš
 image: /static/media/handcuffs-2070580_640.jpg
 description: >-
-  Na první pohled se to zdát nemusí, ale i České Budějovice přetékají korupcí a
-  klientelismem. 
-tags: ' '
+  Veřejný zájem musí převládnout nad korupčními praktikami a klientelismem. Na
+  ztracenou důvěru v politiku nabízíme lék: Průhledné hospodaření, rozhodování s
+  účastí občanů a jasné závazky. Rozumíme novým technologiím. A dokážeme je
+  využít k usnadnění života, ke komunikaci s úřady z domova a k věrohodnější
+  demokratické správě města.
+tags: Participativní-rozpočet Korupce Smart-city Transparenci
 ---
-_Na první pohled se to zdát nemusí, ale **i České Budějovice přetékají korupcí a klientelismem**. Historicky byly rozparcelovány mezi několik zájmových skupin. Jedna z nejvýznamnějších je tvořená lidmi kolem Ateliéru 8000. Další jsou spojené se zavedenými politickými stranami – osa ODS Budějovice-Hluboká, ČSSD a její letiště, ANO, KDU-ČSL. Tito lidé se přisáli na veřejné peníze města. Ovlivňují veřejné zakázky, uzavírání pro město nevýhodné a nevypověditelné smlouvy, účelově mění územní plán. Velké investice nedělají pro občany, ale pro sebe._
+Veřejný zájem musí převládnout nad korupčními praktikami a klientelismem. Na ztracenou důvěru v politiku nabízíme lék: Průhledné hospodaření, rozhodování s účastí občanů a jasné závazky. Rozumíme novým technologiím. A dokážeme je využít k usnadnění života, ke komunikaci s úřady z domova a k věrohodnější demokratické správě města.
 
-* Myslíte, že je správné, aby město pronajímalo pozemky pod bytovým komplexem U lučního jezu developerovi na 50 let za 1 korunu a s předkupním právem?  
-* Myslíte, že Ateliér 8000 vyhrává architektonické soutěže tak často, protože je nejlepší?
-* Myslíte, že po úmrtí člena dozorčí rady teplárny je nejlepší kandidát na uvolněné místo jeho 21 letý vnuk, který je zároveň synem radního města?
-* Myslíte, že je správné, aby se o zakázkách za 400 milionů rozhodovalo za zavřenými dveřmi?
-* Myslíte, že je správné, aby město platilo 22 % z celkové ceny zakázky za vícepráce a vedoucí příslušného odboru zůstal na svém místě?
-* Myslíte, že je správné bourat funkční sportovní halu a místo ní stavět za 400 milionů jinou bez soutěže? Jen si zkuste představit, co by se dalo za takové peníze vybudovat.
+**I Ty rozhoduješ!**
 
-Piráti jsou politická strana rostoucí odspodu.  **Nemáme tajné sponzory nebo postranní zájmy.** Naším cílem je dělat politiku otevřeně, s lidmi a pro lidi. Veřejnost má za svoje peníze právo vidět politikům až do kuchyně. V Praze se nám podařilo odhalit pochybné pronajímání městských bytů, bojujeme za zpřístupnění smluv ČEZu, vyšetřování korupčních kauz apod. Nastal čas otevřít okna i v Českých Budějovicích.
+* **Prosadíme participativní rozpočet**, díky kterému občané rozhodují o využití určené části rozpočtu města přímo. Mohou tak menšími projekty aktivně přispět ke zlepšení míst, která politici přehlíželi.
+* **Místní referenda** z iniciativy města i občanů k zásadním rozhodnutím o investicích nebo budoucnosti města. Budou vyhlašována souběžně s volbami, město bude o referendu aktivně a vyváženě informovat.
+* **Fórum občanů** jako poradní hlas. Chceme posílit kontakt mezi správou města a občany. K tomu budou sloužit **osobní setkání a internetová platforma**.
 
-**Naše konkrétní návrhy:**
+**Budějovice bez korupce**
 
-* Výběrová řízení a architektonické soutěže budou probíhat otevřeně a nebudou ušitá na míru vybranému subjektu.
-* **Zrevidujeme uzavřené smlouvy** a těch nevýhodných se zbavíme.
-* Uspořádáme otevřená výběrová řízení na **klíčové městské úředníky**.
-* Zbavíme představenstva městských společností politických **trafikantů**.
-* **Zpřístupníme jednání rady**, výborů a komisí, umožní-li to zákon. 
+* **Konec trafik a feudálních praktik**. Transparentní nominace do orgánů městských firem.
+* **Úřad bez korupce, férové podmínky namísto klientelismu**. Důsledný postup proti nepoctivým úředníkům, v oprávněných případech vyhazov. Nezalekneme se ani tajemníka.
+* **Kompetentní úředníci vítáni**. Důstojné osobní ohodnocení pracovitých úředníků, důraz na odbornost a vzdělávání. Úřad musí vyjít vstříc všem, kteří jsou ochotní se učit nové věci.
 
- **Pusťte nás na ně i v Budějovicích!**
+**Příkladem v transparenci**
+
+* **Naučíme město informovat občany** a od počátku veřejně projednávat všechny důležité projekty a stavby. Zlepšíme systém zasílání aktualit občanům.
+* **Otevřená jednání rady a komisí**: jmenovitá hlasování Rady, jednání přístupná zástupcům opozice a umožní-li to zákon, i veřejnosti.
+* **Skutečně transparentní rozpočet** – rozklikávací online rozpočet propojený s fakturami, výběrovými řízeními atp., který zvládne pohodlně ovládat i laik.
+* Podpoříme vznik **komunitního nebo veřejnoprávního webu a tištěných radničních novin**, s nezávislou redakcí, informující o činnosti města, otevřený názorům občanů a opozice.
+* **Městské firmy stejně transparentní jako město samo**. Transparentní příprava dotačních programů i udělování dotací.
+
+**Chytré město**
+
+* **Smart city** znamená promyšlený koncept využívání technologií, ze kterého profituje město, podnikatelé i obyvatelé. Nedovolíme, aby se stal záminkou pro nesmyslné vyhazování peněz za předražené digitální hračky, jako například “chytré lavičky”.
+* **Digitální identita občana**, která usnadní **komunikaci s úřady z domova** i zapojení do rozhodování o městě.
+* **Otevřená data**, která umožní např. tvorbu užitečných aplikací (vytíženost přepážek a úředníků, statistické údaje a jejich porovnání s ostatními městy, online stav dopravy, ...).
+* **IT konzultant pro občany**, který lidem poradí například při komunikaci s úřadem. Město může využít už existujících neziskových služeb.
+* **Postupný přechod na svobodný (open source) software** – ve spolupráci s “Otevřenými městy” a tak, aby na něm město dlouhodobě ušetřilo.
