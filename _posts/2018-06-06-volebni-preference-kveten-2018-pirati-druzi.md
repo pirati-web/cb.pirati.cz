@@ -12,13 +12,13 @@ description: >-
   května 2018
 tags: ' '
 ---
-**Pirátská strana se umístila na druhém místě a 13,9% hlasů,** v exkluzivním internetovém průzkumu společnosti SANEP, který byl proveden ve dnech 17. – 23. května 2018 na vybrané skupině 2.475 dotázaných, kteří představují reprezentativní vzorek obyvatel ČR ve věku 18+ let. Celkově se průzkumu společnosti SANEP zúčastnilo v rámci respondentního panelu 220 tisíc registrovaných uživatelů 18.867 dotázaných.
+**Pirátská strana se umístila na druhém místě s 13,9% hlasů,** v exkluzivním internetovém průzkumu společnosti SANEP, který byl proveden ve dnech 17. – 23. května 2018 na vybrané skupině 2.475 dotázaných, kteří představují reprezentativní vzorek obyvatel ČR ve věku 18+ let. Celkově se průzkumu společnosti SANEP zúčastnilo v rámci respondentního panelu 220 tisíc registrovaných uživatelů 18.867 dotázaných.
 
-![](/static/media/sanep_-_volebni_preference.jpg)
+![null](/static/media/sanep_-_volebni_preference.jpg)
 
 Velmi vypovídající o trendech voličských preferencích, je také tento druhý graf:
 
-![](/static/media/sanep_-_volebni_preference_2.jpg)
+![null](/static/media/sanep_-_volebni_preference_2.jpg)
 
 _Výsledky šetření společnosti SANEP představují aktuální teoretický volební zisk politických stran a hnutí zastoupených v Poslanecké sněmovně a dále stran a hnutí, které v šetření společnosti SANEP dosáhly nebo překročily tříprocentní hranici._ 
 
