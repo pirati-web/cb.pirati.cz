@@ -35,7 +35,7 @@ Kromě primárního účelu participativního rozpočtování, čímž je demokr
 
 ## Co je nutné pro úspěšné participativní rozpočtování zajistit?
 
-Především je nutná ochota představitelů města předat rozhodování o některých záležitostech obce, zpět do rukou jejich obyvatel. Je potřeba vysvětlit princip fungování participativního rozpočtu, provést osvětu a veřejnou propagaci tohoto nástroje. Dle zkušeností měst, které již participativní rozpočet provozují, občané si velmi rychle oblíbí princip tohoto nástroje a přijmou jej za svůj. 
+Především je nutná ochota představitelů města předat rozhodování o některých záležitostech obce zpět do rukou jejich obyvatel. Je potřeba vysvětlit princip fungování participativního rozpočtu, provést osvětu a veřejnou propagaci tohoto nástroje. Dle zkušeností měst, které již participativní rozpočet provozují, občané si velmi rychle oblíbí princip tohoto nástroje a přijmou jej za svůj. 
 
 Dále je potřeba nastavit pravidla hlasování. Vytvořit jednoduchý systém, který by umožnil transparentní a spravedlivé hlasování. Není rozhodující, zda bude identita jednotlivých hlasujících ověřena digitální identitou, zřejmě nutnou v případě velkých měst nebo prostou osobní návštěvou obecního úřadu, spojenou s odevzdáním svých preferenčních hlasů pro jednotlivé projekty.
 
@@ -51,8 +51,8 @@ Velmi vítaná je také asistence obce při organizování veřejných diskuzí,
 * Nástroj přímé demokracie
 * Transparentnost celého procesu
 * Zpětná vazba voleným zástupům obce
-* Otvírá cestu pro další komunikaci mezi radnicí a občany (ankety, dotazníky, hlasování ...)
+* Otvírá cestu pro další komunikaci mezi radnicí a občany - ankety, dotazníky, hlasování... 
 * Působí jako antikorupční nástroj
 
-Participativní rozpočet je součástí volebních priorit budějovických Pirátů. \
+Participativní rozpočet je součástí volebních priorit budějovických Pirátů. 
 Podívejte se na náš [**celý volební program**](https://cb.pirati.cz/volby/).
