@@ -19,8 +19,7 @@ Co mají společného New York, Bratislava, Varšava,  Brno, Ostrava, Horní Po�
 
 Radnice města vyčlení část rozpočtu města na projekty, o kterých budou přímo rozhodovat sami občané. Například v Brně to bylo 20 miliónů korun. Tedy žádná malá úlitba “otravným”, aktivním občanům. Ale skutečně zásadní zapojení občanů do rozhodování. 
 
-**Celý proces výběru projektů, které si občané zvolí, probíhá v 5 fázích:
-**
+## Celý proces výběru projektů, které si občané zvolí, probíhá v 5 fázích:
 
 1. Radnice vyhlásí harmonogram pro příjem návrhů projektů a termín hlasování 
 2. Občané v prvním kole navrhují projekty pro financování
