@@ -11,7 +11,7 @@ description: >-
   sami zapojit do rozdělování finančních prostředků z veřejných rozpočtů.
 tags: ' '
 ---
-Participativní rozpočet je nástroj, pomocí kterého se mohou občané v obcích, sami zapojit do rozdělování finančních prostředků z veřejných rozpočtů. Sami mohou navrhnout jaké projekty by měly být podpořeny a sami občané pak demokraticky, pomocí hlasování zvolí projekty, které jsou pro ně nejpřínosnější.
+Participativní rozpočet je nástroj, pomocí kterého se mohou občané v obcích sami zapojit do rozdělování finančních prostředků z veřejných rozpočtů. Sami mohou navrhnout jaké projekty by měly být podpořeny a sami občané pak demokraticky, pomocí hlasování zvolí projekty, které jsou pro ně nejpřínosnější.
 
 Co mají společného New York, Bratislava, Varšava,  Brno, Ostrava, Horní Počernice, Krnov, Chomutov a Říčany? Ano, je to zavedené participativní rozpočtování. A další a další města a obce se přidávají. Lavina tohoto fenoménu se již spustila a nejde zastavit.
 
