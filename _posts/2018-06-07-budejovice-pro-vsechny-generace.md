@@ -4,7 +4,7 @@ published: true
 category: blog
 title: Budějovice pro všechny generace
 date: '2018-06-07 05:56am'
-author: Ivo Veselý
+author: Ivo Vlasatý
 image: /static/media/bridge-574916_640.jpg
 description: >-
   Moderní civilizovaná společnost stojí na kvalitních veřejných službách. Bez
