@@ -15,8 +15,8 @@ Jak blízko mají občané k přírodě, je v různých městech a jejich část
 
 Podíl zelených ploch na celkové výměře měst
 
-* **Český Krumlov 54 %**
-* České Budějovice 22 %
+* Český Krumlov 54 %
+* **České Budějovice 22 %**
 * Jindřichův Hradec 35 %
 * Písek 58 %
 * Prachatice 73 %
