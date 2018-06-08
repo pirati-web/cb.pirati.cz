@@ -11,7 +11,7 @@ tags: ' '
 ---
 Přečtěte si poslední květnové číslo [**Pirátského zpravodaje**](https://cb.pirati.cz/assets/img/zpravodaj_kveten.pdf). 
 
-**Co si zde naleznete:**
+**Co zde naleznete:**
 
 * informace o posledním čísle Pirátských listů
 * souhrn nejzajímavějších akcí, které proběhly v ČEPICE
