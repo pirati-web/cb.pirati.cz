@@ -34,7 +34,6 @@ Město je živý organismus. Každé větší rozhodnutí zasáhne několik gene
 * **Ozelenění náměstí Přemysla Otakara II.** – nejprve na zkoušku v květináčích. Osvědčí-li se, pak natrvalo. Rozvoj Senovážného a Mariánského náměstí s ohledem na dosluhující zákryt Mlýnské stoky, respektive možnou stavbu nové budovy Jihočeského divadla.
 * **Oživení přirozených místních center**. Například náprava neutěšeného stavu **náměstí v Suchém Vrbném** (a bývalého kina). Budeme usilovat i o oživení oblasti v ose E. Rošického – od parku 4 Dvory po revitalizované Výstaviště. **Kulturní život patří na oba břehy Vltavy!**
 * **Rekonstrukce Slavie v režii města**. Připravíme rekonstrukci KD Vltava tak, aby vyhovovala současným potřebám a nárokům (např. akustickým) – do té doby žádné velké investice!
-* **Podporujeme přípravu nové budovy Jihočeského divadla** – priorita pro příští desetiletí. Pro pozemky “**Rejnoka**” najdeme využití, které nebude bránit možné stavbě v budoucnu.
 * **Odmítáme bourání sportovní haly**. Po řádné soutěži můžeme podpořit výstavbu druhé haly.
 * **Transparentní záměr podpory sportů** na amatérské nebo profesionální úrovni. Sladěný s dalšími městy dle jejich úspěchů (např. písecká házená, ledenický baseball, ...).
 * **Evidence veřejných sportovišť**, jejich efektivní využívání a veřejná přístupnost.
