@@ -6,23 +6,15 @@ title: Piráti chtějí více zeleně
 date: '2018-06-07 06:11am'
 author: Pavel Šramhauser
 image: /static/media/path-in-the-park-2052303_640.jpg
-description: 'Nejzelenějším městem kraje jsou Prachatice, nejméně zelené jsou Budějovice'
+description: Piráti chtějí více zeleně
 tags: ' '
 ---
-Nejzelenějším městem kraje jsou Prachatice, nejméně zelené jsou Budějovice.
+Stromy i další zeleň v ulicích jsou krásné, ale i užitečné. Skrz listy odpařují velké množství vody a tím výrazně ochlazují vzduch, což každý ocení hlavně během letních veder, která v poslední době Českou republiku zasahují častěji a častěji, stejně jako zbytek světa. Horko není jen nepříjemné, ve svých extrémech působí mnoha lidem vážné zdravotní potíže. Neméně závažné je znečištění tzv. pevnými prachovými částicemi, které do městského ovzduší vypouštíme různým spalováním, např. dieselu v automobilech. Jedním z nejúčinnějších a nejlevnějších řešení je mít všude dostatek zeleně, která alespoň část zachytí.
 
-Jak blízko mají občané k přírodě, je v různých městech a jejich částech různé. Z jihočeských okresních sídel jsou po této stránce na prvním místě Prachatice. Mají totiž zelené plochy na 73 % výměry. A to není přínosné jen pro člověka, jemuž, aniž si to mnohdy uvědomí, poskytuje „dobro“ dvojím způsobem. Vytváří příjemné mikroklima a zlepšuje estetický vzhled. A živočichům dává životní prostor.
+Více např. [článek na global.nature.org](https://global.nature.org/content/healthyair)
 
-Podíl zelených ploch na celkové výměře měst
+V neposlední řadě městské stromy, zejména pokud se jedná o vhodně zvolené druhy a pokud je o ně pečováno citlivě, poskytují životní prostor pro celou plejádu zajímavých brouků, ptáků nebo netopýrů. 
 
-* Český Krumlov 54 %
-* **České Budějovice 22 %**
-* Jindřichův Hradec 35 %
-* Písek 58 %
-* Prachatice 73 %
-* Strakonice 37 %
-* Tábor 39 %
+Více např. [zde](http://calla.cz/stromyahmyz/index.php).
 
-Jedním z volebních témat českobudějovických Pirátů je i "[**ZELENÉ A ČISTÉ MĚSTO**](https://cb.pirati.cz/blog/2018/05/30/mesto-do-rukou-obcanu/)". Piráti chtějí více zeleně.
-
-Zdroj: [ceskobudejovicky.denik.cz](https://ceskobudejovicky.denik.cz/zpravy_region/nejzelenejsim-mestem-kraje-jsou-prachatice-nejmene-budejovice-20180524.html)
+Jedním z volebních témat českobudějovických Pirátů je i “ZELENÉ A ČISTÉ MĚSTO”. Piráti chtějí více zeleně.
