@@ -5,7 +5,7 @@ category: blog
 title: Aktuální číslo PIRÁTSKÉHO ZPRAVODAJE
 date: '2018-06-08 10:38am'
 author: Zuzana Kudláčková
-image: /static/media/pizpra.jpg
+image: /static/media/newspapers-444447_640.jpg
 description: 'Přečtěte si poslední květnové číslo Pirátského zpravodaje. '
 tags: ' '
 ---
