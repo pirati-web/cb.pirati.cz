@@ -5,7 +5,7 @@ category: blog
 title: Hledáme dobrovolníky na distribuci PIRÁTSKÝCH LISTŮ
 date: '2018-05-31 07:19pm'
 author: Jaroslav Hansal
-image: /static/media/34178520_381928978974677_3956641757042573312_o.jpg
+image: /static/media/clipboard02.png
 description: Hledáme dobrovolníky na distribuci Pirátských listů v Jihočeském kraji.
 tags: ' '
 ---
