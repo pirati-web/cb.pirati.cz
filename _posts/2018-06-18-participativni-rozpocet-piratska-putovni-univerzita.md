@@ -14,6 +14,7 @@ tags: ' '
 Ve spolupráci s Pirátskou putovní univerzitou se v ČEPICI koná přednáška Karla Růžičky o participativním rozpočtu. 
 
 Termín: **25. červen 2018, 17:30–19:30 hod**
+
 Místo: [ČEPICE - Českobudějovické Pirátské centrum](https://www.facebook.com/cepiceCB/), Hradební 13, České Budějovice
 
 Základní informace o participativním rozpočtu můžete již nyní [nalézt na našem webu](https://cb.pirati.cz/blog/2018/06/07/participativni-rozpocet-konec-nadavani-u-piva/). Participativní rozpočet je jedním z volebních témat Pirátů pro České Budějovice.
