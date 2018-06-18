@@ -13,7 +13,7 @@ tags: ' '
 ---
 Vyražte s námi do ulic a rozdejte s námi čerstvé vydání Pirátských listů. Pojďte s námi ukázat, že jsme tady a Vy jste s námi. Platí až do 28. června 2018. 
 
-[Zde](https://www.facebook.com/events/531317333936656/permalink/538997696501953/?notif_t=event_mall_comment&notif_id=1529349178613086) najdete aktuální informace o termínech rozdávání Pirátských listů. Napište nám, jestli máte dotazy. Časy a místo je možné dohodnout i jinak. Můžeme jít pěšky i na kolech. 
+[Zde](https://www.facebook.com/events/531317333936656/?active_tab=discussion) najdete aktuální informace o termínech rozdávání Pirátských listů. Napište nám, jestli máte dotazy. Časy a místo je možné dohodnout i jinak. Můžeme jít pěšky i na kolech. 
 
 **Hledáme možná právě Tebe pro tyto volné termíny:**
 
