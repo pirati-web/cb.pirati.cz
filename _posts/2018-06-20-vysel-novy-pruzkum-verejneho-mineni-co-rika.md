@@ -5,6 +5,7 @@ category: blog
 title: Vyšel nový průzkum veřejného mínění! Co říká?
 date: '2018-06-20 06:35am'
 author: Dan Leština
+image: /static/media/vysledky.png
 description: >
   Předvolební průzkumy. Pro nás politiky jsou to střídavě největší nepřátelé a
   zajímavé vysvědčení o naší činnosti. A pro některé asi i nekalé zbraně v
