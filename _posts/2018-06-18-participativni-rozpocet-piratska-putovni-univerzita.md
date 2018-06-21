@@ -4,7 +4,7 @@ published: true
 category: blog
 title: Participativní rozpočet - Pirátská putovní univerzita
 date: '2018-06-18 09:43pm'
-author: Ivo Veselý
+author: Ivo Vlasatý
 image: /static/media/learning-3245792_1280.jpg
 description: >-
   Ve spolupráci s Pirátskou putovní univerzitou se v ČEPICI koná přednáška Karla
