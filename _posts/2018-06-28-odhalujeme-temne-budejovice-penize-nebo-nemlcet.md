@@ -29,7 +29,7 @@ V květnu se konalo zastupitelstvo, rada města z programu stáhla bod „vyjmut
 
 
 
-Po tomto projevu následoval tah města. **Pan Holický jako člen rady města a náměstek primátora pro výstavbu, majetek města, finance a ekonomiku zdvihl telefon a nechal se na určitých místech slyšet, že by se trenéři sportovních klubů měli krotit a nevystupovat. Pokud tak neučiní, mohou lidé kolem atletiky zapomenout na dotaci, kterou město přispěje na opravu atletického stadionu na Sokolském ostrově. **Občané Českých Budějovic, na demokracii zapomeňte, vrátily se staré pořádky.
+Po tomto projevu následoval tah města. **Pan Holický jako člen rady města a náměstek primátora pro výstavbu, majetek města, finance a ekonomiku zdvihl telefon a nechal se na určitých místech slyšet, že by se trenéři sportovních klubů měli krotit a nevystupovat. Pokud tak neučiní, mohou lidé kolem atletiky zapomenout na dotaci, kterou město přispěje na opravu atletického stadionu na Sokolském ostrově.** Občané Českých Budějovic, na demokracii zapomeňte, vrátily se staré pořádky.
 
 
 
