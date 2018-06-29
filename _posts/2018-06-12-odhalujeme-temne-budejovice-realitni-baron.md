@@ -2,7 +2,7 @@
 layout: blog
 published: true
 category: blog
-title: Odhalujeme temné Budějovice - Realitní baron
+title: Odhalujeme temné Budějovice - Budějovický baron
 date: '2018-06-12 07:15pm'
 author: Ondřej Sekora
 image: /static/media/black.jpg
