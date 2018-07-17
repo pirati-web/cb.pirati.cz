@@ -6,7 +6,7 @@ title: JDE TO I JINAK (o radě města)
 date: '2018-07-17 06:15am'
 author: 'JUDr. Svatomír Mlčoch '
 image: /static/media/samsonx.jpg
-description: "  Již brzy si můžeme vybrat koho si přejeme na „radnici“. Tedy vybrat 45 zastupitelů, kteří pak zvolí radu a primátora či jeho náměstky. Co se bude v\_letech 2015 – 2019 v\_Českých Budějovicích stavět, jak budou vypadat městské školy, doprava, kultura a veřejná prostranství, závisí v\_nemalé míře na volených zástupcích."
+description: "  Již brzy si můžeme vybrat koho si přejeme na „radnici“. Tedy vybrat 45 zastupitelů, kteří pak zvolí radu a primátora či jeho náměstky. Co se bude v\_letech 2019 – 2023 v\_Českých Budějovicích stavět, jak budou vypadat městské školy, doprava, kultura a veřejná prostranství, závisí v\_nemalé míře na volených zástupcích."
 tags: ' '
 ---
 Již brzy si můžeme vybrat koho si přejeme na „radnici“. Tedy vybrat 45 zastupitelů, kteří pak zvolí radu a primátora či jeho náměstky. Co se bude v letech 2019 – 2023 v Českých Budějovicích stavět, jak budou vypadat městské školy, doprava, kultura a veřejná prostranství, závisí v nemalé míře na volených zástupcích. Nynější situace je taková, že množství významných věcí se rozhoduje v jedenáctičlenné radě. Většina radních, tedy pouhých 6 osob, může ovlivnit podstatným způsobem chod města.
