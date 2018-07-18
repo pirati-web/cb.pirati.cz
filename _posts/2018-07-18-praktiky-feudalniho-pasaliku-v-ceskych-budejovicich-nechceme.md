@@ -36,4 +36,4 @@ Devět členů dozorčí rady Teplárny ČB připadá Pirátům zbytečně moc. 
 
 „Od rady města budeme požadovat popsání procesu výběru nového člena dozorčí rady, jeho životopis a relevantní kvalifikaci. Dále chceme slyšet, zda jsou výše zmínění páni Machové v nějakém příbuzenském vztahu, a případně v jakém. A pokud se ukáže, že výběr kandidáta proběhl nestandardně a na základě rodinných vazeb, budeme požadovat odstoupení Jaroslava Macha (r. 1995) z dozorčí rady, odkázání jím nabyté finanční odměny za vykonávanou funkci na dobročinné účely (například Fond ohrožených dětí) a veřejnou omluvu členů Rady města České Budějovice, kteří jej svými hlasy zvolili,“ uzavírá Lukáš Mareš.
 
-Další informace k této kauze na stránkách zpravodajství [Jižní Čechy Teď](http://www.jcted.cz/aktualzovano-cssd-vyslala-studenta-z-neplachova-do-dozorci-rady-teplarny-pirati-tvrdi-ze-funkci-zdedil-radni-mach-reaguje/?discussion-paginator-page=2).
+Další informace k této kauze na stránkách zpravodajství [Jižní Čechy Teď](http://www.jcted.cz/aktualzovano-cssd-vyslala-studenta-z-neplachova-do-dozorci-rady-teplarny-pirati-tvrdi-ze-funkci-zdedil-radni-mach-reaguje/?discussion-paginator-page=2)
