@@ -1,16 +1,16 @@
-title:
+title: Piráti České Budějovice
 default_locale: "cs"
 permalink: pretty
 markdown: kramdown
-facebookurl: https://www.facebook.com/piratitabor
+facebookurl: https://www.facebook.com/PiratiCB
 logo: /static/logo_cb3.svg
 
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
-paginate: 7
+paginate: 8
 paginate_path: "/clanky/:num/"
 articlepath: blog
-keywords: českobudějovicko,piráti
+keywords: českobudějovicko,piráti,budějovice,budějce
 url: https://cb.pirati.cz
