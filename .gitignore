@@ -9,3 +9,8 @@ static/script.js
 static/style.css
 Gemfile.lock
 _includes/shared
+
+.bundle/
+.jekyll-metadata
+vendor/
+
