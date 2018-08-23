@@ -5,7 +5,7 @@ category: blog
 title: Písničkář Dan Vertígo zahrál v Pirátském centru ČePiCe
 date: '2018-08-23 05:31am'
 author: MgA. Jan Nepomuk Piskač
-image: /static/media/dan-vertigo.jpg
+image: /static/media/danvertigo.jpg
 description: >
   Jihočeští Piráti připravili na pátek 17. srpna v Českých Budějovicích setkání
   spojené s grilovačkou a koncertem písničkáře Dana Vertíga. Akce se konala v
