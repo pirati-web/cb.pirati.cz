@@ -15,6 +15,7 @@ description: >-
 tags: ' '
 ---
 Losování čísel na hlasovacích lístcích pro volby do Senátu Parlamentu ČR a do zastupitelstva města České Budějovice se uskutečnilo 21. srpna 2018 v zasedací místnosti zastupitelstva na radnici. Vylosovanými čísly viz níže budou označeny hlasovací lístky kandidátů do senátu a volebních stran pro volby do zastupitelstva.
+<HR>
 
 ZASTUPITELSTVO ČESKÝCH BUDĚJOVIC:
 
@@ -46,6 +47,8 @@ ZASTUPITELSTVO ČESKÝCH BUDĚJOVIC:
 
 **14 ... Česká pirátská strana**
 
+
+<HR>
 
 
 SENÁT:
