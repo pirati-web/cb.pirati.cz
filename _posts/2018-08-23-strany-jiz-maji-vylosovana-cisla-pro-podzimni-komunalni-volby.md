@@ -18,30 +18,50 @@ Losování čísel na hlasovacích lístcích pro volby do Senátu Parlamentu Č
 
 ZASTUPITELSTVO ČESKÝCH BUDĚJOVIC:
 
-1 ... Vize Národních socialistů\
-2 ... REALISTÉ'\
-3 ... Křesťanská a demokratická unie – Československá strana lidová\
-4 ... Česká strana sociálně demokratická\
-5 ... OBČANÉ PRO BUDĚJOVICE\
-6 ... Česká strana národně sociální\
-7 ... Komunistická strana Čech a Moravy\
-8 ... Svoboda a přímá demokracie – Tomio Okamura (SPD)\
-9 ... PRO Zdraví a Sport\
-10 ... Sdružení Občanské demokratické strany a nezávislých kandidátů\
-11 ... Společně pro Budějovice – Lidovci a TOP 09\
-12 ... ANO 2011\
-13 ... STAROSTOVÉ A NEZÁVISLÍ a Čisté Budějovice\
+1  ... Vize Národních socialistů
+
+2  ... REALISTÉ
+
+3 ... Křesťanská a demokratická unie – Československá strana lidová
+
+4 ... Česká strana sociálně demokratická
+
+5 ... OBČANÉ PRO BUDĚJOVICE
+
+6 ... Česká strana národně sociální
+
+7 ... Komunistická strana Čech a Moravy
+
+8 ... Svoboda a přímá demokracie – Tomio Okamura (SPD)
+
+9 ... PRO Zdraví a Sport
+
+10 ... Sdružení Občanské demokratické strany a nezávislých kandidátů
+
+11 ... Společně pro Budějovice – Lidovci a TOP 09
+
+12 ... ANO 2011
+
+13 ... STAROSTOVÉ A NEZÁVISLÍ a Čisté Budějovice
+
 **14 ... Česká pirátská strana**
 
 
 
 SENÁT:
 
-1 ... Ing. Štěpán Tampír\
-2 ... JUDr. Ladislav Faktor\
-3 ... MUDr. Blanka Jakubcová Sýkorová\
-4 ... Doc. PhDr. Mgr. Lubomír Pána, Ph.D., dr.h.c.\
-5 ... Ing. Miloslav Procházka, CSc.\
-6 ... Jiří Šesták, Ph.D.\
-7 ... Richard Schötz\
+1  ... Ing. Štěpán Tampír
+
+2 ... JUDr. Ladislav Faktor
+
+3  ... MUDr. Blanka Jakubcová Sýkorová
+
+4 ... Doc. PhDr. Mgr. Lubomír Pána, Ph.D., dr.h.c.
+
+5 ... Ing. Miloslav Procházka, CSc.
+
+6 ... Jiří Šesták, Ph.D.
+
+7 ... Richard Schötz
+
 8 ... Ing. Marie Paukejová
