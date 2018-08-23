@@ -4,7 +4,7 @@ published: true
 category: blog
 title: Písničkář Dan Vertígo zahrál v Pirátském centru ČePiCe
 date: '2018-08-23 05:31am'
-author: MgA. Jan Nepomuk Piskač
+author: 'Zuzana Kudláčková, Zbyněk Konvička'
 image: /static/media/danvertigo.jpg
 description: >
   Jihočeští Piráti připravili na pátek 17. srpna v Českých Budějovicích setkání
