@@ -13,7 +13,7 @@ description: >
   kteří si za každou cenu prosadili, co si usmysleli.
 tags: ' '
 ---
-**Piráti nesouhlasí s interpretací náměstka pro dopravu Františka Konečného, který obviňuje majitele domů v centru města z ukončení provozu linky 24 v Krajinské ulici. Z rozsudku jasně vyplývá, že příčinou je přístup radních, kteří si za každou cenu prosadili, co si usmysleli.**
+**Piráti nesouhlasí s interpretací náměstka pro dopravu Františka Konečného, který obviňuje majitele domů v centru města z ukončení provozu linky 24 v Krajinské ulici. Z rozsudku jasně vyplývá, že příčinou je přístup radních, kteří si za každou cenu prosadili, co si usmysleli.** 
 
 
 
