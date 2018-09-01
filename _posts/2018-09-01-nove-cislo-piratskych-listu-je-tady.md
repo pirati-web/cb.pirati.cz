@@ -13,7 +13,7 @@ description: >-
   nedočkavé jsme je umístili i na náš web v digitální podobě. 
 tags: ' '
 ---
-Právě nám z tiskárny dorazila nová várka PIRÁTSKÝCH LISTŮ. Tentokrát jde o speciální volební číslo. Již brzy se naši dobrovolníci a s nimi všichni Piráti rozběhnou po Budějovicích, abyste si je mohli co nejdříve přečíst. Pro ty nedočkavé jsme je umístili i na náš web v digitální podobě. 
+Právě nám z tiskárny dorazila nová várka PIRÁTSKÝCH LISTŮ. Tentokrát jde o speciální volební číslo. Již brzy se naši dobrovolníci a s nimi všichni Piráti rozběhnou po Budějovicích, abyste si je mohli co nejdříve přečíst. 
 
 Chcete nám pomoci s jejich roznosem? Napište nám na email <mailto:jan.hosek@pirati.cz>. Děkujeme. A co našim listům říkáte?
 
