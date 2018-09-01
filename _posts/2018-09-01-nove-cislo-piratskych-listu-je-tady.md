@@ -17,6 +17,4 @@ Právě nám z tiskárny dorazila nová várka PIRÁTSKÝCH LISTŮ. Tentokrát j
 
 Chcete nám pomoci s jejich roznosem? Napište nám na email <mailto:jan.hosek@pirati.cz>. Děkujeme. A co našim listům říkáte?
 
-PIRÁTSKÉ LISTY zobrazíte kliknutím na obrázek:
-
-![Zobrazit PIRÁTSKÉ LISTY](/static/media/plistyweb.jpg)
+PIRÁTSKÉ LISTY si můžete přečíst [**ZDE **](/static/piratske-listy082018.pdf) (ve formátu .pdf).
