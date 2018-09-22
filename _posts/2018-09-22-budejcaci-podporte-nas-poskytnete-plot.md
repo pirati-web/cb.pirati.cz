@@ -5,7 +5,7 @@ category: blog
 title: 'BUDĚJČÁCI, PODPOŘTE NÁS, POSKYTNĚTE PLOT!'
 date: '2018-09-22 05:55pm'
 author: Jaroslav Hansal
-image: /static/media/plachtax.jpg
+image: /static/media/plachtax2.jpg
 description: >
   Právě nám dorazily z tiskárny zbrusu nové plachty pro propagaci budějovických
   Pirátu na volby.  Fandíte nám? Chcete nám pomoci s propagací? Poskytněte nám
@@ -20,4 +20,4 @@ Děkujeme, velmi si vaší podpory vážíme.
 
 A takto plachta vypadá:
 
-![](/static/media/plachtapiratis.jpg)
+![null](/static/media/plachtapiratis.jpg)
