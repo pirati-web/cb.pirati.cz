@@ -8,8 +8,8 @@ author: Jaroslav Hansal
 image: /static/media/plachtax2.jpg
 description: >
   Právě nám dorazily z tiskárny zbrusu nové plachty pro propagaci budějovických
-  Pirátu na volby.  Fandíte nám? Chcete nám pomoci s propagací? Poskytněte nám
-  svůj plot pro umístění banneru - jen na 2 týdny, do 5.října 2018. 
+  Pirátů. Fandíte nám? Chcete nám pomoci s kampaní? Poskytněte nám svůj plot pro
+  umístění banneru - jen na 2 týdny, do voleb 5. října 2018.
 tags: ' '
 ---
 Právě nám dorazily z tiskárny zbrusu nové plachty pro propagaci budějovických Pirátů. Fandíte nám? Chcete nám pomoci s kampaní? Poskytněte nám svůj plot pro umístění banneru - jen na 2 týdny, do voleb 5. října 2018.
