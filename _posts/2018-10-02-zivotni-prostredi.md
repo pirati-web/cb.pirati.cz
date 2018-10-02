@@ -19,7 +19,7 @@ Město musíme připravit na klimatickou změnu. Větru a dešti neporučíme, a
 
 **Jsme pro čistší vzduch a proti rozpáleným ulicím** 
 
-* Budeme sázet stromy do ulic, podpoříme vznik nových alejí a **zeleného **(a vodního) „**ostrova**“ v centru ČB
+* Budeme sázet stromy do ulic, podpoříme vznik nových alejí a **zeleného (a vodního) „ostrova“ v centru** ČB
 * **Na střechy i na fasády** velkých nových budov osadíme odpovídající rostlinstvo pro ochlazování a čištění vzduchu.
 * Využijeme moderních technologií pro monitoring a** informování o kvalitě ovzduší** .
 * Připravíme [**plán dopravních opatření**](https://cb.pirati.cz/blog/2018/09/17/doprava/) pro pro udržitelný rozvoj v budoucnu 
@@ -29,7 +29,7 @@ Město musíme připravit na klimatickou změnu. Větru a dešti neporučíme, a
 
 * Kanalizační a vodovodní síti (a tím čistotě řek a zásobám pitné vody), koloběhu vody i protipovodňové ochraně pomůžeme lepším **využíváním dešťové vody** - jímáním i zasakováním.
 * Přehodnotíme **systém správy veřejné zeleně** tak, aby byla odborná, koncepční a neodčerpávala zbytečně finanční prostředky.
-* Při obměně svítidel veřejného osvětlení nebo instalaci nového budeme dbát nejen na kvalitní osvětlení a **úspory energie**, ale také na** omezení zbytečného světelného smogu** .
+* Při obměně svítidel veřejného osvětlení nebo instalaci nového budeme dbát nejen na kvalitní osvětlení a **úspory energie**, ale také na **omezení zbytečného světelného smogu** .
 
 **Malé velké kroky pro přírodu i lidi bez zbytečných nákladů:** 
 
