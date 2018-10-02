@@ -14,8 +14,7 @@ tags: ' '
 ---
 Připravili jsme pro vás 7 stručných a jasných důvodů, proč nám to 5. a 6. října hodit, a to i v případě, že nás nemáte dvakrát v lásce. Držte se, jdeme na to!
 
-**1. Aktivně prosazujeme eGovernment
-** 
+**1. Aktivně prosazujeme eGovernment** 
 
 V široké koalici stran a ve spolupráci s špičkovými odborníky připravujeme zákon o právu na digitální službu, který dá právní rámec eGovernmentu v Česku. Na jeho konci budou úřady komunikující uživatelsky přívětivě a digitálně s každým občanem, který preferuje rychlý klik myší před dlouhými frontami.
 
