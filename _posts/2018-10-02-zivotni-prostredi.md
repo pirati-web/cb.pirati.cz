@@ -21,7 +21,7 @@ Město musíme připravit na klimatickou změnu. Větru a dešti neporučíme, a
 
 * Budeme sázet stromy do ulic, podpoříme vznik nových alejí a **zeleného (a vodního) „ostrova“ v centru** ČB
 * **Na střechy i na fasády** velkých nových budov osadíme odpovídající rostlinstvo pro ochlazování a čištění vzduchu.
-* Využijeme moderních technologií pro monitoring a** informování o kvalitě ovzduší** .
+* Využijeme moderních technologií pro monitoring a **informování o kvalitě ovzduší** .
 * Připravíme [**plán dopravních opatření**](https://cb.pirati.cz/blog/2018/09/17/doprava/) pro pro udržitelný rozvoj v budoucnu 
 * Podpoříme **umísťování pítek a kašen**; vodní prvky obecně do města patří - ochlazují vzduch a zpříjemňují prostor okolo sebe.
 
