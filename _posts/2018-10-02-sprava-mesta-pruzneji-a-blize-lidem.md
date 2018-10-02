@@ -18,7 +18,7 @@ Občané Českých Budějovic mají malou možnost ovlivnit rozhodování ve mě
 
 
 
-**Samospráva ponovu**:
+**Samospráva ponovu** : 
 
 * Zřídíme 3 – 6 samosprávných městských čtvrtí [chránící zájmy občanů v bydlišti](https://cb.pirati.cz/blog/2018/08/29/v-ceskych-budejovicich-rozhodujes-i-ty/)
 * Nové městské čtvrti budou bez tajemníka i úředníků a bez radnic
