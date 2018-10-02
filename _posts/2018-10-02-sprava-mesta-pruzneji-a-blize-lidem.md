@@ -27,7 +27,7 @@ Občané Českých Budějovic mají malou možnost ovlivnit rozhodování ve mě
 
 
 
-**Pro zastupitelstvo akčnější** :
+**Pro zastupitelstvo akčnější**: 
 
 * Zvýšíme frekvenci jednání zastupitelstva – jednou za tři týdny
 * Rozšíříme pravomoci zastupitelstva na úkor rady města
@@ -35,7 +35,7 @@ Občané Českých Budějovic mají malou možnost ovlivnit rozhodování ve mě
 
 
 
-**Rada města pod kontrolou:** :
+**Rada města pod kontrolou** :
 
 * Rada by měla reprezentovat i opozici nebo zajistit poměrné zastoupení všech 
 * Podklady pro jednání rady  musí být dostupné všem zastupitelům
