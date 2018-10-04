@@ -23,4 +23,4 @@ Věříme, že vás naše nasazení a [volební program](https://cb.pirati.cz/vo
 
 Děkujeme a těšíme se na vás u voleb!
 
-![](/static/media/listek.jpg)
+![null](/static/media/listek.jpg)
