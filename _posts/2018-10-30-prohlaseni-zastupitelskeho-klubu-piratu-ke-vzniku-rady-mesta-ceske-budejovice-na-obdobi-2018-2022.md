@@ -35,6 +35,6 @@ V Českých Budějovicích 30.10. 2018
 
 
 
-MUDr. Lukáš Mareš\
-předseda zastupitelského klubu Pirátů \
+MUDr. Lukáš Mareš
+předseda zastupitelského klubu Pirátů
 v Českých Budějovicích
