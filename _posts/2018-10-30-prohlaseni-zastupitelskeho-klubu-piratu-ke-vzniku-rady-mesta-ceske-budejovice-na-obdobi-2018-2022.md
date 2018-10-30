@@ -7,7 +7,7 @@ title: >-
   na období 2018 – 2022
 date: '2018-10-30 08:01pm'
 author: MUDr. Lukáš Mareš
-image: /static/media/logopirati.png
+image: /static/media/radnice.jpg
 description: |-
   Česká pirátská strana s podporou zelených a nestraníků získala v
    říjnových volbách do zastupitelstva v Českých Budějovicích šest
