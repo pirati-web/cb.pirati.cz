@@ -25,7 +25,7 @@ Součástí bodu byla prezentace „Návrhu hmotové studie“ od Ateliéru 8000
 
 Zajímavou zajímavostí je, že vizuální podoba této hmotová studie (která byla vypracovaná na základě iniciativy Volejbalového klubu) byla totožná s vítězným návrhem později uspořádané soutěže – s ježkem (i když byly výsledky známé až v březnu 2013). Soutěž, pro připomenutí, byla Úřadem pro ochranu veřejné soutěže zrušená kupodivu proto, že se ani jeden z přihlášených projektů nevešel do cenového limitu  270 milionů s DPH. 
 
-Shrnuto: **Ateliér 8000 má prošlapanější cestu, než jakýkoli jiný architektonický salón ve městě. **
+Shrnuto: **Ateliér 8000 má prošlapanější cestu, než jakýkoli jiný architektonický salón ve městě.**
 
 Další sled událostí neznám. Nicméně se domnívám, že mohl probíhat zhruba následovně: 
 
@@ -37,14 +37,13 @@ A teď se ponořme ještě trochu hlouběji.
 
 Pojďme se zeptat – cui bono? 
 
-**Kdo chce, aby ve městě stála nová sportovní hala? 
-**
+**Kdo chce, aby ve městě stála nová sportovní hala?**
 
 Občané? 
 
 Na volejbal jich chodí minimum – kolem 500 na zápas a 1000 když se hraje o titul. Dalších odhadem maximálně 1000 jich pak v hale sportuje aktivně. 
 
-**Takže to máme 2000 občanů. **Zbytku je to jedno nebo ji nechtějí. Jako například ty čtyři tisícovky, které se zvedly a podepsaly petici. Že občané halu nechtějí vím i proto, že se s nimi o tom mluvím. 
+**Takže to máme 2000 občanů.** Zbytku je to jedno nebo ji nechtějí. Jako například ty čtyři tisícovky, které se zvedly a podepsaly petici. Že občané halu nechtějí vím i proto, že se s nimi o tom mluvím. 
 
 A co, kdyby chtěli halu zbourat statici? Padá nám hala na hlavu? 
 
@@ -62,8 +61,7 @@ A co říkají na stavbu haly ostatní sportovci v Budějovicích? Těžko ří
 
 Tak kdo nám tedy zbývá? Komu ta hala prospěje? Kdo má dost vlivu i peněz pustit se do takového dobrodružství? 
 
-**Takový člověk tady je. Jmenuje se Jan Diviš a je to vlivný a bohatý českobudějovický podnikatel a mimo jiné ředitel volejbalového klubu.** Ředitel? Spíš jeho otec. A volejbal je jeho dítě. Všechna čest. A pro své děťátko chce logicky to nejlepší. A když už se tu hraje nejlepší volejbal v Čechách, tak chce, aby se hrál v té nejlepší hale. To je skvělé. Otázka ovšem je, jestli to za těch 800 milionů, které se investují ve prospěch zhruba dvou tisícovkám občanů, stojí. **Vychází to zhruba 400 000 na jednoho diváka nebo sportovce! 
-**
+**Takový člověk tady je. Jmenuje se Jan Diviš a je to vlivný a bohatý českobudějovický podnikatel a mimo jiné ředitel volejbalového klubu.** Ředitel? Spíš jeho otec. A volejbal je jeho dítě. Všechna čest. A pro své děťátko chce logicky to nejlepší. A když už se tu hraje nejlepší volejbal v Čechách, tak chce, aby se hrál v té nejlepší hale. To je skvělé. Otázka ovšem je, jestli to za těch 800 milionů, které se investují ve prospěch zhruba dvou tisícovkám občanů, stojí. **Vychází to zhruba 400 000 na jednoho diváka nebo sportovce!**
 
 Bohužel, v minulosti se stala nemilá věc. Je mi trochu žinantní o tom mluvit, když jsem to osobně nezažil a znám ten příběh jenom z vyprávění. 
 
@@ -87,8 +85,7 @@ Blbé je, že tohle nemohu nijak dokázat, protože podívat se do účetnictví
 
 Problém smluv s ďáblem je ten, že ďábel dříve nebo později přijde a chce ji naplnit. Pak musí jít všechno stranou – racionalita, názor veřejnosti a i ta legislativa se dá nakonec ohnout. 
 
-**
-Vždyť i pan Thoma ví, že pokračovat v projektu demolice a výstavby nové sportovní haly je nesmysl.** Jinak by se před volbami nevyjadřoval pro MF Dnes na otázku jak dál se sportovní halou? Cituji: 
+**Vždyť i pan Thoma ví, že pokračovat v projektu demolice a výstavby nové sportovní haly je nesmysl.** Jinak by se před volbami nevyjadřoval pro MF Dnes na otázku jak dál se sportovní halou? Cituji: 
 
 „První krok – výstavba sportovní haly na standardní úrovni (ovšem  s odpovídající  výškou stropu, aby umožnila i volejbalová utkání), která umožní bezproblémové fungování všem stávajícím uživatelům haly od “hobíků”, přes gymnastiku, florbal až po volejbal. Z městského rozpočtu, na jiném místě, než je stavba současná. 
 
@@ -98,14 +95,12 @@ Je samozřejmě otázka, jaká motivace je na straně členů hnutí ANO, ale po
 
 A teď je otázka co můžeme s tímhle rozdáním karet udělat teď. 
 
-Koaliční smlouva je podepsaná a nepodpoření tohohle jejího nejzásadnějšího bodu bude pravděpodobně vykládáno jako její hrubé porušení a konec koalice. Což by byla škoda, když to právě začalo. Pravděpodobně se to nikdo z vás neodváží udělat a já to naprosto chápu. **Každý máme smlouvu s nějakým ďáblem, jenom Piráti si jí musí napsat do evidence kontaktů. 
-**
+Koaliční smlouva je podepsaná a nepodpoření tohohle jejího nejzásadnějšího bodu bude pravděpodobně vykládáno jako její hrubé porušení a konec koalice. Což by byla škoda, když to právě začalo. Pravděpodobně se to nikdo z vás neodváží udělat a já to naprosto chápu. **Každý máme smlouvu s nějakým ďáblem, jenom Piráti si jí musí napsat do evidence kontaktů.**
 
 Jsem přesvědčený, že mezi zastupiteli zvolenými za hnutí Občané pro Budějovice, STAN, Lidovce, Top09 a Čisté Budějovice je dost lidí, kteří mají v těle odvahu i čest. Teď máte možnost je projevit veřejně. Mluvím především k Martinovi Pikousovi, se kterým se znám dlouhá léta a vím, že jsi slušný člověk. Mluvím o Lukášovi Bajtovi, kterého sice neznám dlouho, ale také vím, že Ti to není jedno. A myslím si, že ani Honza Mádl a Honza Klein nepojmenovali své hnutí - Čisté Budějovice - jen tak z plezíru. 
 
 Nicméně předpokládám, že jste sem přišli už s pevným rozhodnutím a odvahu změnit ho nenajdete. Chtěl bych Vás ale požádat o jednu věc. Tím, že se stará hala zbourá a nová postaví, bude dluh ďáblu splacen. Halu ať si vezme, bude mít aspoň pěkný pomník. Prosím Vás ale, nedopusťte, abyste s ďáblem někdy v budoucnosti uzavřeli smlouvu jinou. 
 
-**A pokud bych vás přece jen nalomil, nabízím jiný příběh, kterému byste mohli věřit. Nestavět halu podle darované projektu ve chvíli, kdy jsou stavební práce a materiál na maximu, ale postavit halu jinou a jinde, až ceny klesnou a podle projektu, který vzejde z otevřené soutěže. A na místě, kde bude možné zaparkovat jako člověk. Přesně tak, jak to říkal pan náměstek Thoma před volbami.
-**
+**A pokud bych vás přece jen nalomil, nabízím jiný příběh, kterému byste mohli věřit. Nestavět halu podle darované projektu ve chvíli, kdy jsou stavební práce a materiál na maximu, ale postavit halu jinou a jinde, až ceny klesnou a podle projektu, který vzejde z otevřené soutěže. A na místě, kde bude možné zaparkovat jako člověk. Přesně tak, jak to říkal pan náměstek Thoma před volbami.**
 
 Děkuji za pozornost.
