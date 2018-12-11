@@ -17,11 +17,7 @@ description: >-
   volbami.
 tags: ' '
 ---
-Vážené zastupitelky a zastupitelé,
-
-Dovolte mi se vyjádřit k tématu Sportovní hala.
-
-Už je tady zase. Problém, který se posledních 6 let vine Budějovicemi jako červená nit.
+Vážené zastupitelky a zastupitelé, dovolte mi se vyjádřit k tématu Sportovní hala. Už je tady zase. Problém, který se posledních 6 let vine Budějovicemi jako červená nit.
 
 Už ten začátek byl prapodivný. Rada města na svém zasedání dne 18.4.2012 s panem Thomou jako primátorem schválila záměr výstavby centra halových sportů v místě stávající sportovní haly a deklarovali spolupráci s občanským sdružením Volejbalový klub. 
 
@@ -37,13 +33,12 @@ Radní si uvědomili, že zrušení soutěže je průšvih, jiná se nestihne do
 
 A letos na jaře se opět mělo začít bourat. Další zajímavou zajímavostí je výběrové řízení na realizaci demolice a výstavby. Vyhrálo ho konsorcium stavebních firem Edikt a Metrostav s cenou o 10% nižší než další v pořadí. Mluvím o tom proto, že si vrabci na střechách ještě před vyhlášením výsledků šuškali, kdo to vyhraje. A skutečně, byl to Edikt a Metrostav. Jenže radní se kromě petice a blížících se voleb zalekli zřejmě podaného trestního oznámení a bourání haly zastavili.
 
-
-
 A teď se ponořme ještě trochu hlouběji. 
 
 Pojďme se zeptat – cui bono? 
 
-**Kdo chce, aby ve městě stála nová sportovní hala? **
+**Kdo chce, aby ve městě stála nová sportovní hala? 
+**
 
 Občané? 
 
@@ -65,11 +60,12 @@ Pan Konečný argumentuje dopisem od Českého volejbalového svazu. Tento nedat
 
 A co říkají na stavbu haly ostatní sportovci v Budějovicích? Těžko říct. Z procesu zadávání podmínek projektu jsou zápisy, ze kterých je jasně patrné, že probíhalo bez jejich účasti. Think-thank se scházel jen ve složení Volejbal-město-Ateliér 8000 a stavební inženýr.  
 
-Tak kdo nám tedy zbývá? Komu ta hala prospěje? Kdo má dost vlivu i peněz pustit se do takového dobrodružství? 
+Tak kdo nám tedy zbývá? Komu ta hala prospěje? Kdo má dost vlivu i peněz pustit se do takového dobrodružství? 
 
-**Takový člověk tady je. Jmenuje se Jan Diviš a je to vlivný a bohatý českobudějovický podnikatel a mimo jiné ředitel volejbalového klubu.** Ředitel? Spíš jeho otec. A volejbal je jeho dítě. Všechna čest. A pro své děťátko chce logicky to nejlepší. A když už se tu hraje nejlepší volejbal v Čechách, tak chce, aby se hrál v té nejlepší hale. To je skvělé. Otázka ovšem je, jestli to za těch 800 milionů, které se investují ve prospěch zhruba dvou tisícovkám občanů, stojí. **Vychází to zhruba 400 000 na jednoho diváka nebo sportovce! **
+**Takový člověk tady je. Jmenuje se Jan Diviš a je to vlivný a bohatý českobudějovický podnikatel a mimo jiné ředitel volejbalového klubu.** Ředitel? Spíš jeho otec. A volejbal je jeho dítě. Všechna čest. A pro své děťátko chce logicky to nejlepší. A když už se tu hraje nejlepší volejbal v Čechách, tak chce, aby se hrál v té nejlepší hale. To je skvělé. Otázka ovšem je, jestli to za těch 800 milionů, které se investují ve prospěch zhruba dvou tisícovkám občanů, stojí. **Vychází to zhruba 400 000 na jednoho diváka nebo sportovce! 
+**
 
-Bohužel, v minulosti se stala nemilá věc. Je mi trochu žinantní o tom mluvit, když jsem to osobně nezažil a znám ten příběh jenom z vyprávění. 
+Bohužel, v minulosti se stala nemilá věc. Je mi trochu žinantní o tom mluvit, když jsem to osobně nezažil a znám ten příběh jenom z vyprávění. 
 
 Někdy v roce 2010 došlo k rozštěpu jedné z nejsilnějších a nejvlivnější stran, která zde byla. Z ODS vzniklo Hnutí občané pro Budějovice. Rok 2010 byl naneštěstí volební a chtělo-li nové hnutí uspět, potřebovalo peníze. V čele hnutí stál a dodnes stojí pan Juraj Thoma.
 
@@ -89,9 +85,10 @@ Napadá mě jediný argument – ty mi teď dáš sponzorský dar a můj kamará
 
 Blbé je, že tohle nemohu nijak dokázat, protože podívat se do účetnictví soukromých firem nelze. Dle výroční zprávy HOPB jde o společnosti  Eurobillboard a Namax. 
 
-Problém smluv s ďáblem je ten, že ďábel dříve nebo později přijde a chce ji naplnit. Pak musí jít všechno stranou – racionalita, názor veřejnosti a i ta legislativa se dá nakonec ohnout. 
+Problém smluv s ďáblem je ten, že ďábel dříve nebo později přijde a chce ji naplnit. Pak musí jít všechno stranou – racionalita, názor veřejnosti a i ta legislativa se dá nakonec ohnout. 
 
-**Vždyť i pan Thoma ví, že pokračovat v projektu demolice a výstavby nové sportovní haly je nesmysl.** Jinak by se před volbami nevyjadřoval pro MF Dnes na otázku jak dál se sportovní halou? Cituji: 
+**
+Vždyť i pan Thoma ví, že pokračovat v projektu demolice a výstavby nové sportovní haly je nesmysl.** Jinak by se před volbami nevyjadřoval pro MF Dnes na otázku jak dál se sportovní halou? Cituji: 
 
 „První krok – výstavba sportovní haly na standardní úrovni (ovšem  s odpovídající  výškou stropu, aby umožnila i volejbalová utkání), která umožní bezproblémové fungování všem stávajícím uživatelům haly od “hobíků”, přes gymnastiku, florbal až po volejbal. Z městského rozpočtu, na jiném místě, než je stavba současná. 
 
@@ -101,12 +98,14 @@ Je samozřejmě otázka, jaká motivace je na straně členů hnutí ANO, ale po
 
 A teď je otázka co můžeme s tímhle rozdáním karet udělat teď. 
 
-Koaliční smlouva je podepsaná a nepodpoření tohohle jejího nejzásadnějšího bodu bude pravděpodobně vykládáno jako její hrubé porušení a konec koalice. Což by byla škoda, když to právě začalo. Pravděpodobně se to nikdo z vás neodváží udělat a já to naprosto chápu. **Každý máme smlouvu s nějakým ďáblem, jenom Piráti si jí musí napsat do evidence kontaktů. **
+Koaliční smlouva je podepsaná a nepodpoření tohohle jejího nejzásadnějšího bodu bude pravděpodobně vykládáno jako její hrubé porušení a konec koalice. Což by byla škoda, když to právě začalo. Pravděpodobně se to nikdo z vás neodváží udělat a já to naprosto chápu. **Každý máme smlouvu s nějakým ďáblem, jenom Piráti si jí musí napsat do evidence kontaktů. 
+**
 
 Jsem přesvědčený, že mezi zastupiteli zvolenými za hnutí Občané pro Budějovice, STAN, Lidovce, Top09 a Čisté Budějovice je dost lidí, kteří mají v těle odvahu i čest. Teď máte možnost je projevit veřejně. Mluvím především k Martinovi Pikousovi, se kterým se znám dlouhá léta a vím, že jsi slušný člověk. Mluvím o Lukášovi Bajtovi, kterého sice neznám dlouho, ale také vím, že Ti to není jedno. A myslím si, že ani Honza Mádl a Honza Klein nepojmenovali své hnutí - Čisté Budějovice - jen tak z plezíru. 
 
 Nicméně předpokládám, že jste sem přišli už s pevným rozhodnutím a odvahu změnit ho nenajdete. Chtěl bych Vás ale požádat o jednu věc. Tím, že se stará hala zbourá a nová postaví, bude dluh ďáblu splacen. Halu ať si vezme, bude mít aspoň pěkný pomník. Prosím Vás ale, nedopusťte, abyste s ďáblem někdy v budoucnosti uzavřeli smlouvu jinou. 
 
-**A pokud bych vás přece jen nalomil, nabízím jiný příběh, kterému byste mohli věřit. Nestavět halu podle darované projektu ve chvíli, kdy jsou stavební práce a materiál na maximu, ale postavit halu jinou a jinde, až ceny klesnou a podle projektu, který vzejde z otevřené soutěže. A na místě, kde bude možné zaparkovat jako člověk. Přesně tak, jak to říkal pan náměstek Thoma před volbami.**
+**A pokud bych vás přece jen nalomil, nabízím jiný příběh, kterému byste mohli věřit. Nestavět halu podle darované projektu ve chvíli, kdy jsou stavební práce a materiál na maximu, ale postavit halu jinou a jinde, až ceny klesnou a podle projektu, který vzejde z otevřené soutěže. A na místě, kde bude možné zaparkovat jako člověk. Přesně tak, jak to říkal pan náměstek Thoma před volbami.
+**
 
-Děkuji za pozornost.
+Děkuji za pozornost.
