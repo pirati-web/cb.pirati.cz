@@ -17,7 +17,8 @@ description: >-
   volbami.
 tags: ' '
 ---
-Vážené zastupitelky a zastupitelé, dovolte mi se vyjádřit k tématu Sportovní hala. Už je tady zase. Problém, který se posledních 6 let vine Budějovicemi jako červená nit.
+Vážené zastupitelky a zastupitelé, dovolte mi se vyjádřit k tématu Sportovní hala.
+ Už je tady zase. Problém, který se posledních 6 let vine Budějovicemi jako červená nit.
 
 Už ten začátek byl prapodivný. Rada města na svém zasedání dne 18.4.2012 s panem Thomou jako primátorem schválila záměr výstavby centra halových sportů v místě stávající sportovní haly a deklarovali spolupráci s občanským sdružením Volejbalový klub. 
 
@@ -33,8 +34,6 @@ Radní si uvědomili, že zrušení soutěže je průšvih, jiná se nestihne do
 
 A letos na jaře se opět mělo začít bourat. Další zajímavou zajímavostí je výběrové řízení na realizaci demolice a výstavby. Vyhrálo ho konsorcium stavebních firem Edikt a Metrostav s cenou o 10% nižší než další v pořadí. Mluvím o tom proto, že si vrabci na střechách ještě před vyhlášením výsledků šuškali, kdo to vyhraje. A skutečně, byl to Edikt a Metrostav. Jenže radní se kromě petice a blížících se voleb zalekli zřejmě podaného trestního oznámení a bourání haly zastavili.
 
-
-
 A teď se ponořme ještě trochu hlouběji. 
 
 Pojďme se zeptat – cui bono? 
@@ -47,7 +46,7 @@ Na volejbal jich chodí minimum – kolem 500 na zápas a 1000 když se hraje o 
 
  Takže to máme 2000 občanů. Zbytku je to jedno nebo ji nechtějí. Jako například ty čtyři tisícovky, které se zvedly a podepsaly petici. Že občané halu nechtějí vím i proto, že se s nimi o tom mluvím. 
 
-A co, kdyby chtěli halu zbourat statici? **Padá nám hala na hlavu?** 
+A co, kdyby chtěli halu zbourat statici? **Padá nám hala na hlavu?**
 
 Naštěstí ne. Hala byla postavena v 80. letech podle tehdejších norem. Nejsem statik, ale Ateliér 8000 si v roce 2011, tedy rok před vyhlášením soutěže, jeden statický posudek nechal zpracovat (těžko říci, zda to byla náhoda). Ze zprávy statika cituji: „**Provedená prohlídka prokázala, že konstrukce, v místech, kde ji bylo možné ověřit, je v relativně dobrém stavu, koroze prvků ocelové konstrukce není patrná, pouze jsou viditelné její projevy v místech připojení trapézových plechů**.“ 
 
@@ -61,15 +60,14 @@ Pan Konečný argumentuje dopisem od Českého volejbalového svazu. Tento nedat
 
 A co říkají na stavbu haly ostatní sportovci v Budějovicích? Těžko říct. Z procesu zadávání podmínek projektu jsou zápisy, ze kterých je jasně patrné, že **probíhalo bez jejich účasti**. Think-thank se scházel jen ve složení Volejbal-město-Ateliér 8000 a stavební inženýr.  
 
-Tak kdo nám tedy zbývá? Komu ta hala prospěje? Kdo má dost vlivu i peněz pustit se do takového dobrodružství? 
+Tak kdo nám tedy zbývá? Komu ta hala prospěje? Kdo má dost vlivu i peněz pustit se do takového dobrodružství? 
 
-Takový člověk tady je. Jmenuje se Jan Diviš a je to vlivný a bohatý českobudějovický podnikatel a mimo jiné ředitel volejbalového klubu. Ředitel? Spíš jeho otec. A volejbal je jeho dítě. Všechna čest. A pro své děťátko chce logicky to nejlepší. A když už se tu hraje nejlepší volejbal v Čechách, tak chce, aby se hrál v té nejlepší hale. To je skvělé. Otázka ovšem je, jestli to za těch 800 milionů, které se investují ve prospěch zhruba dvou tisícovkám občanů, stojí. **Vychází to zhruba 400 000 na jednoho diváka nebo sportovce!** 
-
-
+Takový člověk tady je. Jmenuje se Jan Diviš a je to vlivný a bohatý českobudějovický podnikatel a mimo jiné ředitel volejbalového klubu. Ředitel? Spíš jeho otec. A volejbal je jeho dítě. Všechna čest. A pro své děťátko chce logicky to nejlepší. A když už se tu hraje nejlepší volejbal v Čechách, tak chce, aby se hrál v té nejlepší hale. To je skvělé. Otázka ovšem je, jestli to za těch 800 milionů, které se investují ve prospěch zhruba dvou tisícovkám občanů, stojí. **Vychází to zhruba 400 000 na jednoho diváka nebo sportovce!**
 
 Vždyť i pan Thoma ví, že pokračovat v projektu demolice a výstavby nové sportovní haly je nesmysl. Jinak by se před volbami nevyjadřoval pro MF Dnes na otázku jak dál se sportovní halou? Cituji: 
 
-„První krok – výstavba sportovní haly na standardní úrovni (ovšem  s odpovídající  výškou stropu, aby umožnila i volejbalová utkání), která umožní bezproblémové fungování všem stávajícím uživatelům haly od “hobíků”, přes gymnastiku, florbal až po volejbal. Z městského rozpočtu, na jiném místě, než je stavba současná. Ve druhém kroku  vyhlásit architektonickou soutěž na špičkovou sportovní arénu, která by stála na místě haly současné." Konec citace.
+„První krok – výstavba sportovní haly na standardní úrovni (ovšem  s odpovídající  výškou stropu, aby umožnila i volejbalová utkání), která umožní bezproblémové fungování všem stávajícím uživatelům haly od “hobíků”, přes gymnastiku, florbal až po volejbal. Z městského rozpočtu, na jiném místě, než je stavba současná. 
+Ve druhém kroku  vyhlásit architektonickou soutěž na špičkovou sportovní arénu, která by stála na místě haly současné." Konec citace.
 
 **A teď je otázka co můžeme s tímhle rozdáním karet udělat teď.** 
 
