@@ -47,7 +47,7 @@ Na volejbal jich chodí minimum – kolem 500 na zápas a 1000 když se hraje o 
 
  Takže to máme 2000 občanů. Zbytku je to jedno nebo ji nechtějí. Jako například ty čtyři tisícovky, které se zvedly a podepsaly petici. Že občané halu nechtějí vím i proto, že se s nimi o tom mluvím. 
 
-A co, kdyby chtěli halu zbourat statici? **Padá nám hala na hlavu?**
+A co, kdyby chtěli halu zbourat statici? **Padá nám hala na hlavu?** 
 
 Naštěstí ne. Hala byla postavena v 80. letech podle tehdejších norem. Nejsem statik, ale Ateliér 8000 si v roce 2011, tedy rok před vyhlášením soutěže, jeden statický posudek nechal zpracovat (těžko říci, zda to byla náhoda). Ze zprávy statika cituji: „**Provedená prohlídka prokázala, že konstrukce, v místech, kde ji bylo možné ověřit, je v relativně dobrém stavu, koroze prvků ocelové konstrukce není patrná, pouze jsou viditelné její projevy v místech připojení trapézových plechů**.“ 
 
@@ -63,7 +63,7 @@ A co říkají na stavbu haly ostatní sportovci v Budějovicích? Těžko ří
 
 Tak kdo nám tedy zbývá? Komu ta hala prospěje? Kdo má dost vlivu i peněz pustit se do takového dobrodružství? 
 
-Takový člověk tady je. Jmenuje se Jan Diviš a je to vlivný a bohatý českobudějovický podnikatel a mimo jiné ředitel volejbalového klubu. Ředitel? Spíš jeho otec. A volejbal je jeho dítě. Všechna čest. A pro své děťátko chce logicky to nejlepší. A když už se tu hraje nejlepší volejbal v Čechách, tak chce, aby se hrál v té nejlepší hale. To je skvělé. Otázka ovšem je, jestli to za těch 800 milionů, které se investují ve prospěch zhruba dvou tisícovkám občanů, stojí. **Vychází to zhruba 400 000 na jednoho diváka nebo sportovce!**
+Takový člověk tady je. Jmenuje se Jan Diviš a je to vlivný a bohatý českobudějovický podnikatel a mimo jiné ředitel volejbalového klubu. Ředitel? Spíš jeho otec. A volejbal je jeho dítě. Všechna čest. A pro své děťátko chce logicky to nejlepší. A když už se tu hraje nejlepší volejbal v Čechách, tak chce, aby se hrál v té nejlepší hale. To je skvělé. Otázka ovšem je, jestli to za těch 800 milionů, které se investují ve prospěch zhruba dvou tisícovkám občanů, stojí. **Vychází to zhruba 400 000 na jednoho diváka nebo sportovce!** 
 
 
 
