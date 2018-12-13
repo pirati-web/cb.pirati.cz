@@ -80,3 +80,5 @@ Nicméně předpokládám, že jste sem přišli už s pevným rozhodnutím a od
 A pokud bych vás přece jen nalomil, nabízím jiný příběh, kterému byste mohli věřit. **Nestavět halu podle darované projektu ve chvíli, kdy jsou stavební práce a materiál na maximu, ale postavit halu jinou a jinde, až ceny klesnou a podle projektu, který vzejde z otevřené soutěže. A na místě, kde bude možné zaparkovat jako člověk.** Přesně tak, jak to říkal pan náměstek Thoma před volbami.
 
 Děkuji za pozornost.
+
+Plné znění bude zveřejněno v zápisu "[Zasedání Zastupitelstva města](http://www.c-budejovice.cz/zasedani-zastupitelstva-mesta)", ze dne 10.12.2018.
