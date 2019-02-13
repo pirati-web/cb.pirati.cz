@@ -13,8 +13,7 @@ description: >
   projektu Ateliéru 8000.
 tags: ' '
 ---
-Téma 1: **Sportovní hala a referendum
-**
+Téma 1: **Sportovní hala a referendum**
 
 Zásadní téma Českých Budějovic, ve kterém došlo k významnému posunu – koaliční strany se domluvily a zřídily pracovní skupinu k přípravě místního referenda o bourání sportovní haly a výstavbě multifunkčního centra na jejím místě podle projektu Ateliéru 8000.
 
@@ -24,13 +23,11 @@ ODS má k dispozici právní rozbor situace ohledně předchozího vypsání a n
 
 Nás ovšem zajímá, zda bude město pokračovat v autoritativní politice náměstka Konečného spočívající v kupení nestandardních kroků se slovy: “Ono se to se nějak udělá!”. Anebo se konečně překlopíme do režimu myšlení 21. století a začneme platnou legislativu státu dodržovat? Uvidíme. Budeme informovat.
 
-Téma 2: **Dotační politika
-**
+Téma 2: **Dotační politika**
 
 Systém rozdělování dotací v jednotlivých oblastech je docela propracovaný a relativně spravedlivý. Žadatelé si podají své žádosti a příslušná komise rady města je podle stanovených metodických pokynů oboduje a podle bodů pak rozdělí peníze. Vždycky budou vznikat jemné nepřesnosti, nicméně smyslem tohoto opatření je, aby se moc rozdělovat peníze nehromadila v rukou jednotlivců, ale byla rozprostřená do systému. Potud skvělé. Nicméně trochu problém nastane ve chvíli, kdy se některý z radních rozhodne, že příslušná komise rozhodla špatně a některý z projektů by měl dostat peněz víc. A bohužel to byl právě opět onen náměstek Konečný z hnutí ANO, který se rozhodl, že systém je špatný a on ví, jak to má být správně. Jeden z žadatelů – budějovický western – podle něj dostalo málo a mělo by dostat víc. Komise mu přidělila 152.450 Kč. Pan náměstek si však na radě doslova „vydupal“ navýšení na 200.000 Kč, ačkoli tam nepřišel nikdo z žadatelů, aby vysvětlil, proč to jinak nejde. Nikdo z žadatelů nevystoupil ani na včerejším jednání zastupitelstva. Takže se stalo, co se stát muselo. Nesystémový krok pana náměstka nebyl zastupitelstvem přijat. Otázkou zůstává, zda by takovýhle člověk, který má pocit, že může všechno, měl na židli náměstka sedět. Ale to už zůstává na posouzení laskavému čtenářovi a členům hnutí ANO a koaličním zastupitelům.
 
-Téma 3: **Malý krůček pro primátora, ale velký skok pro město
-**
+Téma 3: **Malý krůček pro primátora, ale velký skok pro město**
 
 Jednací řád zastupitelstva města umožňuje občanům vystupovat ke každému probíranému bodu jednání jedenkrát po dobu 5 minut. Navíc ještě mohou vždy v 13:00 na pevně vmezeřeném bodu během 5 minut říci zastupitelům cokoli chtějí. Nicméně, až doteď panoval úzus (daný výkladem jednacího řádu panem primátorem), podle kterého po vystoupení občanů již nepokračovala diskuze zastupitelů a rovnou se přistupovalo k hlasování. Toto je nesmysl. Zastupitelé přece mají mít možnost reagovat na skutečnosti, které se z vystoupení občanů dozvěděli. Na předchozím jednání zastupitelstva jsme na to upozornili, nechali si zpracovat právní rozbor a vida – tentokrát to najednou šlo. I malá změna k lepšímu je dobrá. Ukazuje totiž na to, že ačkoli se vládnoucí politici tváří neomylně, opak je pravdou. Dělají chyby, jako všichni ostatní. Jenže, ke škodě města a jeho občanů, si je nejsou schopni přiznat. Všechna čest panu primátorovi Svobodovi, že se k téhle jemné korekci výkladu postavil jako chlap. 
 
