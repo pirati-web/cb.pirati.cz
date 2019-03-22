@@ -18,9 +18,7 @@ tags: ' '
 ---
 V pondělí 25. března, pravděpodobně v odpoledních hodinách, budou budějovičtí zastupitelé jednat a hlasovat o vyhlášení místního referenda, k zachování nebo zbourání sportovní haly. Přijďte svou účastí podpořit tento akt a dejte tak zastupitelům na vědomí, že veřejnost o vyhlášení referenda opravdu stojí. Děkujeme.
 
-
-
 SPOLEČNĚ TO DOKÁŽEME!
 
-**V pondělí 25. března přijďte na radnici**
+**V pondělí 25. března přijďte na radnici**
 
