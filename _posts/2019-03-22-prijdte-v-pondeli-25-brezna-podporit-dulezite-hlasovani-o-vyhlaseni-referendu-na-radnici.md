@@ -3,7 +3,7 @@ layout: blog
 published: true
 category: blog
 title: >-
-  Přijďte v pondělí 25. března podpořit důležité hlasování o vyhlášení referendu
+  Přijďte v pondělí 25. března podpořit důležité hlasování o vyhlášení referenda
   na radnici
 date: '2019-03-22 05:47am'
 author: Zuzana Kudláčková
