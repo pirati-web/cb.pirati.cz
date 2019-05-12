@@ -28,7 +28,7 @@ Doufáme že jste si to i přes chvílemi nepříznivé počasí užili, a věř
 
 [EVROPA POTŘEBUJE PIRÁTY!](https://evropapotrebuje.cz/)
 
-![PIRATEFEST České Budějovice](/static/media/wpr02.jpg)
+![PIRATEFEST České Budějovice](/static/media/wpr00.jpg)
 
 ![PIRATEFEST České Budějovice](/static/media/wpr03.jpg)
 
