@@ -30,4 +30,4 @@ Pirátský autobus můžete ale potkat po celé České Republice. Přehled zast
 
 Více info na [evropapotrebuje.cz](https://evropapotrebuje.cz/)
 
-**Nezaspěte volby 24.-25. května! **
+**Nezaspěte volby 24.-25. května!**
