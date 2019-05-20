@@ -5,7 +5,7 @@ category: blog
 title: Cesta pirátského autobusu po jihočeských městech
 date: '2019-05-20 06:57am'
 author: Klára Bidařová
-image: /static/media/piratebus.jpg
+image: /static/media/piratebus2.jpg
 description: >-
   Chcete vyjádřit svou podporu Pirátům v nadcházejících evropských volbách? Tak
   přijďte a podepište se na náš autobus! 22.5. bude k vidění v jižních Čechách a
