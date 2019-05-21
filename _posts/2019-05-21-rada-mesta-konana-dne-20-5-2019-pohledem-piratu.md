@@ -7,12 +7,12 @@ date: '2019-05-21 05:49am'
 author: Bc. Jan Hošek
 image: /static/media/zastupitelecb.jpg
 description: >-
-  Na dnešní radě města se probíralo několik pozoruhodných bodů. Nejdůležitějším
-  byl územní plán, dále pak projekt „Housing First“, zakázka na další fázi
-  modrých zón nebo další osud prostoru v Koldomě.
+  Na včerejší radě města se probíralo několik pozoruhodných bodů.
+  Nejdůležitějším byl územní plán, dále pak projekt „Housing First“, zakázka na
+  další fázi modrých zón nebo další osud prostoru v Koldomě.
 tags: ' '
 ---
-Na dnešní radě města se probíralo několik pozoruhodných bodů. Nejdůležitějším byl územní plán, dále pak projekt „Housing First“, zakázka na další fázi modrých zón nebo další osud prostoru v Koldomě.
+Na včerejší radě města se probíralo několik pozoruhodných bodů. Nejdůležitějším byl územní plán, dále pak projekt „Housing First“, zakázka na další fázi modrých zón nebo další osud prostoru v Koldomě.
 
 **Nový územní plán**
 
