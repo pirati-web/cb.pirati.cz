@@ -14,6 +14,9 @@ description: >
   tvrzení. Autor článku dostatečně neprověřil všechny zdroje.
 tags: ' '
 ---
-Článek uveřejněný pod názvem "[ODHALUJEME TEMNÉ BUDĚJOVICE. MĚSTO PODPORUJE NA VLTAVĚ A MALŠI JEDINÉHO PODNIKATELE](https://cb.pirati.cz/blog/2018/09/24/odhalujeme-temne-budejovice-mesto-podporuje-na-vltave-a-malsi-jedineho-podnikatele/)“ bohužel obsahoval některá nepravdivá tvrzení. Autor článku dostatečně neprověřil všechny zdroje.
+Článek uveřejněný pod názvem "[ODHALUJEME TEMNÉ BUDĚJOVICE. MĚSTO
+ PODPORUJE NA VLTAVĚ A MALŠI JEDINÉHO PODNIKATELE](https://cb.pirati.cz/blog/2018/09/24/odhalujeme-temne-budejovice-mesto-podporuje-na-vltave-a-malsi-jedineho-podnikatele/)“ bohužel obsahoval některá
+ nepravdivá tvrzení. Autor článku dostatečně neprověřil všechny zdroje.
 
-Některé pasáže textu byly nepodložené a vyjadřovali domněnky autora, nikoliv fakta. Panu Jiřímu Borovkovi i panu Michalu Borovkovi se tímto omlouváme.
+Některé pasáže textu byly nepodložené a vyjadřovali domněnky autora, nikoliv
+ fakta. Panu Jiřímu Borovkovi i panu Michalu Borovkovi se tímto [omlouváme](https://cb.pirati.cz/static/vyjadreni-piratu.pdf).
