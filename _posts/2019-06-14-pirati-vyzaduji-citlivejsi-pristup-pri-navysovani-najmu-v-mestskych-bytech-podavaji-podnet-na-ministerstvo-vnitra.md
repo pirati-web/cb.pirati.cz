@@ -32,5 +32,3 @@ Lukáš Mareš, předseda zastupitelského klubu Pirátů, k tomu říká: “_U
 [Oznámení o zvýšení nájmu a uzavření nové nájemní smlouvy.](https://drive.google.com/open?id=1q7rQuNlYIpfqc0dOlCJNT9WoeKjqvkB5)
 
 [Pravidla pro přidělování městských bytů.](https://www.c-budejovice.cz/cz/magistrat/Documents/Archiv%20poskytnut%C3%BDch%20informac%C3%AD/2016/16--pravidla-pro-prenechani-bytu-do-najmu.pdf)
-
-MUDr. Lukáš Mareš | Předseda zastupitelského klubu Pirátů České Budějovice | tel: +420 737 905 368 | <mailto:lukas.mares@pirati.cz>
