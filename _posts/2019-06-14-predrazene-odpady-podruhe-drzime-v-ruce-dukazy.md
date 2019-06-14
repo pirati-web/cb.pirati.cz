@@ -11,7 +11,7 @@ description: |-
   Předražené odpady podruhé. Držíme v ruce důkazy.
 tags: ' '
 ---
-**Tisková zpráva místního sdružení Pirátské strany České Budějovice.**
+**Tisková zpráva místního sdružení Pirátské strany České Budějovice**.
 
 Na minulém zasedání zastupitelstva města představil MUDr. Lukáš Mareš svépomocí zpracovanou srovnávací studii nákladů na odpadové hospodářství jednotlivých krajských měst v ČR. Z této studie vyšly České Budějovice velmi nelichotivě. Město za tuto službu zaplatí zhruba o 30 % více, než je republikový průměr. Zároveň navrhl usnesení, aby si město zadalo vypracování podrobné studie na toto téma tak, abychom měli v ruce hodnověrný důkaz, o který se pak můžeme opřít při jednání s dodavatelskou firmou. Toto usnesení nebylo přijato. Zdrželo se 16 zastupitelů, 8 nehlasovalo, 4 proti (Kohn, Michl, Stehlík, Thoma), 8 pro.
 
@@ -31,7 +31,9 @@ Lukáš Mareš, předseda zastupitelského klubu Pirátů, k tomu říká: “_M
 
 
 
-[Dodatek č. 11 smlouvy mezi SM ČB a FCC ČB.](https://www.c-budejovice.cz/smlouva/detail?id=2007000565)\
+[Dodatek č. 11 smlouvy mezi SM ČB a FCC ČB.](https://www.c-budejovice.cz/smlouva/detail?id=2007000565)
+
+
 [Dodatek smlouvy mezi soukromým subjektem v ČB a FCC ČB.](https://docdro.id/bVVVZwT)
 
 
