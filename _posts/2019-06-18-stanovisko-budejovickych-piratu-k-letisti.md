@@ -11,7 +11,7 @@ description: |-
   Stanovisko budějovických Pirátů k letišti.
 tags: ' '
 ---
-**Tisková zpráva zastupitelského klubu Pirátské strany České Budějovice**
+**Tisková zpráva zastupitelského klubu Pirátské strany České Budějovice**.
 
 Ve čtvrtek 13. 6. 2019 proběhlo společné jednání radních Jihočeského kraje a města České Budějovice, kterého se zúčastnili i dva členové zastupitelského klubu Pirátů - Lukáš Mareš a Jan Hošek. Účelem jednání byl pokus o nastavení komunikace mezi dvěma akcionáři společnosti Jihočeské letiště a.s.
 
