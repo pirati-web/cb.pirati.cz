@@ -27,7 +27,7 @@ Zvyšování nájmů nad ochranný limit je možné pouze v případě uzavírá
 
 Lukáš Mareš, předseda zastupitelského klubu Pirátů, k tomu říká: “_Uvědomujeme si, že ceny nájmů městských bytů zaspaly dobu. Nečinnost minulých městských rad však neopravňuje tu nynější postupovat v rozporu s platnou legislativou. Učiníme nezbytné kroky, které uvedou věci do pořádku._”
 
-[Usnesení rady města č. 200/2019.](https://www.c-budejovice.cz/sites/default/files/meeting_resolutions/i_-_rm5_0.pdf)
+[Usnesení rady města č. 200/2019.](https://www.c-budejovice.cz/sites/default/files/meeting_resolutions/i_-_rm5.pdf)
 
 [Oznámení o zvýšení nájmu a uzavření nové nájemní smlouvy.](https://drive.google.com/open?id=1q7rQuNlYIpfqc0dOlCJNT9WoeKjqvkB5)
 
