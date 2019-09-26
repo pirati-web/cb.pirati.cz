@@ -4,7 +4,7 @@ published: true
 category: blog
 title: V neděli 15. září proběhlo v Čepici zasedání místního fóra Pirátů
 date: '2019-09-23 09:29am'
-author: Bs. Jan Hošek
+author: Jan Hošek
 image: /static/media/mscepice.jpg
 description: >
   Protože jsou zasedání veřejná, uvítali jsme v našem Českobudějovickém

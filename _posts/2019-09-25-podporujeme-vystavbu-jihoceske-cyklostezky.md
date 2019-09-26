@@ -4,7 +4,7 @@ published: true
 category: blog
 title: Podporujeme výstavbu jihočeské cyklostezky
 date: '2019-09-25 10:40am'
-author: Bs. Jan Hošek
+author: Jan Hošek
 image: /static/media/cyklotrasa3.jpg
 description: >
   Z Nové Pece, kolem celé Lipenské přehrady, z Vyššího Brodu do Rožmberk nad
