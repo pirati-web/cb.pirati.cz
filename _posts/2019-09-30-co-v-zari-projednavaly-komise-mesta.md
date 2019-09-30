@@ -64,9 +64,9 @@ Vedoucí odboru, paní Sedláková, sdělila komisi, že vedení města na jedn�
 
 Další informace budou dostupné v oficiálního [zápisu](https://www.c-budejovice.cz/sites/default/files/obsah/zapisy/komise-rm/cestruch/zapis_z_jednani_komise_18._zari_2019.pdf)
 
-## 
 
-Komise pro architekturu a územní rozvoj
+
+## Komise pro architekturu a územní rozvoj
 
 Velmi rozsáhlou a podrobnou zprávu z této komise připravil **Filip Landa**: 
 
@@ -78,16 +78,13 @@ Následně byla diskutována tato témata:
 
 * Senovážné náměstí a dotační program pro období 2021–2029\
   Obecně lze říci, že řadu větších investic město nebude schopné zaplatit ze svého rozpočtu. Dotace mohou často pokrýt více než 50 % investice, ale pro jejich získání je potřeba mít připravené projekty (minimálně studie, ideálně DSP). Proto by mělo město v následujících dvou letech investovat alespoň do studií – zásobníku projektů; a následně z nich po upřesnění dotačních pravidel vytipovat takové, kde bude možné žádat. Pokud to neudělá, tyto peníze nedostane (řádově jde o stovky milionů Kč).
-* 
-
-Stánek s občerstvením ve Stromovce
-
+* Stánek s občerstvením ve Stromovce
 * Nákup, darování a umisťování uměleckých děl 
 * Zřízení pozice městského zahradníka (krajináře)
 * Oprava nádraží a přilehlého prostranství
 * Územní studie Čtyři Dvory a sociální bydlení
-* Park Dukelská \
-  10. září 2019 proběhlo zasedání poroty, jejíž jsem byl součástí. Jednomyslně byl vybrán nejvhodnější návrh. Výsledky bude schvalovat rada města a následně budou představeny veřejnosti. Pokud se s vítězem podepíše smlouva, je prvním krokem dopracování studie podle připomínek veřejnosti a předběžné projednání s dotčenými orgány. Podle poroty se tento formát u zakázky malého rozsahu osvědčil a doporučujeme ho používat dále. 
+* Park Dukelská\
+  10.září 2019 proběhlo zasedání poroty, jejíž jsem byl součástí. Jednomyslně byl vybrán nejvhodnější návrh. Výsledky bude schvalovat rada města a následně budou představeny veřejnosti. Pokud se s vítězem podepíše smlouva, je prvním krokem dopracování studie podle připomínek veřejnosti a předběžné projednání s dotčenými orgány. Podle poroty se tento formát u zakázky malého rozsahu osvědčil a doporučujeme ho používat dále. 
 * Modrozelená infrastruktura
 * Dům umění
 * Koncepce fungování ÚHA a OÚP
