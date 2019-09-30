@@ -20,25 +20,25 @@ Podívejme se, čemu se věnovaly jednotlivé komise v září očima pirátský
 
 “Na zářijové dopravní komisi byly důležitým tématem strategické stavby. Zejména aktuální stav okolo severní spojky, která byla nedávno medializována. Náměstek pro dopravu stručně a věcně obeznámil jaké budou další kroky k nápravě a optimisticky nastínil zpoždění výstavby o 8-10 měsících. Opoziční představitelé mluví o 2-3 letech. Dále byla panem Borovkou prezentována lodní doprava ve městě, její možnosti a omezení. Aktuálně se zvažuje stupeň integrace do stávajícího systému MHD. Dopravní komise dále řešila řadu připomínek občanů, které pak předává k řešení příslušnému odporu nebo k doplnění vyjádření útvaru hlavního architekta. Jedním z témat debaty byla I chybějící zpětná vazba z doporučení a opatření. Zejména jak a kým jsou prezentovány aktuální doporučení dopravní komise radě a jakým způsobem by měl být předseda nebo celá komise informována. Předmětem další schůzky bude nepochybně řešení strategických staveb (např. tunel pro nádražím, I. a II etapa Branišovská-Litvínovice) a zpětná vazba a efektivnost doporučení dopravní komise vč. realizačních opatření předaných na příslušný odbor”, informuje člen komise **Pavel Maule**.
 
-Další informace budou dostupné v oficiálním [zápisu](https://www.c-budejovice.cz/dopravni-komise)
+Další informace budou dostupné v oficiálním [zápise](https://www.c-budejovice.cz/dopravni-komise)
 
 ## Sportovní komise
 
 **Pavel Šramhauser** komentuje dění v komisi: “Plánovaný program komise byl velmi rozsáhlý, ale nestihl se probrat celý. Časově náročný na jednání byl Strategický plán rozvoje sportu a plánování priorit, které jsou potřeba udělat nejdříve - akční plány. Měl jsem k diskuzi připraven návrh na změny v územním plánu, bohužel se na ně z časových důvodů nedostalo”.
 
-Další informace budou dostupné v oficiálním [zápisu](https://www.c-budejovice.cz/sites/default/files/obsah/Odbory/zapis_sk_10_09_2019_v.r.pdf)
+Další informace budou dostupné v oficiálním [zápise](https://www.c-budejovice.cz/sites/default/files/obsah/Odbory/zapis_sk_10_09_2019_v.r.pdf)
 
 ## Komise pro životní prostředí
 
 "Jak to chodí na komisi pro životní prostředí...? Ve středu jsme si na zasedání vyslechli zajímavou přednášku, tentokrát o měření teploty ve městě z letadla i ze země. Dozvěděl jsem se několik nových věcí. Ale na účel, za kterým se scházíme, tedy radit radě města, co má v resortu životního prostředí dělat, se opět příliš nedostalo... jak je již v komisi zvykem, pokud nepřijdu s nějakým tématem k řešení. Příště se snad již dostane na moje návrhy na zlepšení dotačních titulů, což je jedna z mála našich skutečných pravomocí, nebo na prodiskutování konkrétních závazků měst, které vydávají v rámci tzv. vyhlašování klimatické nouze.", glosuje **Dan Leština**.
 
-Další informace budou dostupné v oficiálním [zápisu](https://www.c-budejovice.cz/komise-pro-zivotni-prostredi)
+Další informace budou dostupné v oficiálním [zápise](https://www.c-budejovice.cz/komise-pro-zivotni-prostredi)
 
 ## Památková komise
 
 “V září se památková komise nesešla, její zasedání je naplánováno až na 1.října. Program památkové komise reaguje na termínový kalendář výzev k dotačním titulům. Tentokrát to bude Program regenerace MPR pro rok 2020.”, oznamuje **Vladimír Musil**.
 
-Další informace budou dostupné v oficiálním [zápisu](https://www.c-budejovice.cz/pamatkova-komise)
+Další informace budou dostupné v oficiálním [zápise](https://www.c-budejovice.cz/pamatkova-komise)
 
 ## Bytová komise
 
@@ -60,9 +60,7 @@ Třetím bodem programu byly ubytovací poplatky pro rok 2020. Dojde k novelizac
 
 Vedoucí odboru, paní Sedláková, sdělila komisi, že vedení města na jednání Kolegia primátora projednávalo zrušení sezónních trhů (jarní a podzimní). 
 
-Další informace budou dostupné v oficiálním [zápisu](https://www.c-budejovice.cz/sites/default/files/obsah/zapisy/komise-rm/cestruch/zapis_z_jednani_komise_18._zari_2019.pdf)
-
-
+Další informace budou dostupné v oficiálním [zápise](https://www.c-budejovice.cz/sites/default/files/obsah/zapisy/komise-rm/cestruch/zapis_z_jednani_komise_18._zari_2019.pdf)
 
 ## Komise pro architekturu a územní rozvoj
 
@@ -87,4 +85,4 @@ Následně byla diskutována tato témata:
 * Jihočeské divadlo 
 * Rekonstrukce KD Slávie
 
-Další informace budou dostupné v oficiálním [zápisu](https://www.c-budejovice.cz/komise-pro-architekturu-uzemni-rozvoj)
+Další informace budou dostupné v oficiálním [zápise](https://www.c-budejovice.cz/komise-pro-architekturu-uzemni-rozvoj)
