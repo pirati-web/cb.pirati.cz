@@ -50,9 +50,7 @@ Jednání komise komentuje také **Jaroslav Hansal**:
 
 Prvním bodem komise bylo průběžné vyhodnocení marketingových aktivit turistického portálu budejce.cz v roce 2019, které přednesl pan David Šťastný z agentury Good Agency. Bylo konstatováno, že většina průběžných hodnotících parametrů (návštěvnost, počet lajků...) je plněna.
 
-Dále byla na programu snaha o změnu nastavených podmínek propagace turistického portálu budejce.cz. Zopakoval jsem svůj návrh požadavků, který jsme předložil na komisi 
-
-dne 18.06.2019:
+Dále byla na programu snaha o změnu nastavených podmínek propagace turistického portálu budejce.cz. Zopakoval jsem svůj návrh požadavků, který jsme předložil na komisi dne 18.06.2019:
 
 a) cílení online kampaní na blízké okolí
 
