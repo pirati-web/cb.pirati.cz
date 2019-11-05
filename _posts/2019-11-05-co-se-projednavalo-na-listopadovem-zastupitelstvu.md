@@ -14,7 +14,7 @@ description: >
   našeho zastupitele Josefa Špaka.
 tags: ' '
 ---
- 1. listopadu proběhlo již osmé zasedání zastupitelstva České Budějovice. Na programu byl například návrh pro pořízení změny územního plánu nebo mimořádná dotace na zřízení multifunkčního hřiště. Z iniciativy IT výboru jste také nově mohli sledovat stream zasedání na Youtube. Jeho záznam najdete na [kanálu](https://www.youtube.com/channel/UC62YOcYAoP_6QSnsmNG8FDA) našeho zastupitele Josefa Špaka.
+V pondělí 4. listopadu proběhlo již osmé zasedání zastupitelstva České Budějovice. Na programu byl například návrh pro pořízení změny územního plánu nebo mimořádná dotace na zřízení multifunkčního hřiště. Z iniciativy IT výboru jste také nově mohli sledovat stream zasedání na Youtube. Jeho záznam najdete na [kanálu](https://www.youtube.com/channel/UC62YOcYAoP_6QSnsmNG8FDA) našeho zastupitele Josefa Špaka.
 
 **Schvalování programu**
 
