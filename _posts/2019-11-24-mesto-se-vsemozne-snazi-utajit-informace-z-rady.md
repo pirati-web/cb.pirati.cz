@@ -13,7 +13,7 @@ description: >-
   rozhodnutí krajského úřadu nám dává za pravdu. 
 tags: ' '
 ---
-Rada města České Budějovice dělá na svých zasedáních zvukový záznam. O ten si požádal pirátský zastupitel Lukáš Mareš v souladu se zákonem o svobodném přístupu k informacím. Tajemník úřadu mu je odmítá dát i přesto, že pravomocné rozhodnutí krajského úřadu nám dává za pravdu. 
+Rada města České Budějovice dělá na svých zasedáních zvukový záznam. O ten si požádal pirátský zastupitel Lukáš Mareš v souladu se zákonem o svobodném přístupu k informacím. Tajemník úřadu mu je odmítá dát i přesto, že [pravomocné rozhodnutí](https://cb.pirati.cz/static/rozhodnuti-potvrzeno.pdf) krajského úřadu nám dává za pravdu. 
 
 A co se stane teď? Rada města radši upustí od zvyku a přestane záznam dělat úplně. Máme informaci, že se na pondělním zasedání rady chystá změna [jednacího řádu](https://www.c-budejovice.cz/jednaci-rad-rm), která vypouští část o zvukovém záznamu. Tím jistě ztíží psaní zápisu a otevře prostor ke sporům o to, kdo co jak řekl.
 
