@@ -5,7 +5,7 @@ category: blog
 title: Jihočeští Piráti představují lídra do krajských voleb
 date: '2020-01-11 05:16pm'
 author: Lukáš Hypša
-image: /static/media/lukas_mares.jpg
+image: /static/media/lmares.jpg
 description: >
   Jihočeští Piráti dnes na zasedání celostátního fóra v Ostravě představí svého
   kandidáta na hejtmana. Lídrem do letošních krajských voleb si zvolili předsedu
