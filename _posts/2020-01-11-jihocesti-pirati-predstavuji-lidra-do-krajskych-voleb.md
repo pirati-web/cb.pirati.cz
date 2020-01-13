@@ -5,7 +5,7 @@ category: blog
 title: Jihočeští Piráti představují lídra do krajských voleb
 date: '2020-01-11 05:16pm'
 author: Lukáš Hypša
-image: /static/media/lmares.jpg
+image: /static/media/lukasmares2.jpg
 description: >
   Jihočeští Piráti dnes na zasedání celostátního fóra v Ostravě představí svého
   kandidáta na hejtmana. Lídrem do letošních krajských voleb si zvolili předsedu
@@ -14,9 +14,6 @@ description: >
   online od 15:00.
 tags: ' '
 ---
-Krajské sdružení Pirátské strany Jihočeský kraj
- | Tisková zpráva České pirátské strany
-
 Ostrava, 11. ledna 2020 - Jihočeští Piráti dnes na zasedání celostátního fóra v Ostravě představí svého kandidáta na hejtmana. Lídrem do letošních krajských voleb si zvolili předsedu zastupitelského klubu v Českých Budějovicích a garanta programového bodu Zdravotnictví Lukáše Mareše. Představení všech krajských lídrů bude vysíláno online od 15:00.
 
 Ve finálních volbách s Jiřím Roubíčkem získal Lukáš Mareš 71,43% hlasů. „_Do kampaně chci vnést především její profesionalizaci. Zároveň ale nesmíme rezignovat na základní pirátské principy a jistou míru odvahy a vizionářství,_“ dodává Mareš ke svému zvolení.
@@ -28,3 +25,5 @@ Zdravotnictví ale není jediný neduh, který Mareš na kraji vnímá. Jihočes
 Lukáš Mareš není lídrem poprvé, Piráty vedl už na podzim 2018 do komunálních voleb v Českých Budějovicích. S výsledkem 12,19% se stali po Praze nejúspěšnější pirátskou kandidátkou krajského města. „_Předchozí zkušenosti mě především utvrdily v tom, že když člověk ví,  proč to dělá a má dobrý úmysl, dopadne to dobře. A také, že pokud se člověk rozhodne jít zkratkou, tak se mu to dříve nebo později vymstí._“
 
 V následujících týdnech si krajské sdružení zvolí také 9 kandidátů do čela a 50 kandidátů do zbytku volební listiny. Vyloučena není ani účast osobností mimo Pirátskou stranu, primární volby jsou otevřené všem uchazečům.
+
+Krajské sdružení Pirátské strany Jihočeský kraj | Tisková zpráva České pirátské strany
