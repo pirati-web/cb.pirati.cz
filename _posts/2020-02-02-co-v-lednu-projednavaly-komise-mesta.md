@@ -52,7 +52,7 @@ Původně měla proběhnout komise na téma Senovážného náměstí, ale měst
 
 ## KOMISE PRO ŽIVOTNÍ PROSTŘEDÍ
 
-Dění na komisi komentuje **Dan Lešina**: "_V lednu jsme schválili usnesení vybízející radu města k odpovědnosti k životnímu prostředí a k emisím skleníkových plynů, jako reakci na výzvy od Fridays for Future, Extinction rebellion apod. Usnesení obsahuje seznam konkrétních opatření, kterých by se město mělo do budoucna držet při zadávání zakázek, zpracování nového územního plánu apod., je to například podpora městské hromadné dopravy, rozšíření cyklostezek a pěších zón nebo ochrana zeleně_
+Dění na komisi komentuje **Dan Leština**: "_V lednu jsme schválili usnesení vybízející radu města k odpovědnosti k životnímu prostředí a k emisím skleníkových plynů, jako reakci na výzvy od Fridays for Future, Extinction rebellion apod. Usnesení obsahuje seznam konkrétních opatření, kterých by se město mělo do budoucna držet při zadávání zakázek, zpracování nového územního plánu apod., je to například podpora městské hromadné dopravy, rozšíření cyklostezek a pěších zón nebo ochrana zeleně_
 ". Dokument vznikl za spoluúčasti zástupců hnutí Fridays for Future. Znění naleznete [zde](https://cb.pirati.cz/static/doc/n%C3%A1vrh-K%C5%BDP-k-zodpov%C4%9Bdnosti-m%C4%9Bsta-k-%C5%BEivotn%C3%ADmu-prost%C5%99ed%C3%AD-a-k-emis%C3%ADm-sklen%C3%ADkov%C3%BDch-plyn%C5%AF.pdf?fbclid=IwAR0XZUvMPaaNRg3cbghahnFjOh8E9togt7Q-Jae8dpUFQDVvkj4nV6WYEFg).
 
 ## KOMISE PRO CESTOVNÍ RUCH
