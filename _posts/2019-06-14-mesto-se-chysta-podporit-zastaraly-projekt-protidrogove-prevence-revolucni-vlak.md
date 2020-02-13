@@ -37,7 +37,7 @@ Piráti podporují efektivní protidrogovou prevenci. Pro takové účely ovšem
 
 Jan Hošek, zastupitel města a člen Pirátů k tomu podotýká: "_Po absolvování prohlídky musím říct, že to je působivé představení. Problém je, že toto představení je jako prevence užívání návykových látek velmi neúčinné. Školy, které tam žáky posílají, mohou mít pocit, že tímto mají splněnou část povinné prevence rizikového chování a tím tuto problematiku v konečném důsledku zanedbat. To může paradoxně vést k vyššímu ohrožení drogami._" 
 
-
+Aktualizace: V poslední době se objevila nová stanoviska odborníků. [Postoj Evropské společnosti pro preventivní výzkum](http://euspr.org/wp-content/uploads/2019/10/Position-paper-EUSPR-long-version_CZ.pdf) a [Stanovisko České asociace adiktologů](https://www.asociaceadiktologu.cz/l/co-rika-odborna-verejnost-na-revolution-train)
 
  Zdroje:
 
