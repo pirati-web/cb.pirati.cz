@@ -7,7 +7,7 @@ title: >-
   lidé musí vědět na koho se obrátit
 date: '2020-02-15 10:28am'
 author: Lukáš Hypša
-image: /static/media/zuzka_1.jpg
+image: /static/media/zuzka-a-lukas.jpg
 description: 'dostupné bydlení, Zuzana Kudláčková, sociální bydlení, Piráti'
 tags: bydlení Kudláčková
 ---
