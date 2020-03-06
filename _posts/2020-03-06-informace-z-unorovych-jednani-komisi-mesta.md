@@ -14,8 +14,7 @@ description: >-
   Podívejme se, čemu se věnovaly únorové komise očima pirátských nominantů.
 tags: ' '
 ---
-Přinášíme vám informace z komisí města, které zasedly v únoru k projednávání jejich programů. V některých komisích se tentokráte rozdělovaly městské dotace, což je vždy příležitost pro bouřlivější debatu.\
-Podívejme se tedy podrobně, čemu se věnovaly únorové komise očima pirátských nominantů.
+Přinášíme vám informace z komisí města, které zasedly v únoru k projednávání jejich programů. V některých komisích se tentokráte rozdělovaly městské dotace, což je vždy příležitost pro bouřlivější debatu. Podívejme se tedy podrobně, čemu se věnovaly únorové komise očima pirátských nominantů.
 
 ## ŠKOLSKÁ KOMISE
 
