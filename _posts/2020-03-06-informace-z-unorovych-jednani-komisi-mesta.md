@@ -52,6 +52,6 @@ V únoru se také sešla komise pro cestovní ruch a hlavním bodem na programu 
 
 Komise si poprvé vyzkoušela nový způsob hodnocení jednotlivých projektů, kdy si všichni členové komise předem rozdělili projekty a takto přidělené jednotlivé žádosti podrobně před zasedáním komise prozkoumali. O výsledcích a svých doporučeních následně informovali ostatní členy na vlastním zasedání komise. 
 
-“_Jsem přesvědčen, že tento způsob hodnocení je daleko kvalitnější než v minulosti používaný systém, kdy všichni komisaři zevrubně prošli všechny projekty a následně v časovém tlaku mohlo docházet k povrchnímu zhodnocení_”, hodnotí **Jaroslav Hansal** nový způsob hodnocení komise. 
+“_Jsem přesvědčen, že tento způsob hodnocení je daleko kvalitnější než v minulosti používaný systém, kdy všichni komisaři zevrubně prošli všechny projekty a následně v časovém tlaku mohlo docházet k povrchnímu zhodnocení_”, hodnotí **Jaroslav Hansal** nový způsob práce komise. 
 
 Z 29 žádostí neobdrželo celkem 7 žádostí dotaci žádnou, naopak u 10 žádostí byla přidělena dotace ve 100% výši. Je jen velká škoda, že většina projektů i žadatelů se rok od roku opakuje. Na vině je malá propagace dotačního projektu mezi podnikateli činnými v cestovním ruchu. Komise se shodla na tom, že větší propagace tohoto dotačního programu bude cílem na další rok.
