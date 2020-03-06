@@ -43,11 +43,7 @@ V posledním bodu Různé byla Sportovní komise informována o jednáních prac
 
 ## KOMISE PRO ŽIVOTNÍ PROSTŘEDÍ
 
-“_Na komisi pro životní prostředí jsme se nejprve podrobně zabývali zajímavým projektem stavby teplovodní přípojky z Temelína do Českých Budějovic. Je to skvělý nápad, jak využít odpadní teplo a nespálit každý rok tisíce a tisíce tun uhlí zbytečně._
-
-_Samozřejmě se taková stavba neobejde bez zásahů do krajiny, např. kácení stromů. Náhradní výsadba se ale zdá být zajímavě a nápaditě připravena, tak si počkám na výsledek. _
-
-_Dále jsme dali radě několik tipů, jak zvýšit čistotu našeho města. Na základě přednesených informací a zkušeností odboru ŽP jsem navrhl usnesení, aby město aktivně informovalo ty podnikatele, kteří soustavně porušují zákony a vyhlášky ohledně umisťování odpadu ze svých provozů, a často o tom ani nevědí, nebo nevědí, jaké jim hrozí pokuty. Důsledkem jsou potom přeplněné kontejnery nebo nevzhledné povalující se pytle okolo nich_”, komentuje průběh komise **Dan Leština**. 
+“_Na komisi pro životní prostředí jsme se nejprve podrobně zabývali zajímavým projektem stavby teplovodní přípojky z Temelína do Českých Budějovic. Je to skvělý nápad, jak využít odpadní teplo a nespálit každý rok tisíce a tisíce tun uhlí zbytečně. Samozřejmě se taková stavba neobejde bez zásahů do krajiny, např. kácení stromů. Náhradní výsadba se ale zdá být zajímavě a nápaditě připravena, tak si počkám na výsledek. Dále jsme dali radě několik tipů, jak zvýšit čistotu našeho města. Na základě přednesených informací a zkušeností odboru ŽP jsem navrhl usnesení, aby město aktivně informovalo ty podnikatele, kteří soustavně porušují zákony a vyhlášky ohledně umisťování odpadu ze svých provozů, a často o tom ani nevědí, nebo nevědí, jaké jim hrozí pokuty. Důsledkem jsou potom přeplněné kontejnery nebo nevzhledné povalující se pytle okolo nich_”, komentuje průběh komise **Dan Leština**. 
 
 Navrženo bylo ještě jedno vstřícné řešení - zvážení zapojení některých podnikatelů do systému svozu odpadů z domácností, za určitý poplatek. Tato kombinace by mohla přispět k větší transparentnosti v této problematice a obecně lepší atmosféře místo současného “dělej si se svým odpadem co chceš, dokud tě nikdo nechytí”.
 
