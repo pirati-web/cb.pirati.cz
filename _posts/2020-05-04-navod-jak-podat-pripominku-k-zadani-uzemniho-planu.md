@@ -13,7 +13,7 @@ description: >
   pravděpodobně až v roce 2040 a mezi tím budou veškeré změny velmi nákladné. 
 tags: ' '
 ---
-**Občané Českých Budějovic mají nyní jedinečnou příležitost zasáhnout do územního plánu, který ovlivní podobu města na dalších 20 let. Možnost změnit využití jednotlivých pozemků je nyní dostupná zdarma, další taková bude pravděpodobně až v roce 2040 a mezi tím budou veškeré změny velmi nákladné. **
+**Občané Českých Budějovic mají nyní jedinečnou příležitost zasáhnout do územního plánu, který ovlivní podobu města na dalších 20 let. Možnost změnit využití jednotlivých pozemků je nyní dostupná zdarma, další taková bude pravděpodobně až v roce 2040 a mezi tím budou veškeré změny velmi nákladné.**
 
 **Připomínka k Zadání územního plánu musí obsahovat:**
 
