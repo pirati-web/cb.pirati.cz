@@ -5,7 +5,7 @@ category: blog
 title: Piráti mají návrh skutečné pomoci budějovickým podnikatelům
 date: '2020-05-11 06:46am'
 author: Bc. Jan Hošek
-image: /static/media/podnikateleprior.jpg
+image: /static/media/pomoc.jpg
 description: >
   Vládní opatření proti šíření koronaviru tvrdě dopadají na českou ekonomiku,
   přičemž jednou z nejohroženějších skupin jsou drobní podnikatelé. Drtivá
