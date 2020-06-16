@@ -12,6 +12,8 @@ Odpady. Velké téma současnosti a ještě větší do budoucna. Dnes to vypad�
 
 Město se k problému odpadu musí nějak postavit. V současné době vzniká plán jak. Ten plán připravuje českobudějovická Teplárna. Proč? Protože jednou z dalších možností je odpadky spalovat, a tak z nich získat teplo a elektřinu. Plán není v jádru špatný, nicméně máme-li si vybrat, tak upřednostňujeme podporovat principy třídění a opětovného používání. To se dá dělat různými způsoby a vybudování spalovny mezi ně nepatří.
 
+![RADOST](/static/media/skladka-spalovna.jpg)
+
 ## 160 tisíc tun odpadků z celého kraje?
 
 Jedním z problémů je kapacita navržené spalovny. Z logiky věci vyplývá, že čím větší, tím bude výhodnější ekonomicky. V plánu je proto postavit ji co největší a svážet do Budějovic odpadky z celého kraje (má jich ročně spálit 160 tisíc tun). Kromě extrémního navýšení dopravy (zhruba 50 kamionů denně!) může totiž velmi snadno dojít k tomu, že nebude-li se dostávat odpadu našeho, začneme ho dovážet odjinud, ať už jiných krajů, nebo z ciziny.
