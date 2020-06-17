@@ -17,7 +17,7 @@ Přinášíme vám informace z komisí města, které zasedly v květnu k projed
 
 ## SPORTOVNÍ KOMISE
 
-Komise se sešla 26. května a na programu byl tradiční bod - byla projednána žádost HC LVI 2009 z.s. o příspěvek na profesionálního trenéra ve výši 300 000 Kč. Sportovní komise této žádosti nedoporučila vyhovět. Dále zde byl bod Různé, kde se například řešil OP č. 2 "Příspěvek na činnost mládežnických preferovaných klubů", kdy zde padl návrh tento program pro příští rok použít jako rezervu pro kluby nejvíce postižené krizí vzniklou přijatými opatřeními proti šíření koronaviru. 
+Komise se sešla 26. května a na programu byl již skoro tradiční bod - byla projednána jedna z dalších žádostí HC LVI 2009 z.s. o příspěvek na profesionálního trenéra ve výši 300 000 Kč (samozřejmě opět mimo klasickou žádost v rámci některého dotačního titulu na sport). Sportovní komise této žádosti nedoporučila vyhovět. Dále zde byl bod Různé, kde se například řešil OP č. 2 "Příspěvek na činnost mládežnických preferovaných klubů", kdy zde padl návrh tento program pro příští rok použít jako rezervu pro kluby nejvíce postižené krizí vzniklou přijatými opatřeními proti šíření koronaviru. 
 
 "_Za mě jako člena sportovní komise se mi tento nápad velmi líbí a to i v souvislosti s tím, že většina klubů, které v rámci tohoto dotačního programu žádají, jsou již financování jiným způsobem - například v rámci samostatného memoranda. Dále jsem se v bodu různé dotazoval na realizaci naplánovaných akčních plánů v rámci Plánu rozvoje sportu nicméně na tento dotaz jsem nedostal odpověď - přislíbeno, že bude zodpovězeno na další SK._", informuje **Pavel Šramhauser**. Celý zápis ze zasedání [zde](https://www.c-budejovice.cz/sites/default/files/obsah/Odbory/zapis_sk_2020_26-05.pdf).
 
