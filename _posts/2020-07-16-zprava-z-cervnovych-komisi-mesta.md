@@ -13,7 +13,7 @@ description: >-
   prázdniny se většina komisí scházet nebude.
 tags: ' '
 ---
-Přinášíme vám informace z komisí města, které zasedly v červnu k projednávání svých programů. Konečně se tedy opět po koronavirové krizi rozběhl standardní provoz komisí. Přinášíme vám krátký report z 5 aktivních komisí města. Přes prázdniny se většina komisí scházet nebude.
+Přinášíme vám informace z komisí města, které zasedly v červnu k projednávání svých programů. Konečně se tedy opět po koronavirové krizi rozběhl standardní provoz komisí. Přinášíme vám krátký report z 6 aktivních komisí města. Přes prázdniny se většina komisí scházet nebude.
 
 ## ŠKOLSKÁ KOMISE
 
