@@ -25,8 +25,8 @@ Na druhém jednání ze dne 25.11. 2020 sociální komise byla řešena právě 
 
 ## KOMISE PRO ARCHITEKTURU A ÚZEMNÍ ROZVOJ
 
-**Výsledky soutěže na chodník na Pražské třídě
-**
+
+**Výsledky soutěže na chodník na Pražské třídě**
 
 V úvodu předseda komise Mirek Vodák představil výsledky architektonické soutěže na nové řešení chodníku Pražská, které se zúčastnily 4 z 5 vyzvaných ateliérů. Vybrán byl návrh od zlínského studia Ellement. Komise upozornila, že u všech návrhů je potřeba vyřešit majetkové vztahy alespoň u objektu v místě autobusové zastávky a s ostatními subjekty v území vést ve fázi dopracování studie diskusi o možné spolupráci. Koordinace jednotlivých záměrů může mít výrazný vliv na celkové vyznění konečného architektonického řešení.
 
@@ -39,8 +39,8 @@ Doporučení pro dopracování návrhu:
 * Ověřit navržené řešení z pohledu inženýrských sítí.
 * Dopracovat konkrétní materiálové řešení a návrh umělého osvětlení. 
 
-**Bytový dům Zachariášova
-**
+
+**Bytový dům Zachariášova**
 
 Architekt Jiří Brůha prezentoval studii bytového domu na nároží ulic Zachariášova a Klostermannova. Pro toto území je charakteristická různorodá zástavba z druhé poloviny dvacátého století, kdy se na relativně malém území setkává středněpodlažní obytná bloková struktura a vysokopodlažní zástavba ve formě tří třináctipodlažních bodových bytových domů, toho typu nejvyšších v ČB. Navrhovaný bytový dům je navržen v souladu s platným územním plánem města. Dům má 12 nadzemních podlaží a celkovou kapacitu 84 bytových jednotek. Členové komise diskutovali o navrženém urbanistickém, architektonickém a dopravním řešení a doporučili zástupci investora (arch. Brůha) upravit projekt v následujících bodech:
 
@@ -77,9 +77,9 @@ Sportovní komise se sešla až na jednoho člena online v plném počtu. V prvn
 
 ## KOMISE PRO CESTOVNÍ RUCH
 
-V listopadové komisi bylo hlavním bodem programu** hodnocení činnosti destinační společnosti** Českobudějovicko-Hlubocko z.s. V létě bylo několik smluvených akcí zrušeno z důvodu zaplněných ubytovacích kapacit. Povedlo se získat nové eventy - Spartan Race, Famfrpál, Highjump a další akce. Větší část akcí se uskuteční mimo ČB. Na vysvětlenou destinační agentura uvedla, že pořadatelům je nabízeno Budějovicko jako celek a pořadatel si určuje místo konání. Je plánován program pro turistickou oblast Budějovicko „Restart cestovního ruchu“. Je rozjednáno také několik velkých investiční projektů - například vodní park ve Čtyrech Dvorech, zábavní park a další. Dle našeho zástupce **Jaroslava Hansala** je počet eventů pořádaných přímo v Českých Budějovicích trochu za očekáváním a je otázkou, zda se investovaný milion korun z rozpočtu města v získaných eventech vyplatil. Návratnost této investice budeme i nadále sledovat na webu destinační společnosti www.cb-hl.cz, kde budou průběžně zveřejňovány informace k přínosu proběhlých akcí (finanční, návštěvní atd.).
+V listopadové komisi bylo hlavním bodem programu **hodnocení činnosti destinační společnosti** Českobudějovicko-Hlubocko z.s. V létě bylo několik smluvených akcí zrušeno z důvodu zaplněných ubytovacích kapacit. Povedlo se získat nové eventy - Spartan Race, Famfrpál, Highjump a další akce. Větší část akcí se uskuteční mimo ČB. Na vysvětlenou destinační agentura uvedla, že pořadatelům je nabízeno Budějovicko jako celek a pořadatel si určuje místo konání. Je plánován program pro turistickou oblast Budějovicko „Restart cestovního ruchu“. Je rozjednáno také několik velkých investiční projektů - například vodní park ve Čtyrech Dvorech, zábavní park a další. Dle našeho zástupce **Jaroslava Hansala** je počet eventů pořádaných přímo v Českých Budějovicích trochu za očekáváním a je otázkou, zda se investovaný milion korun z rozpočtu města v získaných eventech vyplatil. Návratnost této investice budeme i nadále sledovat na webu destinační společnosti www.cb-hl.cz, kde budou průběžně zveřejňovány informace k přínosu proběhlých akcí (finanční, návštěvní atd.).
 
-V dalším bodu komise projednávala** aktivity na řekách na území města**. Bylo vyjasněno “zjevení” dalšího hausbotu na Slepém rameni Malše. V těchto místech je povolené kotviště, umístění hausbotu bylo řádně projednáno a schváleno. Nelze proti tomu nic namítat, je komise vyjádřila překvapení, že o tomto záměru nebyla nikdy informována. 
+V dalším bodu komise projednávala **aktivity na řekách na území města**. Bylo vyjasněno “zjevení” dalšího hausbotu na Slepém rameni Malše. V těchto místech je povolené kotviště, umístění hausbotu bylo řádně projednáno a schváleno. Nelze proti tomu nic namítat, je komise vyjádřila překvapení, že o tomto záměru nebyla nikdy informována. 
 
 Pokračovalo se představením programu pro pomoc turistickému ruchu pomocí programu “**Restart cestovního ruchu v roce 2021**”. Členové komise budou tento bod řešit i na dalším jednání komise dne 16.12.2020, kde by měly zaznít návrhy v otázce restartu cestovního ruchu.
 
