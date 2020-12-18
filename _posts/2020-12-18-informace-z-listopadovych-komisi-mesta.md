@@ -25,7 +25,6 @@ Na druhém jednání ze dne 25.11. 2020 sociální komise byla řešena právě 
 
 ## KOMISE PRO ARCHITEKTURU A ÚZEMNÍ ROZVOJ
 
-
 **Výsledky soutěže na chodník na Pražské třídě**
 
 V úvodu předseda komise Mirek Vodák představil výsledky architektonické soutěže na nové řešení chodníku Pražská, které se zúčastnily 4 z 5 vyzvaných ateliérů. Vybrán byl návrh od zlínského studia Ellement. Komise upozornila, že u všech návrhů je potřeba vyřešit majetkové vztahy alespoň u objektu v místě autobusové zastávky a s ostatními subjekty v území vést ve fázi dopracování studie diskusi o možné spolupráci. Koordinace jednotlivých záměrů může mít výrazný vliv na celkové vyznění konečného architektonického řešení.
@@ -38,7 +37,6 @@ Doporučení pro dopracování návrhu:
 * Zvážit umístění dalšího solitérního stromu v severní části řešeného území.
 * Ověřit navržené řešení z pohledu inženýrských sítí.
 * Dopracovat konkrétní materiálové řešení a návrh umělého osvětlení. 
-
 
 **Bytový dům Zachariášova**
 
@@ -71,7 +69,7 @@ V koncepci jsou uvedené odhadované harmonogramy a náklady na projekt, které 
 
 ## SPORTOVNÍ KOMISE
 
-Sportovní komise se sešla až na jednoho člena online v plném počtu. V prvním bodu - informaci z RD byla SK informována** o snížení alokace  pro dotační programy** v oblasti sportu na rok 2021, dále projednala **pravidla dotačního programu** na podporu sportu v roce 2021 a odsouhlasila je. 
+Sportovní komise se sešla až na jednoho člena online v plném počtu. V prvním bodu - informaci z RD byla SK informována **o snížení alokace  pro dotační programy** v oblasti sportu na rok 2021, dále projednala **pravidla dotačního programu** na podporu sportu v roce 2021 a odsouhlasila je. 
 
 "Dále se povedlo obhájit to, aby v příštím roce nebyla zrušena neinvestiční dotace za reprezentaci města za rok 2020 pro děti a mládež od 10 do 18 let - argument, že nebylo možné zrealizovat všechny turnaje je sice pravidivý, ale nevidíme důvod neodměnit mládež za to, že reprezentovala město České Budějovice v roce 2020 tam, kde to šlo - navíc bylo dohodnuto, že při vyhodnocení bude přihlédnuto i k výsledkům z minulých let", shrnuje Pirát **Pavel Šramhauser**.
 
@@ -79,7 +77,7 @@ Sportovní komise se sešla až na jednoho člena online v plném počtu. V prvn
 
 V listopadové komisi bylo hlavním bodem programu **hodnocení činnosti destinační společnosti** Českobudějovicko-Hlubocko z.s. V létě bylo několik smluvených akcí zrušeno z důvodu zaplněných ubytovacích kapacit. Povedlo se získat nové eventy - Spartan Race, Famfrpál, Highjump a další akce. Větší část akcí se uskuteční mimo ČB. Na vysvětlenou destinační agentura uvedla, že pořadatelům je nabízeno Budějovicko jako celek a pořadatel si určuje místo konání. Je plánován program pro turistickou oblast Budějovicko „Restart cestovního ruchu“. Je rozjednáno také několik velkých investiční projektů - například vodní park ve Čtyrech Dvorech, zábavní park a další. Dle našeho zástupce **Jaroslava Hansala** je počet eventů pořádaných přímo v Českých Budějovicích trochu za očekáváním a je otázkou, zda se investovaný milion korun z rozpočtu města v získaných eventech vyplatil. Návratnost této investice budeme i nadále sledovat na webu destinační společnosti www.cb-hl.cz, kde budou průběžně zveřejňovány informace k přínosu proběhlých akcí (finanční, návštěvní atd.).
 
-V dalším bodu komise projednávala **aktivity na řekách na území města**. Bylo vyjasněno “zjevení” dalšího hausbotu na Slepém rameni Malše. V těchto místech je povolené kotviště, umístění hausbotu bylo řádně projednáno a schváleno. Nelze proti tomu nic namítat, je komise vyjádřila překvapení, že o tomto záměru nebyla nikdy informována. 
+V dalším bodu komise projednávala **aktivity na řekách na území města**. Bylo vyjasněno “zjevení” dalšího hausbotu na Slepém rameni Malše. V těchto místech je povolené kotviště, umístění hausbotu bylo řádně projednáno a schváleno. Nelze proti tomu nic namítat, jen komise vyjádřila překvapení, že o tomto záměru nebyla nikdy informována. 
 
 Pokračovalo se představením programu pro pomoc turistickému ruchu pomocí programu “**Restart cestovního ruchu v roce 2021**”. Členové komise budou tento bod řešit i na dalším jednání komise dne 16.12.2020, kde by měly zaznít návrhy v otázce restartu cestovního ruchu.
 
