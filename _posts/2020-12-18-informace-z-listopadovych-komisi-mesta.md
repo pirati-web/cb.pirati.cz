@@ -13,7 +13,7 @@ description: >-
   komisí. Piráti pracují! 
 tags: komise
 ---
-Přinášíme vám informace ze čtyř komisí města, které zasedly v listopadu k projednávání svých programů. A že bylo, i přes situaci s COVID 19, co probírat, se můžete sami přesvědčit v pravidelném reportu od pirátských členů komisí. Piráti pracují! 
+Přinášíme vám informace z pěti komisí města, které zasedly v listopadu k projednávání svých programů. A že bylo, i přes situaci s COVID 19, co probírat, se můžete sami přesvědčit v pravidelném reportu od pirátských členů komisí. Piráti pracují! 
 
 ## SOCIÁLNÍ KOMISE
 
@@ -86,6 +86,7 @@ Představení nového **turistického loga města** - komise vydala usnesení, k
  používání v logomanuálu, nebylo komunikováno s komisí.
 
 ## KOMISE PRO ŽIVOTNÍ PROSTŘEDÍ
+
 Komise se sešla mimořádně, a to kvůli kácení a potenciálnímu poškození dřevin v parku Dukelská, ke kterému jsme vydali [samostatný článek](https://cb.pirati.cz/blog/2020/11/23/jednali-jsme-o-zachovani-stromu-v-parku-v-dukelske/). 
 
-Druhým tématem byly pravidla dotačního titulu na příští rok. Pirátský zástupce Dan Leština připravil jejich komplexní úpravu, kterou podpořili i ostatní členové komise napříč politickým spektrem. Občané tak budou mít nyní přehledněji stanoveno, na co jim může město v této oblasti přispět. Ale stejně jako v minulých letech bude komise přidělovat peníze spolkům, soukromých subjektům i občanům na úklidové akce, přírodovědne vycházky, zvelebování veřejných prostranství, zahradničení v mateřských školkách a podobně. Celkem bude alokováno pravděpodobně 1 200 000 Kč, každému projektu se může přidělit až 100 000 Kč. Budeme moc rádi, pokud svůj nápad přihlásíte, ať má komise z čeho vybírat! Definitivní podoba programu bude vyhlášena po Novém roce.
+Druhým tématem byly pravidla dotačního titulu na příští rok. Pirátský zástupce **Dan Leština** připravil jejich komplexní úpravu, kterou podpořili i ostatní členové komise napříč politickým spektrem. Občané tak budou mít nyní přehledněji stanoveno, na co jim může město v této oblasti přispět. Ale stejně jako v minulých letech bude komise přidělovat peníze spolkům, soukromých subjektům i občanům na úklidové akce, přírodovědne vycházky, zvelebování veřejných prostranství, zahradničení v mateřských školkách a podobně. Celkem bude alokováno pravděpodobně 1 200 000 Kč, každému projektu se může přidělit až 100 000 Kč. Budeme moc rádi, pokud svůj nápad přihlásíte, ať má komise z čeho vybírat! Definitivní podoba programu bude vyhlášena po Novém roce.
