@@ -4,7 +4,7 @@ published: true
 category: blog
 title: 'Dan Leština: Doufám, že program podpory životního prostředí využije v příštím roce co nejvíce občanů'
 date: '2020-12-29 03:06pm'
-author: Dan Leština
+author: Luboš Kudláček
 image: /static/media/podpora-zp.jpg
 description: Dan Leština je člen Zastupitelstva Jihočeského kraje a člen komise pro životní prostředí Rady města České Budějovice. Právě činnost v komisi bude i tématem dnešního rozhovoru. Co vlastně člen komise dělá, čím se zabývá? A co aktuálního Dan řeší?
 
