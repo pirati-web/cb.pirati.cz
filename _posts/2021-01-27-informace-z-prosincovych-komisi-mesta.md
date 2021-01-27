@@ -5,6 +5,7 @@ category: blog
 title: INFORMACE Z PROSINCOVÝCH KOMISÍ MĚSTA
 date: '2021-01-27 05:46am'
 author: Filip Landa
+image: /static/media/samsonx.jpg
 description: >-
   Přinášíme vám informace ze čtyř komisí města, které zasedly v prosinci online
   k projednávání svých programů. 
