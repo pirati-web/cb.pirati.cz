@@ -7,7 +7,7 @@ title: >-
   Jaroslav Hansal
 date: '2021-02-04 03:44pm'
 author: Luboš Kudláček
-image: /static/media/hansal_fotowb.jpg
+image: /static/media/night-969853_640.jpg
 description: >-
   Českobudějovické zastupitelstvo opouští lídr krajských voleb v Jihočeském
   kraji a současný krajský zastupitel Lukáš Mareš, v zastupitelstvu ho nahradí
