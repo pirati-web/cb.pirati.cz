@@ -2,7 +2,7 @@
 layout: blog
 published: true
 category: blog
-title: INFORMACE Z PROSINCOVÝCH KOMISÍ MĚSTA
+title: INFORMACE Z LEDNOVÝCH KOMISÍ MĚSTA
 date: '2021-02-12 05:10pm'
 author: Jaroslav Hansal
 image: /static/media/slepyrameno.jpg
