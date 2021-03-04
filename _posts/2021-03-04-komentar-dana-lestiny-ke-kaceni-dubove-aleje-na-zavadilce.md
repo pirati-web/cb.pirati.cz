@@ -10,6 +10,8 @@ description: 'Na Zavadilce v blízkosti sídliště Máj padla alej starých dub
 ---
 **Na Zavadilce v blízkosti sídliště Máj padla alej starých dubů přiléhající k lesní pasece. Nebudu nyní komentovat právní stránku věci, důležitější je položit si následující otázku: K čemu město podnik Lesy a rybníky, který místo spravuje a kácení provedl, vlastně má? Nemělo by být jeho poslání širší, než jen hospodářský zisk?**
 
+![](/static/media/duby-zavadilka-full.jpg)
+
 Zástupci společnosti argumentují mimo jiné tím, že území bylo navržené k vykácení v rámci lesnického hospodářského plánu, že duby stínily na přilehlou vykácenou holinu a ztěžovaly tak opětovné zalesnění. To by šlo jistě chápat, pokud bychom se bavili se soukromým podnikatelem, jehož legitimním zájmem je mít lesnicky co nejkvalitnější, a tedy nejziskovější porost.
 
 Tento podnik i les ale patří občanům. Vyváží tyto zhruba desetitisíce korun zisku města službu, kterou by alej svým zachováním poskytovala občanům sídliště a Zavadilky a také místní přírodě? V tomto případě podle mě určitě ne.
