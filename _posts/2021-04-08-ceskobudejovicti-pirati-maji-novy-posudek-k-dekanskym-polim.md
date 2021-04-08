@@ -5,7 +5,7 @@ category: blog
 title: Českobudějovičtí Piráti mají nový posudek týkající se vlastnictví pozemků na Děkanských polích
 date: '2021-04-08 15:59pm'
 author: Josef Špak
-image: /static/media/dekanska-pole.png
+image: /static/media/josef_spak.jpg
 description: >
   Pirátští zastupitelé v Českých Budějovicích pokračují v řešení situace týkající se pozemků na Děkanských polích. O celém případu informoval ve svém komentáři Josef Špak 24. března 2021. Na základě dotazů a připomínek zastupitelů si nyní zastupitelský klub Pirátů zadal ke zpracování shrnující odborný posudek od Marka Starého z Právnické fakulty Univerzity Karlovy. Obsahuje stručné a přehledné shrnutí předchozího posouzení téhož autora a nově reaguje mimo jiné na „Odbornou teoretickou studii Západočeské univerzity v Plzni“ a rozhodnutí soudů.
 
