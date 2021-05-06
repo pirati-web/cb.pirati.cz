@@ -32,7 +32,7 @@ Připomeňme si jen opravy a rekonstrukce za posledních 5 let:
 
 
 
-**Pokud to sečteme, tak za necelých 6 let byla plovárna uzavřena celkem 2 roky **
+**Pokud to sečteme, tak za necelých 6 let byla plovárna uzavřena celkem 2 roky.**
 
 
 
