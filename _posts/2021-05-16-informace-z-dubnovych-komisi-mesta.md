@@ -57,7 +57,7 @@ Z pohledu Komise je příliš brzo na doplňující návrhy, jedná se spíše o
 
 
 
-Marketingová podpora turistického portálu** budejce.cz**
+Marketingová podpora turistického portálu **budejce.cz**
 
 Autorem návrhu nové smlouvy marketingové podpory je náš člen komise **Jaroslav Hansal**, který navrhl původní smlouvu změnit tak, aby nepřesné body byly lépe popsány, aby bylo jasné, jaké peníze náleží správci, a které slouží k dobíjení kreditu na reklamy. Hlavní body návrhu: nastavení kontroly, určení pověřené osoby, která by mohla nahlížet do statistik a výsledků reklamy vč. přístupu pro komisi, penále když nejsou dodrženy cíle + rozšíření PPC reklamy a optimalizace pro vyhledávače SEO. Komise dále přijala vlastní usnesení, kde navrhla Radě města zvážit spojení správy webu budejce.cz s jeho marketingovou podporou.
 
