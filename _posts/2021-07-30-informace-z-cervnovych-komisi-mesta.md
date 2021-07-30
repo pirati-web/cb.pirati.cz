@@ -19,7 +19,7 @@ Komise již poněkolikáté řešila problematiku obsazení a případné budouc
 
 
 
-Členové komise po další vzájemné diskuzi a argumentaci přijali usnesení, které většinou hlasů doporučuje zřídit příspěvkovou organizaci Kanceláře architekta města (např. po vzoru Brna, Ostravy či Karlových Varů). “Usnesení a výsledek hlasování je v závěru zápisu z komise - vzhledem ke složitosti problematiky se komisaři domluvili, že do zápisu jednotlivě uvedou důvody ke svému hlasování. Jediný, kdo hlasoval proti, byl zastupitel z klubu ANO Petr Stehlík, podle něhož stávající ÚHA funguje dobře. Paradoxní je, že jednání komise nebyl (jako obvykle) přítomen vedoucího odboru ÚHA pan Šram,” informuje** Filip Landa**. 
+Členové komise po další vzájemné diskuzi a argumentaci přijali usnesení, které většinou hlasů doporučuje zřídit příspěvkovou organizaci Kanceláře architekta města (např. po vzoru Brna, Ostravy či Karlových Varů). “Usnesení a výsledek hlasování je v závěru zápisu z komise - vzhledem ke složitosti problematiky se komisaři domluvili, že do zápisu jednotlivě uvedou důvody ke svému hlasování. Jediný, kdo hlasoval proti, byl zastupitel z klubu ANO Petr Stehlík, podle něhož stávající ÚHA funguje dobře. Paradoxní je, že jednání komise nebyl (jako obvykle) přítomen vedoucího odboru ÚHA pan Šram,” informuje **Filip Landa**. 
 
 
 
@@ -41,4 +41,4 @@ Na programu komise bylo především průběžné informování o činnosti dest
 
 Další připravované projekty: podpora karavaningu,  vznikající cyklostezky: Boršov n. Vltavou – ČB, Holašovice – ČB, Lipno n. Vltavou – ČB – Týn n. Vltavou,  vznik Wakeboardového místa na Nemanickém rybníku, surfovací vlna v Českém Vrbném, v roce 2022 proběhnou akademické hry.  
 
-Dále padl návrh (pokračování jednání z květnové komise) na marketingové sjednocení TO Budějovicko. Po všech připomínkách a zhodnocení záporů a kladů nebylo přijato.** Jaroslav Hansal** vyhotoví audit funkčnosti a chyb portálu budejce.cz a předloží na příští komisi.
+Dále padl návrh (pokračování jednání z květnové komise) na marketingové sjednocení TO Budějovicko. Po všech připomínkách a zhodnocení záporů a kladů nebylo přijato. **Jaroslav Hansal** vyhotoví audit funkčnosti a chyb portálu budejce.cz a předloží na příští komisi.
