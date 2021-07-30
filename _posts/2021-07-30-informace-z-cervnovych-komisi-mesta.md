@@ -5,6 +5,7 @@ category: blog
 title: INFORMACE Z ČERVNOVÝCH KOMISÍ MĚSTA
 date: '2021-07-30 06:53am'
 author: Jaroslav Hansal
+image: /static/media/czech-budejovice-112165_640.jpg
 description: >-
   Přinášíme vám informace ze 3 proběhlých komisí rady města, které zasedly v
   červnu k projednávání svých programů.
