@@ -3,7 +3,7 @@ layout: blog
 published: true
 category: blog
 title: Piráti z Českých Budějovic upozorňují na rozhodnutí rady města, která se i přes rozhodnutí zastupitelů nechce soudit o pozemky na Děkanských polích, celý případ se tak znovu otevře na jednání zastupitelstva
-date: '2021-05-12 19:59pm'
+date: '2021-10-20 13:59pm'
 author: Piráti České Budějovice
 image: /static/media/cbzas.jpg
 description: >
