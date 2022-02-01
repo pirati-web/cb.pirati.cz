@@ -3,7 +3,7 @@ layout: blog
 published: true
 category: blog
 title: Českobudějovičtí Piráti souhlasí s úpravou parku v Dukelské ulici, varují ale před riziky pro stávající stromy
-date: '2022-02-01 08:53pm'
+date: '2022-02-01 07:53pm'
 author: Piráti
 image: /static/media/dan-lestina.jpg
 description: >-
