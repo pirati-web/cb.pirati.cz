@@ -2,7 +2,7 @@
 layout: blog
 published: true
 category: blog
-title: Blog Dana Leštiny: Ani úprava parku není černobílá. Pár slov k Dukelské a parkům obecně
+title: "Blog Dana Leštiny: Ani úprava parku není černobílá. Pár slov k Dukelské a parkům obecně"
 date: '2022-03-21 01:00pm'
 author: Piráti
 image: /static/media/parkdukel.jpg
