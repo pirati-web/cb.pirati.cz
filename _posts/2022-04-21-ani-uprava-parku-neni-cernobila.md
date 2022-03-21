@@ -1,0 +1,51 @@
+---
+layout: blog
+published: true
+category: blog
+title: Blog Dana Leštiny: Ani úprava parku není černobílá. Pár slov k Dukelské a parkům obecně
+date: '2022-03-21 01:00pm'
+author: Piráti
+image: /static/media/parkdukel.jpg
+description: >-
+  Ani úprava parku není černobílá. Pár slov k Dukelské a parkům obecně
+tags: park dukelská
+---
+V době, kdy se začíná se stavební činností v českobudějovickém parku u Dukelské ulice, mi dovolte malé zamyšlení, které sice píšu především proto, abych uvedl některé argumenty z čilé veřejné debaty na pravou míru, ale doufám, že bude mít i obecnější platnost.
+
+Jako na každém jiném kousku prostoru v naší zalidněné střední Evropě se tu střetávají různé oprávněné zájmy a požadavky. Tím spíše, je-li ten kousek ve veřejném vlastnictví a vlastně by měl sloužit všem. Nikdy ale nejde vyhovět všem pohledům zcela.
+
+Určitě je důležitý pohled estetický. To je zcela subjektivní záležitost, nicméně pokud bychom chtěli něco extra, mohli bychom prostor nechat třeba nějakému dobrému landartovému umělci „na hraní“, jistě by tam vytvořil [neskutečnou podívanou](https://www.gibbsfarm.org.nz/artworks.php).
+
+Zároveň je ale nutné myslet na potřebnou adaptaci na klimatickou změnu a pokud je řeč o městském prostoru, např. na jeho ochlazování v letních vedrech. Ideálně v něm ponechat co nejvíce stromů, ale zároveň zajistit, aby se v žádném okamžiku v budoucnosti nestalo, že budeme najednou mít park plný přestárlých stromů, které musí pryč všechny najednou. Naopak bychom je měli průběžně obnovovat, jednou za pár let vykácet malou část parku a vysadit stromy nové, ideálně těch nejodolnějších druhů, jako je třeba akát. O všechny stromy, nové i staré, intenzivně pečovat, udržovat je zdravé a trvale je zavlažovat, což podpoří i jejich funkci jako klimatizační jednotky.
+
+Taková péče ale zase neodpovídá tomu, co by potřebovala česká příroda. Ohroženým druhům v ní naopak chybí přestárlé a pomalu umírající stromy s proschlými větvemi, přirozeně se rozpadající. Navíc obecně máme [zalesněných míst nejvíce v historii](https://vesmir.cz/cz/casopis/archiv-casopisu/2011/cislo-10/bezlesi-ceske-krajine.html), mezi [nejohroženějšími biotopy](https://www.ochranaprirody.cz/res/archive/333/071655.pdf?seek=1593498355) zdaleka nepřevažují ty lesní a mezi ohroženými druhy jsou především druhy vyžadující [světlé lesy](http://www.forumochranyprirody.cz/sites/default/files/ohrozeny_hmyz_nizinnych_lesu.pdf) nebo přímo [louky, trávníky](http://www.forumochranyprirody.cz/sites/default/files/ohrozeny_hmyz_nelesnich_stanovist.pdf) a [polní meze](https://www.birdlife.cz/co-delame/vyzkum-a-ochrana-ptaku/ochrana-lokalit-a-prostredi/zemedelstvi/). Pro přírodu by tedy bylo nejlepší stromy spíše proředit, aby se mohlo rozvinout bylinné patro. A třeba polovinu ponechaných stromů [radikálně ořezat](https://www.jarojaromer.cz/zoostromy/) tak, aby se v nich vytvořily dutiny pro ptáky, netopýry a hmyz a aby na nich byl dostatek sice již mrtvého, ale stále stojícího a osluněnéno dřeva. Také by bylo vhodné odstranit všechny nepůvodní druhy, zejména nebezpečné invazní akáty, a ideálně doplnit nějakou [periodicky vysychající tůňku](https://mokrady.wbs.cz/Periodicke-tune.html) nebo třeba [písečnou dunu](http://calla.cz/prirodavemeste/travniky/).
+
+Úprava parku do takto divoké podoby ale nepřipadá v úvahu uprostřed města, kde hrozí, že suchá větev na někoho spadne. Z pohledu bezpečnosti by bylo nejlepší zachovat jen stromy zcela zdravé a velmi nízké, které nemohou spadnout na okolní budovy ani komunikace. A zároveň pokud nám místem prochází frekventované cesty pěších a cyklistů, je důležité, aby se všichni dobře vyhnuli a dojeli, kam potřebují. Ideálem by bylo postavit co nejrovnější a nejširší cesty, jejich mimoúrovňové křížení… A jakýkoli sráz, ať už nad vodou nebo ne, by jistě bylo vhodné opatřit zábradlím, kterým ani rozdováděné děti neprolezou.
+
+Všechna řešení, která jsem výše načrtnul, jsou záměrně velmi drahá, abych ilustroval, že vším se prolíná i pohled finanční. Musí se zvažovat náklady na stavbu a na následnou údržbu i doba, za kterou bude potřeba rekonstrukci zopakovat. Město skutečně nemá prostředky ani na vše, co je v něm akutně potřeba opravit a zařídit.
+
+Pokud se navíc nacházíme v místě s historickou tradicí, bylo by pěkné si také ji připomenout. Najít původní plány, kresby a fotografie, abychom viděli, jak to zde vypadalo v minulosti. Následně upravit místo podle toho, obnovit historické rozvržení dřevin a v nějaké podobně i klasicistní obvodovou [zeď s cennými branami, která byla zničena za komunistického režimu](https://cs.wikipedia.org/wiki/Leninovy_sady#Historie). A doplnit důstojnou a zároveň varovnou připomínku [na symbolický hřbitov padlých budějovických nacistů](http://severniceskobudejovicko.cz/2015/08/18/pohrbivani-nemeckych-vojaku-v-ceskych-budejovicich/), který na tomto místě, tehdejší zahradě Německého domu, založili a udržovali jejich kolegové.
+
+Pro městský park je ale asi nejzásadnější pohled architektury veřejného prostoru. Udělat místo takové, kde se lidem bude dobře procházet i zastavovat, kde se budou dobře cítit a kam vyrazí za odpočinkem nebo sportem. To má svá objektivní kritéria, ale kvalitní projekt zajistí jedině poctivá architektonická soutěž mezi projekty, kde jsou na straně účastníků i porotců lidé se zkušenostmi z již úspěšných projektů.
+
+
+Jak těmto myšlenkám odpovídá probíhající úprava parku v Dukelské?
+
+Bude podpořena biodiverzita? Určitě to nebude nic světoborného, jako jsem si namaloval výše, ale myslím, že navržená úprava a hlavně plánovaný způsob následné péče o trávníky živáčkům trochu prospěje. 
+
+Bude respektován historický duch místa z doby, kdy byl park zahradou Německého domu? Ne, ale to nebylo zadání a současný stav mu neodpovídá už vůbec. Od místa nyní vyžadujeme zcela jiné funkce.
+
+Bude park bezpečnější? O něco určitě. Odstraní se některé stromy a větve, které jsou skutečně ve varovném stavu. Ale to by šlo jistě udělat i bez stavebních úprav a stejně tím nevznikne místo vhodné k procházkám za větrné smršti (připomeňme, že oba stromy, které v parku spadly při vichřici v červnu 2021, měly být dle původního projektu ponechány, protože v posudku byly hodnoceny jako v dobrém zdravotním stavu a jen jeden z nich měl mít mírně sníženou stabilitu…) Cyklisté a chodci však budou po úpravě stezek motivováni využívat rozdílné trasy, alespoň to by tedy mělo bezpečnosti prospět. A určitě si nemyslím, že je opodstatněná hysterie z odstranění zábradlí - připomeňme si [happening](https://www.facebook.com/events/2523463777700459/?active_tab=discussion), který nedávno velmi vtipně upozorňoval na absurdnost tohoto strachu jen o 300 metrů dále po proudu.
+
+Bude park hezčí? To záleží na vkusu každého. Já myslím, že ano. Plánovaná podoba se mi docela líbí a ta současná má zásadní nedostatky v podobě neutěšeného stavu mobiliáře, povrchů atd.
+
+Bude zde funkčnější městský prostor? Myslím, že ano. Zpřístupnění říčního břehu udělá hodně, také úprava stezek a trávníků vypadá rozumně. Hlavně si myslím, že celý proces nešel udělat o mnoho lépe. Na místě se pořádalo několik akcí, kde se zjišťovaly názory občanů, co na místě chtějí. Požadavky veřejnosti byly následně zahrnuty do zadání architektonické soutěže, u které nemám důvod pochybovat, že by přizvaná architektonická studia nebo porota odvedly špatnou práci (preferuji spíše soutěže zcela veřejné, ale i tyto „vyzvané“ soutěže mohou velmi dobře splnit svůj účel). 
+
+A co cena, není příliš vysoká? Popravdě mě překvapilo, že je spíš hodně nízká při současných cenách stavebních prací a materiálů (něco přes 30 mil. Kč). Každopádně pro zhotovení vítězného architektonického návrhu byla údajně vybrána stavební firma, která nabídla nejlepší cenu a zároveň splnila všechna kritéria.
+
+Bude park připravenější na klimatickou změnu? To je asi nejspornější otázka. Pokud není dostupný posudek zdravotního stavu stromů zmanipulovaný (text a vysvětlivky [zde](https://d6scj24zvfbbo.cloudfront.net/8555a780f7e7065cb4211820369521f9/200000138-19b9919b9b/Dukelsk%C3%A1%20-%20Slavie.pdf?ph=31e48793d8), samotná tabulka [zde](https://d6scj24zvfbbo.cloudfront.net/8555a780f7e7065cb4211820369521f9/200000139-b2e51b2e53/Tabulky.pdf?ph=31e48793d8)), tak kácení odpovídá rozumné obnově parku, jak jsem ji popsal výše: zdravotní stav těch [stromů, které se kácí](https://d6scj24zvfbbo.cloudfront.net/8555a780f7e7065cb4211820369521f9/200000137-ea388ea38a/D.8.1.a.1_Kaceni%20situace.pdf?ph=31e48793d8), je vesměs hodnocen jako špatný. Výjimkou je jeden mladý akát na břehu a několik ještě menších stromů, které jsou káceny skutečně jen kvůli výstavbě. Ty budou ale mnohonásobně nahrazeny novou výsadbou. Obavy z narušení funkce parku příliš rozsáhlým kácením se mi zdají opravdu přehnané.
+
+Mnohem větší riziko vnímám u potenciálního poškození parku stavebními úpravami. Pokud domluvený dendrologický dohled při stavbě něco zanedbá, pokud při úpravě břehu dojde k poškození kořenového systému nebo pokud se těžké stroje budou pohybovat příliš blízko stromům, které mají být dle projektu zachovány, může to vše ještě skončit i odumřením zachovaných stromů. To by byla velká škoda a projekt by mohl najednou selhávat z pohledu přípravy na klimatickou změnu, zachování biodiverzity a také samotné rekreační funkce prostoru.
+
+Přesně na tato rizika jsme autory projektu a vedení města [včas upozorňovali](https://cb.pirati.cz/blog/2020/11/23/jednali-jsme-o-zachovani-stromu-v-parku-v-dukelske/) a [neúnavně to připomínali](https://cb.pirati.cz/blog/2022/02/01/pirati-souhlasi-s-upravou-parku-varuji-ale-pred-riziky-pro-stromy/). Bylo nám přislíbeno, že nezávislý dozor na stavbě bude a že normy a podmínky dané [zadávací dokumentací a stavebním povolením](https://tenderarena.cz/dodavatel/seznam-profilu-zadavatelu/detail/Z0001977/zakazka/486676) i [stanoviskem ČIŽP](https://cb.pirati.cz/static/doc/dukelska-cizp.pdf), budou dodrženy. Sice se dá velmi sympatizovat s obavou vycházející z neblahých zkušeností z jiných akcí, kdy tomu tak nebylo, ale odsuzovat proto tento projekt na základě minulých scénářů by pro mě bylo jako zavřít někoho za způsobení dopravní nehody už v momentě, kdy teprve sedá do auta: ano, je docela slušná šance, že se stane velký průšvih, ano, je na místě být maximálně obezřetní, ale dokud se projekt řídí všemi nastavenými pravidly, není odsouzení na místě.
+
